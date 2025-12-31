@@ -6,7 +6,6 @@ readme = "README.md"
 authors = [{ name = "Ans Imran", email = "ansimran@protonmail.com" }]
 classifiers = [
     "Development Status :: 4 - Beta",
-    "License :: OSI Approved :: MIT License",
     "Framework :: FastAPI",
     "Programming Language :: Python :: 3.13",
 ]
@@ -66,6 +65,7 @@ dependencies = [
     "pyppeteer>=2.0.0",
     "grandalf>=0.8",
     "tavily>=1.1.0",
+    "selenium>=4.32.0",
 ]
 
 [dependency-groups]

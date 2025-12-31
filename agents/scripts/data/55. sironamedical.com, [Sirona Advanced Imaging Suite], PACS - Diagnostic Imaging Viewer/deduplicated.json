@@ -1,0 +1,1121 @@
+{
+  "link1": {
+    "duplicate list": [
+      "link3",
+      "link5",
+      "link7",
+      "link9",
+      "link10",
+      "link11",
+      "link13",
+      "link15",
+      "link18",
+      "link19",
+      "link25",
+      "link26",
+      "link42",
+      "link48",
+      "link79",
+      "link171"
+    ],
+    "original form": "https://sironamedical.com/",
+    "bare minimum form": "sironamedical.com",
+    "original start position of the current link": 98,
+    "original end position of the current link": 123,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link2": {
+    "duplicate list": [
+      "link49",
+      "link102",
+      "link169"
+    ],
+    "original form": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K251030.pdf",
+    "bare minimum form": "accessdata.fda.gov/cdrh_docs/pdf25/K251030.pdf",
+    "original start position of the current link": 191,
+    "original end position of the current link": 248,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link4": {
+    "duplicate list": [
+      "link168"
+    ],
+    "original form": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?ID=K251030",
+    "bare minimum form": "accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?ID=K251030",
+    "original start position of the current link": 1128,
+    "original end position of the current link": 1202,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link6": {
+    "duplicate list": [
+      "link47",
+      "link50",
+      "link84",
+      "link170"
+    ],
+    "original form": "https://sironamedical.com/fda-clearance-for-advanced-imaging-suite/",
+    "bare minimum form": "sironamedical.com/fda-clearance-for-advanced-imaging-suite",
+    "original start position of the current link": 1873,
+    "original end position of the current link": 1939,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link8": {
+    "duplicate list": [
+      "link27"
+    ],
+    "original form": "https://www.prnewswire.com/news-releases/sirona-medical-receives-fda-510k-clearance-for-advanced-imaging-suite-expanding-class-ii-medical-device-functionality-and-pet-ct-capabilities-302599163.html",
+    "bare minimum form": "prnewswire.com/news-releases/sirona-medical-receives-fda-510k-clearance-for-advanced-imaging-suite-expanding-class-ii-medical-device-functionality-and-pet-ct-capabilities-302599163.html",
+    "original start position of the current link": 2879,
+    "original end position of the current link": 3075,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link12": {
+    "duplicate list": [],
+    "original form": "https://sironamedical.com/reporting/",
+    "bare minimum form": "sironamedical.com/reporting",
+    "original start position of the current link": 4502,
+    "original end position of the current link": 4537,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link14": {
+    "duplicate list": [],
+    "original form": "https://sironamedical.com/rsna-2025/",
+    "bare minimum form": "sironamedical.com/rsna-2025",
+    "original start position of the current link": 5135,
+    "original end position of the current link": 5170,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link16": {
+    "duplicate list": [
+      "link41"
+    ],
+    "original form": "https://sironamedical.com/privacy-policy/",
+    "bare minimum form": "sironamedical.com/privacy-policy",
+    "original start position of the current link": 5780,
+    "original end position of the current link": 5820,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link17": {
+    "duplicate list": [],
+    "original form": "mailto:contact@sironamedical.com",
+    "bare minimum form": "mailto:contact@sironamedical.com",
+    "original start position of the current link": 5975,
+    "original end position of the current link": 6006,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link20": {
+    "duplicate list": [],
+    "original form": "sironamed.com",
+    "bare minimum form": "sironamed.com",
+    "original start position of the current link": 9180,
+    "original end position of the current link": 9192,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link21": {
+    "duplicate list": [],
+    "original form": "research.md",
+    "bare minimum form": "research.md",
+    "original start position of the current link": 10488,
+    "original end position of the current link": 10498,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link22": {
+    "duplicate list": [],
+    "original form": "summaries.Let",
+    "bare minimum form": "summaries.let",
+    "original start position of the current link": 11609,
+    "original end position of the current link": 11621,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link23": {
+    "duplicate list": [],
+    "original form": "documentation.Let",
+    "bare minimum form": "documentation.let",
+    "original start position of the current link": 11747,
+    "original end position of the current link": 11763,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link24": {
+    "duplicate list": [],
+    "original form": "platform.Now",
+    "bare minimum form": "platform.now",
+    "original start position of the current link": 11846,
+    "original end position of the current link": 11857,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link28": {
+    "duplicate list": [],
+    "original form": "https://www.itnonline.com/content/sirona-advanced-imaging-suite-gets-fda-510k-clearance**",
+    "bare minimum form": "itnonline.com/content/sirona-advanced-imaging-suite-gets-fda-510k-clearance",
+    "original start position of the current link": 13595,
+    "original end position of the current link": 13683,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link29": {
+    "duplicate list": [],
+    "original form": "https://www.diagnosticimaging.com/view/sirona-medical-gets-fda-nod-for-advanced-imaging-suite**",
+    "bare minimum form": "diagnosticimaging.com/view/sirona-medical-gets-fda-nod-for-advanced-imaging-suite",
+    "original start position of the current link": 14205,
+    "original end position of the current link": 14299,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link30": {
+    "duplicate list": [],
+    "original form": "https://sironamedical.com/rados/**",
+    "bare minimum form": "sironamedical.com/rados",
+    "original start position of the current link": 14729,
+    "original end position of the current link": 14762,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link31": {
+    "duplicate list": [
+      "link152"
+    ],
+    "original form": "https://www.prnewswire.com/news-releases/sirona-medical-secures-42m-in-series-c-financing-to-enhance-customer-success-with-its-cloud-native-unify-platform-302315551.html**",
+    "bare minimum form": "prnewswire.com/news-releases/sirona-medical-secures-42m-in-series-c-financing-to-enhance-customer-success-with-its-cloud-native-unify-platform-302315551.html",
+    "original start position of the current link": 15312,
+    "original end position of the current link": 15482,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link32": {
+    "duplicate list": [],
+    "original form": "https://www.prnewswire.com/news-releases/rant-selects-sirona-medical-as-its-business-continuity-platform-to-ensure-uninterrupted-care-for-millions-of-texans-302246231.html**",
+    "bare minimum form": "prnewswire.com/news-releases/rant-selects-sirona-medical-as-its-business-continuity-platform-to-ensure-uninterrupted-care-for-millions-of-texans-302246231.html",
+    "original start position of the current link": 16015,
+    "original end position of the current link": 16187,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link33": {
+    "duplicate list": [],
+    "original form": "https://axisimagingnews.com/radiology-products/radiology-software/pacs/sirona-medical-enables-radiology-workflow-worldwide-via-starlink**",
+    "bare minimum form": "axisimagingnews.com/radiology-products/radiology-software/pacs/sirona-medical-enables-radiology-workflow-worldwide-via-starlink",
+    "original start position of the current link": 16727,
+    "original end position of the current link": 16863,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link34": {
+    "duplicate list": [
+      "link52",
+      "link81"
+    ],
+    "original form": "https://theimagingwire.com/2025/11/11/time-is-now-for-cloud-native-pacs-and-for-the-unified-approach-to-radiology-viewing/**",
+    "bare minimum form": "theimagingwire.com/2025/11/11/time-is-now-for-cloud-native-pacs-and-for-the-unified-approach-to-radiology-viewing",
+    "original start position of the current link": 17288,
+    "original end position of the current link": 17411,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link35": {
+    "duplicate list": [
+      "link59",
+      "link91"
+    ],
+    "original form": "https://www.auntminnie.com/clinical-news/molecular-imaging/news/15770626/sirona-gets-fda-nod-for-advanced-imaging-suite**",
+    "bare minimum form": "auntminnie.com/clinical-news/molecular-imaging/news/15770626/sirona-gets-fda-nod-for-advanced-imaging-suite",
+    "original start position of the current link": 17932,
+    "original end position of the current link": 18052,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link36": {
+    "duplicate list": [
+      "link60",
+      "link73",
+      "link80"
+    ],
+    "original form": "AuntMinnie.com",
+    "bare minimum form": "auntminnie.com",
+    "original start position of the current link": 18054,
+    "original end position of the current link": 18067,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link37": {
+    "duplicate list": [
+      "link58",
+      "link83"
+    ],
+    "original form": "https://www.medicaleconomics.com/view/sirona-medical-wins-fda-clearance-for-cloud-based-advanced-imaging-suite**",
+    "bare minimum form": "medicaleconomics.com/view/sirona-medical-wins-fda-clearance-for-cloud-based-advanced-imaging-suite",
+    "original start position of the current link": 18567,
+    "original end position of the current link": 18678,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link38": {
+    "duplicate list": [],
+    "original form": "https://www.appliedradiology.com/articles/sirona-medical-secures-fda-clearance-for-cloud-native-pet-ct-imaging-suite**",
+    "bare minimum form": "appliedradiology.com/articles/sirona-medical-secures-fda-clearance-for-cloud-native-pet-ct-imaging-suite",
+    "original start position of the current link": 19258,
+    "original end position of the current link": 19375,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link39": {
+    "duplicate list": [
+      "link62",
+      "link149"
+    ],
+    "original form": "https://www.itnonline.com/content/sirona-medical-signs-nine-new-radiology-practices**",
+    "bare minimum form": "itnonline.com/content/sirona-medical-signs-nine-new-radiology-practices",
+    "original start position of the current link": 19920,
+    "original end position of the current link": 20004,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link40": {
+    "duplicate list": [],
+    "original form": "https://www.appliedradiology.com/articles/sirona-medical-launches-cloud-native-radiology-operating-system**",
+    "bare minimum form": "appliedradiology.com/articles/sirona-medical-launches-cloud-native-radiology-operating-system",
+    "original start position of the current link": 20622,
+    "original end position of the current link": 20728,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link43": {
+    "duplicate list": [],
+    "original form": "https://radiologybusiness.com/topics/health-it/enterprise-imaging/sirona-medical-starlink-radiology-product-launch**",
+    "bare minimum form": "radiologybusiness.com/topics/health-it/enterprise-imaging/sirona-medical-starlink-radiology-product-launch",
+    "original start position of the current link": 21699,
+    "original end position of the current link": 21814,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link44": {
+    "duplicate list": [],
+    "original form": "https://www.dotmed.com/news/story/63895**",
+    "bare minimum form": "dotmed.com/news/story/63895",
+    "original start position of the current link": 22291,
+    "original end position of the current link": 22331,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link45": {
+    "duplicate list": [
+      "link93"
+    ],
+    "original form": "https://www.medicaldevice-network.com/news/fda-sirona-medical/**",
+    "bare minimum form": "medicaldevice-network.com/news/fda-sirona-medical",
+    "original start position of the current link": 22840,
+    "original end position of the current link": 22903,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link46": {
+    "duplicate list": [],
+    "original form": "https://www.prnewswire.com/news-releases/sirona-medical-expands-rapidly-signs-nine-new-radiology-practices-302292905.html**",
+    "bare minimum form": "prnewswire.com/news-releases/sirona-medical-expands-rapidly-signs-nine-new-radiology-practices-302292905.html",
+    "original start position of the current link": 23428,
+    "original end position of the current link": 23550,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link51": {
+    "duplicate list": [
+      "link85",
+      "link172"
+    ],
+    "original form": "https://sironamedical.com/platform/rados/",
+    "bare minimum form": "sironamedical.com/platform/rados",
+    "original start position of the current link": 27341,
+    "original end position of the current link": 27381,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link53": {
+    "duplicate list": [
+      "link131"
+    ],
+    "original form": "https://19996991.fs1.hubspotusercontent-na1.net/hubfs/19996991/Radiology%20Buyers%20Guide-RSNA25.pdf",
+    "bare minimum form": "19996991.fs1.hubspotusercontent-na1.net/hubfs/19996991/Radiology%20Buyers%20Guide-RSNA25.pdf",
+    "original start position of the current link": 29022,
+    "original end position of the current link": 29121,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link54": {
+    "duplicate list": [
+      "link120"
+    ],
+    "original form": "https://sironamedical.com/rsna-2025-recap/",
+    "bare minimum form": "sironamedical.com/rsna-2025-recap",
+    "original start position of the current link": 30029,
+    "original end position of the current link": 30070,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link55": {
+    "duplicate list": [
+      "link134"
+    ],
+    "original form": "https://sironamedical.zendesk.com/hc/en-us/articles/43210142984467-Sirona-Quick-Step-Guide-for-Radiologists",
+    "bare minimum form": "sironamedical.zendesk.com/hc/en-us/articles/43210142984467-Sirona-Quick-Step-Guide-for-Radiologists",
+    "original start position of the current link": 30758,
+    "original end position of the current link": 30864,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link56": {
+    "duplicate list": [
+      "link155"
+    ],
+    "original form": "https://sironamedical.zendesk.com/hc/en-us/articles/42223693439763-Voice-Commands-for-the-Sirona-Viewer",
+    "bare minimum form": "sironamedical.zendesk.com/hc/en-us/articles/42223693439763-Voice-Commands-for-the-Sirona-Viewer",
+    "original start position of the current link": 31438,
+    "original end position of the current link": 31540,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link57": {
+    "duplicate list": [
+      "link82"
+    ],
+    "original form": "https://www.healthaidb.com/software/sirona-health/",
+    "bare minimum form": "healthaidb.com/software/sirona-health",
+    "original start position of the current link": 31948,
+    "original end position of the current link": 31997,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link61": {
+    "duplicate list": [
+      "link98"
+    ],
+    "original form": "https://ht-medicaldevices.com/sirona-medical-secures-fda-510k-clearance-for-advanced-imaging-suite/",
+    "bare minimum form": "ht-medicaldevices.com/sirona-medical-secures-fda-510k-clearance-for-advanced-imaging-suite",
+    "original start position of the current link": 33992,
+    "original end position of the current link": 34090,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link63": {
+    "duplicate list": [],
+    "original form": "https://www.prnewswire.com/news-releases/sirona-medical-secures-42m-in-series-c-financing-to-enhance-customer-success-with-its-c--300973797.html",
+    "bare minimum form": "prnewswire.com/news-releases/sirona-medical-secures-42m-in-series-c-financing-to-enhance-customer-success-with-its-c--300973797.html",
+    "original start position of the current link": 35349,
+    "original end position of the current link": 35492,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link64": {
+    "duplicate list": [
+      "link117"
+    ],
+    "original form": "https://sironamedical.com/company/about/",
+    "bare minimum form": "sironamedical.com/company/about",
+    "original start position of the current link": 36256,
+    "original end position of the current link": 36295,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link65": {
+    "duplicate list": [
+      "link107"
+    ],
+    "original form": "https://sironamedical.com/hospitals-health-systems/",
+    "bare minimum form": "sironamedical.com/hospitals-health-systems",
+    "original start position of the current link": 36677,
+    "original end position of the current link": 36727,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link66": {
+    "duplicate list": [
+      "link112"
+    ],
+    "original form": "https://sironamedical.com/lp/sirona-reporter/",
+    "bare minimum form": "sironamedical.com/lp/sirona-reporter",
+    "original start position of the current link": 37278,
+    "original end position of the current link": 37322,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link67": {
+    "duplicate list": [
+      "link113"
+    ],
+    "original form": "https://sironamedical.com/whitepaper-economics-of-imaging/",
+    "bare minimum form": "sironamedical.com/whitepaper-economics-of-imaging",
+    "original start position of the current link": 38132,
+    "original end position of the current link": 38189,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link68": {
+    "duplicate list": [],
+    "original form": "https://19996991.fs1.hubspotusercontent-na1.net/hubfs/19996991/Untethering%20Radiology:%20Sirona%E2%80%99s%20Cloud-Native%20Transformation%20%E2%80%93%20How%20Integrated%20Workflows%20Transform%20Modern%20Imaging.pdf",
+    "bare minimum form": "19996991.fs1.hubspotusercontent-na1.net/hubfs/19996991/Untethering%20Radiology:%20Sirona%E2%80%99s%20Cloud-Native%20Transformation%20%E2%80%93%20How%20Integrated%20Workflows%20Transform%20Modern%20Imaging.pdf",
+    "original start position of the current link": 38766,
+    "original end position of the current link": 38981,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link69": {
+    "duplicate list": [
+      "link86"
+    ],
+    "original form": "https://www.youtube.com/watch?v=Oqa63g1cz4s",
+    "bare minimum form": "youtube.com/watch?v=Oqa63g1cz4s",
+    "original start position of the current link": 39708,
+    "original end position of the current link": 39750,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link70": {
+    "duplicate list": [
+      "link88"
+    ],
+    "original form": "https://www.youtube.com/watch?v=-TM0x6-0ZUs",
+    "bare minimum form": "youtube.com/watch?v=-TM0x6-0ZUs",
+    "original start position of the current link": 40244,
+    "original end position of the current link": 40286,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link71": {
+    "duplicate list": [
+      "link89"
+    ],
+    "original form": "https://www.youtube.com/watch?v=8oX-Vn_dIkU",
+    "bare minimum form": "youtube.com/watch?v=8oX-Vn_dIkU",
+    "original start position of the current link": 40752,
+    "original end position of the current link": 40794,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link72": {
+    "duplicate list": [
+      "link90"
+    ],
+    "original form": "https://www.auntminnie.com/practice-management/article/15707210/sirona-adds-nine-radiology-practices-to-unify-platform",
+    "bare minimum form": "auntminnie.com/practice-management/article/15707210/sirona-adds-nine-radiology-practices-to-unify-platform",
+    "original start position of the current link": 41222,
+    "original end position of the current link": 41339,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link74": {
+    "duplicate list": [
+      "link157"
+    ],
+    "original form": "https://slashdot.org/software/comparison/Sirona-vs-WRDensity/",
+    "bare minimum form": "slashdot.org/software/comparison/Sirona-vs-WRDensity",
+    "original start position of the current link": 41965,
+    "original end position of the current link": 42025,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link75": {
+    "duplicate list": [
+      "link118"
+    ],
+    "original form": "https://www.osirix-viewer.com/resources/certifications/",
+    "bare minimum form": "osirix-viewer.com/resources/certifications",
+    "original start position of the current link": 42749,
+    "original end position of the current link": 42803,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link76": {
+    "duplicate list": [
+      "link121"
+    ],
+    "original form": "https://www.accessdata.fda.gov/cdrh_docs/pdf10/k101342.pdf",
+    "bare minimum form": "accessdata.fda.gov/cdrh_docs/pdf10/k101342.pdf",
+    "original start position of the current link": 43202,
+    "original end position of the current link": 43259,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link77": {
+    "duplicate list": [],
+    "original form": "https://sironamedical.zendesk.com/hc/en-us/",
+    "bare minimum form": "sironamedical.zendesk.com/hc/en-us",
+    "original start position of the current link": 43788,
+    "original end position of the current link": 43830,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link78": {
+    "duplicate list": [
+      "link115"
+    ],
+    "original form": "https://sironamedical.com/resources/press/",
+    "bare minimum form": "sironamedical.com/resources/press",
+    "original start position of the current link": 44196,
+    "original end position of the current link": 44237,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link87": {
+    "duplicate list": [],
+    "original form": "https://www.linkedin.com/posts/jdanahy_ai-pacs-diagnosticreporting-activity-7379587121579421696-LnmG",
+    "bare minimum form": "linkedin.com/posts/jdanahy_ai-pacs-diagnosticreporting-activity-7379587121579421696-LnmG",
+    "original start position of the current link": 47253,
+    "original end position of the current link": 47352,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link92": {
+    "duplicate list": [],
+    "original form": "https://media.dentalcompare.com/m/25/Downloads/SIDEXIS%20XG%20Conformance%20Statement.pdf",
+    "bare minimum form": "media.dentalcompare.com/m/25/Downloads/SIDEXIS%20XG%20Conformance%20Statement.pdf",
+    "original start position of the current link": 47709,
+    "original end position of the current link": 47797,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link94": {
+    "duplicate list": [],
+    "original form": "https://radiologybusiness.com/topics/healthcare-management/healthcare-policy/fda-clears-new-cloud-native-advanced-imaging-suite",
+    "bare minimum form": "radiologybusiness.com/topics/healthcare-management/healthcare-policy/fda-clears-new-cloud-native-advanced-imaging-suite",
+    "original start position of the current link": 47874,
+    "original end position of the current link": 48000,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link95": {
+    "duplicate list": [],
+    "original form": "https://www.agfahealthcare.com/dicom-conformance/",
+    "bare minimum form": "agfahealthcare.com/dicom-conformance",
+    "original start position of the current link": 48008,
+    "original end position of the current link": 48056,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link96": {
+    "duplicate list": [],
+    "original form": "https://g-medtech.com/news/fr/sirona-medical-gains-fda-clearance-for-advanced-imaging-suite-expanding-pet-ct-diagnostic-capabilities/",
+    "bare minimum form": "g-medtech.com/news/fr/sirona-medical-gains-fda-clearance-for-advanced-imaging-suite-expanding-pet-ct-diagnostic-capabilities",
+    "original start position of the current link": 48064,
+    "original end position of the current link": 48196,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link97": {
+    "duplicate list": [],
+    "original form": "https://www.dentsplysirona.com/services/asset/download?path=%2Fcontent%2Fdam%2Fmaster%2Fproduct-procedure-brand-categories%2Fimaging%2Fproduct-categories%2Fsoftware%2Fslida-partner-page%2FSIDICOMQR_CFS.pdf",
+    "bare minimum form": "dentsplysirona.com/services/asset/download?path=%2Fcontent%2Fdam%2Fmaster%2Fproduct-procedure-brand-categories%2Fimaging%2Fproduct-categories%2Fsoftware%2Fslida-partner-page%2FSIDICOMQR_CFS.pdf",
+    "original start position of the current link": 48204,
+    "original end position of the current link": 48408,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link99": {
+    "duplicate list": [],
+    "original form": "https://www.gehealthcare.com/-/media/documents/us-global/products/interoperability/dicom/dose-management/dosewatch32dicomconformancestatement.pdf?rev=-1&hash=BDBFF31861A00E3D40E65A83E9317DBB",
+    "bare minimum form": "gehealthcare.com/-/media/documents/us-global/products/interoperability/dicom/dose-management/dosewatch32dicomconformancestatement.pdf?rev=-1&hash=BDBFF31861A00E3D40E65A83E9317DBB",
+    "original start position of the current link": 48522,
+    "original end position of the current link": 48711,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link100": {
+    "duplicate list": [],
+    "original form": "https://www.hsirelandequipment.ie/uploads/files/product-manuals/iHLAlX4caOhVXWtUuJq44ILbCaNAMPa8NEAfvlhi.pdf",
+    "bare minimum form": "hsirelandequipment.ie/uploads/files/product-manuals/iHLAlX4caOhVXWtUuJq44ILbCaNAMPa8NEAfvlhi.pdf",
+    "original start position of the current link": 48719,
+    "original end position of the current link": 48826,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link101": {
+    "duplicate list": [],
+    "original form": "https://www.dentsplysirona.com/content/dam/master/product-procedure-brand-categories/endodontics/product-categories/software/software/3d-endo/ifu/archived/END-IFU-3D-ENDO-EN-2016-09.pdf",
+    "bare minimum form": "dentsplysirona.com/content/dam/master/product-procedure-brand-categories/endodontics/product-categories/software/software/3d-endo/ifu/archived/END-IFU-3D-ENDO-EN-2016-09.pdf",
+    "original start position of the current link": 48834,
+    "original end position of the current link": 49018,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link103": {
+    "duplicate list": [],
+    "original form": "https://assets.dentsplysirona.com/flagship/en-us/products/cad-cam/cad-cam-for-laboratories/inlab-sw-update-descriptions/Operator-Manual-inLab-SW-15_US.pdf",
+    "bare minimum form": "assets.dentsplysirona.com/flagship/en-us/products/cad-cam/cad-cam-for-laboratories/inlab-sw-update-descriptions/Operator-Manual-inLab-SW-15_US.pdf",
+    "original start position of the current link": 49091,
+    "original end position of the current link": 49244,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link104": {
+    "duplicate list": [],
+    "original form": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?id=K201140",
+    "bare minimum form": "accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?id=K201140",
+    "original start position of the current link": 49252,
+    "original end position of the current link": 49326,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link105": {
+    "duplicate list": [],
+    "original form": "https://www.skillsforcare.org.uk/resources/documents/Support-for-leaders-and-managers/Managing-a-service/Delegated-healthcare-activities/DHA-Sirona-case-study-Jan-2024.pdf",
+    "bare minimum form": "skillsforcare.org.uk/resources/documents/Support-for-leaders-and-managers/Managing-a-service/Delegated-healthcare-activities/DHA-Sirona-case-study-Jan-2024.pdf",
+    "original start position of the current link": 49334,
+    "original end position of the current link": 49504,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link106": {
+    "duplicate list": [],
+    "original form": "https://www.sironacc.com/wp-content/uploads/2021/07/Sirona-Product-Catalog-20210701.pdf",
+    "bare minimum form": "sironacc.com/wp-content/uploads/2021/07/Sirona-Product-Catalog-20210701.pdf",
+    "original start position of the current link": 49512,
+    "original end position of the current link": 49598,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link108": {
+    "duplicate list": [],
+    "original form": "https://www.dentsplysirona.com/content/dam/master/regions-countries/apac/mena/documents/APAC-brochure-product-catalogue-2020-PRODUCT-CATALOGUE-MENA-2020.pdf.coredownload.pdf",
+    "bare minimum form": "dentsplysirona.com/content/dam/master/regions-countries/apac/mena/documents/APAC-brochure-product-catalogue-2020-PRODUCT-CATALOGUE-MENA-2020.pdf.coredownload.pdf",
+    "original start position of the current link": 49664,
+    "original end position of the current link": 49836,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link109": {
+    "duplicate list": [],
+    "original form": "https://www.healthinnowest.net/wp-content/uploads/2024/07/Sirona-LFPSE-PSIRF-Case-Study.pdf",
+    "bare minimum form": "healthinnowest.net/wp-content/uploads/2024/07/Sirona-LFPSE-PSIRF-Case-Study.pdf",
+    "original start position of the current link": 49844,
+    "original end position of the current link": 49934,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link110": {
+    "duplicate list": [],
+    "original form": "https://www.dentsplysirona.com/services/asset/download?path=%2Fcontent%2Fdam%2Fmaster%2Fproduct-procedure-brand-categories%2Fdigital-dentistry%2Fproduct-category%2F3d-printing%2Fprimeprint-3d-printer%2Fdocuments%2Fprimeprint-brochure%2FPPS-brochure-Primeprint-Solution-Technical-Specifications.pdf",
+    "bare minimum form": "dentsplysirona.com/services/asset/download?path=%2Fcontent%2Fdam%2Fmaster%2Fproduct-procedure-brand-categories%2Fdigital-dentistry%2Fproduct-category%2F3d-printing%2Fprimeprint-3d-printer%2Fdocuments%2Fprimeprint-brochure%2FPPS-brochure-Primeprint-Solution-Technical-Specifications.pdf",
+    "original start position of the current link": 49942,
+    "original end position of the current link": 50238,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link111": {
+    "duplicate list": [],
+    "original form": "https://openmedscience.com/advanced-visualisation-in-radiology-transforming-medical-imaging-with-3d-vr-and-ar/",
+    "bare minimum form": "openmedscience.com/advanced-visualisation-in-radiology-transforming-medical-imaging-with-3d-vr-and-ar",
+    "original start position of the current link": 50246,
+    "original end position of the current link": 50355,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link114": {
+    "duplicate list": [],
+    "original form": "https://aws.amazon.com/blogs/awsmarketplace/how-to-support-modernization-with-cloud-pacs-through-aws-marketplace/",
+    "bare minimum form": "aws.amazon.com/blogs/awsmarketplace/how-to-support-modernization-with-cloud-pacs-through-aws-marketplace",
+    "original start position of the current link": 50480,
+    "original end position of the current link": 50592,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link116": {
+    "duplicate list": [],
+    "original form": "https://sironamedical.com/wp-content/uploads/2024/08/24-SIR-0008-Sirona_Reporter_-InfographicPriority4_FIN-HR.pdf",
+    "bare minimum form": "sironamedical.com/wp-content/uploads/2024/08/24-SIR-0008-Sirona_Reporter_-InfographicPriority4_FIN-HR.pdf",
+    "original start position of the current link": 50649,
+    "original end position of the current link": 50761,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link119": {
+    "duplicate list": [],
+    "original form": "https://www.interfaceware.com/hl7-fhir",
+    "bare minimum form": "interfaceware.com/hl7-fhir",
+    "original start position of the current link": 50878,
+    "original end position of the current link": 50915,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link122": {
+    "duplicate list": [],
+    "original form": "https://www.hl7.org/fhir/",
+    "bare minimum form": "hl7.org/fhir",
+    "original start position of the current link": 51037,
+    "original end position of the current link": 51061,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link123": {
+    "duplicate list": [],
+    "original form": "https://medical.sectra.com/event/rsna-2025/",
+    "bare minimum form": "medical.sectra.com/event/rsna-2025",
+    "original start position of the current link": 51069,
+    "original end position of the current link": 51111,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link124": {
+    "duplicate list": [],
+    "original form": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K201092.pdf",
+    "bare minimum form": "accessdata.fda.gov/cdrh_docs/pdf20/K201092.pdf",
+    "original start position of the current link": 51119,
+    "original end position of the current link": 51176,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link125": {
+    "duplicate list": [],
+    "original form": "https://htn.co.uk/2025/07/16/htn-now-panel-on-how-digital-tools-are-transforming-community-care-delivery-and-expanding-workforce-capacity/",
+    "bare minimum form": "htn.co.uk/2025/07/16/htn-now-panel-on-how-digital-tools-are-transforming-community-care-delivery-and-expanding-workforce-capacity",
+    "original start position of the current link": 51184,
+    "original end position of the current link": 51321,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link126": {
+    "duplicate list": [],
+    "original form": "https://www.agfahealthcare.com/rsna/",
+    "bare minimum form": "agfahealthcare.com/rsna",
+    "original start position of the current link": 51329,
+    "original end position of the current link": 51364,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link127": {
+    "duplicate list": [],
+    "original form": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K181962.pdf",
+    "bare minimum form": "accessdata.fda.gov/cdrh_docs/pdf18/K181962.pdf",
+    "original start position of the current link": 51372,
+    "original end position of the current link": 51429,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link128": {
+    "duplicate list": [],
+    "original form": "https://meddream.com/documentation/dicom-conformance-statement/supported-modalities/",
+    "bare minimum form": "meddream.com/documentation/dicom-conformance-statement/supported-modalities",
+    "original start position of the current link": 51437,
+    "original end position of the current link": 51520,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link129": {
+    "duplicate list": [],
+    "original form": "https://assets.dentsplysirona.com/websites/dentsplysironasupport/schick-brand-software/System_Requirements_09232019new.pdf",
+    "bare minimum form": "assets.dentsplysirona.com/websites/dentsplysironasupport/schick-brand-software/System_Requirements_09232019new.pdf",
+    "original start position of the current link": 51528,
+    "original end position of the current link": 51649,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link130": {
+    "duplicate list": [],
+    "original form": "https://www.dentsplysirona.com/services/asset/download?path=%2Fcontent%2Fdam%2Fmaster%2Fproduct-procedure-brand-categories%2Fimaging%2Fproduct-categories%2Fsoftware%2Fimaging-software%2Fsicat%2FMKT-FM-009-V3.0-Sidexis+4-Installation+Requirements+EXTERNAL.pdf",
+    "bare minimum form": "dentsplysirona.com/services/asset/download?path=%2Fcontent%2Fdam%2Fmaster%2Fproduct-procedure-brand-categories%2Fimaging%2Fproduct-categories%2Fsoftware%2Fimaging-software%2Fsicat%2FMKT-FM-009-V3.0-Sidexis+4-Installation+Requirements+EXTERNAL.pdf",
+    "original start position of the current link": 51657,
+    "original end position of the current link": 51914,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link132": {
+    "duplicate list": [],
+    "original form": "https://cdn.sicat.com/sicat/website/downloads/handbuecher/implantology/sicat-implant-20-en.pdf",
+    "bare minimum form": "cdn.sicat.com/sicat/website/downloads/handbuecher/implantology/sicat-implant-20-en.pdf",
+    "original start position of the current link": 52029,
+    "original end position of the current link": 52122,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link133": {
+    "duplicate list": [],
+    "original form": "https://www.itnonline.com/content/sirona-medical-announces-launch-its-rados-platform-rsna-2021",
+    "bare minimum form": "itnonline.com/content/sirona-medical-announces-launch-its-rados-platform-rsna-2021",
+    "original start position of the current link": 52130,
+    "original end position of the current link": 52223,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link135": {
+    "duplicate list": [],
+    "original form": "https://www.impossiblecloud.com/magazine/medical-imaging-cloud-archive",
+    "bare minimum form": "impossiblecloud.com/magazine/medical-imaging-cloud-archive",
+    "original start position of the current link": 52345,
+    "original end position of the current link": 52414,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link136": {
+    "duplicate list": [
+      "link173"
+    ],
+    "original form": "https://19996991.fs1.hubspotusercontent-na1.net/hubfs/19996991/Untethering%20Radiology:%20Sirona%E2%80%99s%20Cloud-Native%20Transformation%20of%20a%20Broken%20System.pdf",
+    "bare minimum form": "19996991.fs1.hubspotusercontent-na1.net/hubfs/19996991/Untethering%20Radiology:%20Sirona%E2%80%99s%20Cloud-Native%20Transformation%20of%20a%20Broken%20System.pdf",
+    "original start position of the current link": 52422,
+    "original end position of the current link": 52590,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link137": {
+    "duplicate list": [],
+    "original form": "https://www.dentsplysironasupport.com/content/dam/master/product-procedure-brand-categories/imaging/product-categories/software/schick-software/CDR%20Dicom%205%20User%20Guide%20B1051047_Rev6_1632239874885-50975.pdf",
+    "bare minimum form": "dentsplysironasupport.com/content/dam/master/product-procedure-brand-categories/imaging/product-categories/software/schick-software/CDR%20Dicom%205%20User%20Guide%20B1051047_Rev6_1632239874885-50975.pdf",
+    "original start position of the current link": 52598,
+    "original end position of the current link": 52811,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link138": {
+    "duplicate list": [],
+    "original form": "https://healthcare.awsaccelerators.com/brochures/AWS_UK_Digital_Imaging.pdf",
+    "bare minimum form": "healthcare.awsaccelerators.com/brochures/AWS_UK_Digital_Imaging.pdf",
+    "original start position of the current link": 52819,
+    "original end position of the current link": 52893,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link139": {
+    "duplicate list": [],
+    "original form": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8980942/",
+    "bare minimum form": "pmc.ncbi.nlm.nih.gov/articles/PMC8980942",
+    "original start position of the current link": 52901,
+    "original end position of the current link": 52949,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link140": {
+    "duplicate list": [],
+    "original form": "https://www.healthcareittoday.com/2025/11/20/the-impact-of-artificial-intelligence-and-data-sharing-on-radiology-and-imaging-technology/",
+    "bare minimum form": "healthcareittoday.com/2025/11/20/the-impact-of-artificial-intelligence-and-data-sharing-on-radiology-and-imaging-technology",
+    "original start position of the current link": 52957,
+    "original end position of the current link": 53092,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link141": {
+    "duplicate list": [],
+    "original form": "https://www.scribd.com/document/589859477/Sirona-User-Manual",
+    "bare minimum form": "scribd.com/document/589859477/Sirona-User-Manual",
+    "original start position of the current link": 53100,
+    "original end position of the current link": 53159,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link142": {
+    "duplicate list": [],
+    "original form": "https://dicom.nema.org/medical/dicom/current/output/chtml/part04/sect_c.4.html",
+    "bare minimum form": "dicom.nema.org/medical/dicom/current/output/chtml/part04/sect_c.4.html",
+    "original start position of the current link": 53167,
+    "original end position of the current link": 53244,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link143": {
+    "duplicate list": [],
+    "original form": "https://www.linkedin.com/posts/sironamedical_join-us-at-rsna-2024-booth-5509-activity-7267205958454390784-QX8a",
+    "bare minimum form": "linkedin.com/posts/sironamedical_join-us-at-rsna-2024-booth-5509-activity-7267205958454390784-QX8a",
+    "original start position of the current link": 53252,
+    "original end position of the current link": 53361,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link144": {
+    "duplicate list": [],
+    "original form": "https://www.linkedin.com/posts/sironamedical_rsna-2025-demo-recording-and-sirona-overview-activity-7407119244888498177-2zUI",
+    "bare minimum form": "linkedin.com/posts/sironamedical_rsna-2025-demo-recording-and-sirona-overview-activity-7407119244888498177-2zUI",
+    "original start position of the current link": 53369,
+    "original end position of the current link": 53491,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link145": {
+    "duplicate list": [],
+    "original form": "https://dicom.nema.org/medical/dicom/current/output/chtml/part04/chapter_c.html",
+    "bare minimum form": "dicom.nema.org/medical/dicom/current/output/chtml/part04/chapter_c.html",
+    "original start position of the current link": 53499,
+    "original end position of the current link": 53577,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link146": {
+    "duplicate list": [],
+    "original form": "https://www.medical.canon/Interoperability/dicom/miims0009ea.pdf",
+    "bare minimum form": "medical.canon/Interoperability/dicom/miims0009ea.pdf",
+    "original start position of the current link": 53585,
+    "original end position of the current link": 53648,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link147": {
+    "duplicate list": [],
+    "original form": "https://freiheit.com/what-we-do/case-studies/case-study-dentsply-sirona/",
+    "bare minimum form": "freiheit.com/what-we-do/case-studies/case-study-dentsply-sirona",
+    "original start position of the current link": 53656,
+    "original end position of the current link": 53727,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link148": {
+    "duplicate list": [],
+    "original form": "https://support.google.com/chrome/a/answer/7100626?hl=en",
+    "bare minimum form": "support.google.com/chrome/a/answer/7100626?hl=en",
+    "original start position of the current link": 53735,
+    "original end position of the current link": 53790,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link150": {
+    "duplicate list": [],
+    "original form": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9713445/",
+    "bare minimum form": "pmc.ncbi.nlm.nih.gov/articles/PMC9713445",
+    "original start position of the current link": 53888,
+    "original end position of the current link": 53936,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link151": {
+    "duplicate list": [],
+    "original form": "https://sirona-medical-workspace-manager.en.softonic.com/chrome/extension",
+    "bare minimum form": "sirona-medical-workspace-manager.en.softonic.com/chrome/extension",
+    "original start position of the current link": 53944,
+    "original end position of the current link": 54016,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link153": {
+    "duplicate list": [],
+    "original form": "https://services.google.com/fh/files/misc/chrome-browser-deployment-guide.pdf",
+    "bare minimum form": "services.google.com/fh/files/misc/chrome-browser-deployment-guide.pdf",
+    "original start position of the current link": 54200,
+    "original end position of the current link": 54276,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link154": {
+    "duplicate list": [],
+    "original form": "https://finance.yahoo.com/news/sirona-medical-adds-nine-practices-115315131.html",
+    "bare minimum form": "finance.yahoo.com/news/sirona-medical-adds-nine-practices-115315131.html",
+    "original start position of the current link": 54284,
+    "original end position of the current link": 54363,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link156": {
+    "duplicate list": [],
+    "original form": "https://medical.sectra.com/solutionarea/radiology-imaging/",
+    "bare minimum form": "medical.sectra.com/solutionarea/radiology-imaging",
+    "original start position of the current link": 54481,
+    "original end position of the current link": 54538,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link158": {
+    "duplicate list": [],
+    "original form": "https://www.radiantviewer.com",
+    "bare minimum form": "radiantviewer.com",
+    "original start position of the current link": 54614,
+    "original end position of the current link": 54642,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link159": {
+    "duplicate list": [],
+    "original form": "https://deepgram.com/ai-apps/sirona-medical",
+    "bare minimum form": "deepgram.com/ai-apps/sirona-medical",
+    "original start position of the current link": 54650,
+    "original end position of the current link": 54692,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link160": {
+    "duplicate list": [],
+    "original form": "https://slashdot.org/software/comparison/Sirona-vs-StreamlineMD/",
+    "bare minimum form": "slashdot.org/software/comparison/Sirona-vs-StreamlineMD",
+    "original start position of the current link": 54700,
+    "original end position of the current link": 54763,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link161": {
+    "duplicate list": [],
+    "original form": "https://radiologykey.com/pacs-archiving-and-peripherals/",
+    "bare minimum form": "radiologykey.com/pacs-archiving-and-peripherals",
+    "original start position of the current link": 54771,
+    "original end position of the current link": 54826,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link162": {
+    "duplicate list": [],
+    "original form": "https://www.sironacc.com/wp-content/uploads/2021/01/Sirona-Product-Catalog.pdf",
+    "bare minimum form": "sironacc.com/wp-content/uploads/2021/01/Sirona-Product-Catalog.pdf",
+    "original start position of the current link": 54834,
+    "original end position of the current link": 54911,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link163": {
+    "duplicate list": [],
+    "original form": "https://slashdot.org/software/comparison/MiPACS-Storage-Server-vs-Sirona/",
+    "bare minimum form": "slashdot.org/software/comparison/MiPACS-Storage-Server-vs-Sirona",
+    "original start position of the current link": 54919,
+    "original end position of the current link": 54991,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link164": {
+    "duplicate list": [],
+    "original form": "https://www.linkedin.com/pulse/mimps-vs-pacs-understanding-modern-medical-imaging-systems-ahmad-xigif",
+    "bare minimum form": "linkedin.com/pulse/mimps-vs-pacs-understanding-modern-medical-imaging-systems-ahmad-xigif",
+    "original start position of the current link": 54999,
+    "original end position of the current link": 55099,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link165": {
+    "duplicate list": [],
+    "original form": "https://sironamedicaldevices.com/our-product/",
+    "bare minimum form": "sironamedicaldevices.com/our-product",
+    "original start position of the current link": 55107,
+    "original end position of the current link": 55151,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link166": {
+    "duplicate list": [],
+    "original form": "https://www.promptloop.com/directory/what-does-sirona-medical-do",
+    "bare minimum form": "promptloop.com/directory/what-does-sirona-medical-do",
+    "original start position of the current link": 55159,
+    "original end position of the current link": 55222,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link167": {
+    "duplicate list": [],
+    "original form": "https://sironamedical.com/]",
+    "bare minimum form": "sironamedical.com/]",
+    "original start position of the current link": 55305,
+    "original end position of the current link": 55331,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link174": {
+    "duplicate list": [],
+    "original form": "https://sironamedical.com/ken-kaufman-on-the-imaging-wire/",
+    "bare minimum form": "sironamedical.com/ken-kaufman-on-the-imaging-wire",
+    "original start position of the current link": 60157,
+    "original end position of the current link": 60214,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  }
+}

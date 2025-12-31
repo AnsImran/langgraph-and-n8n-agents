@@ -1,0 +1,1675 @@
+{
+  "link1": {
+    "duplicate list": [
+      "link2",
+      "link3",
+      "link5",
+      "link7",
+      "link9",
+      "link11",
+      "link13",
+      "link15",
+      "link17",
+      "link19",
+      "link21",
+      "link23",
+      "link25",
+      "link27",
+      "link29",
+      "link31",
+      "link33",
+      "link35",
+      "link37",
+      "link39",
+      "link41",
+      "link43",
+      "link46",
+      "link48",
+      "link50",
+      "link52",
+      "link54",
+      "link56",
+      "link58",
+      "link60",
+      "link96",
+      "link100",
+      "link136",
+      "link147",
+      "link157",
+      "link158",
+      "link212"
+    ],
+    "original form": "https://www.agfahealthcare.com/enterprise-imaging-platform/",
+    "bare minimum form": "agfahealthcare.com/enterprise-imaging-platform",
+    "original start position of the current link": 136,
+    "original end position of the current link": 194,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link4": {
+    "duplicate list": [],
+    "original form": "https://www.agfahealthcare.com/wp-content/uploads/2024/11/001792_Enterprise-Imaging-Platform-Digital-platform-to-grow-work-and-connect_brochure.pdf",
+    "bare minimum form": "agfahealthcare.com/wp-content/uploads/2024/11/001792_Enterprise-Imaging-Platform-Digital-platform-to-grow-work-and-connect_brochure.pdf",
+    "original start position of the current link": 1203,
+    "original end position of the current link": 1349,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link6": {
+    "duplicate list": [
+      "link102"
+    ],
+    "original form": "https://www.agfahealthcare.com/universal-viewer/",
+    "bare minimum form": "agfahealthcare.com/universal-viewer",
+    "original start position of the current link": 2192,
+    "original end position of the current link": 2239,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link8": {
+    "duplicate list": [
+      "link103",
+      "link164",
+      "link240"
+    ],
+    "original form": "https://www.agfahealthcare.com/xero-xtend-full-fidelity/",
+    "bare minimum form": "agfahealthcare.com/xero-xtend-full-fidelity",
+    "original start position of the current link": 3034,
+    "original end position of the current link": 3089,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link10": {
+    "duplicate list": [
+      "link144",
+      "link155",
+      "link181",
+      "link273"
+    ],
+    "original form": "https://www.agfahealthcare.com/streaming/",
+    "bare minimum form": "agfahealthcare.com/streaming",
+    "original start position of the current link": 3895,
+    "original end position of the current link": 3935,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link12": {
+    "duplicate list": [
+      "link95",
+      "link145",
+      "link156",
+      "link180",
+      "link298"
+    ],
+    "original form": "https://www.agfahealthcare.com/ei-cloud/",
+    "bare minimum form": "agfahealthcare.com/ei-cloud",
+    "original start position of the current link": 4754,
+    "original end position of the current link": 4793,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link14": {
+    "duplicate list": [],
+    "original form": "https://www.agfahealthcare.com/vna/",
+    "bare minimum form": "agfahealthcare.com/vna",
+    "original start position of the current link": 5615,
+    "original end position of the current link": 5649,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link16": {
+    "duplicate list": [],
+    "original form": "https://www.agfahealthcare.com/global/en/he/library/libraryopen?ID=80501840",
+    "bare minimum form": "agfahealthcare.com/global/en/he/library/libraryopen?ID=80501840",
+    "original start position of the current link": 6538,
+    "original end position of the current link": 6612,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link18": {
+    "duplicate list": [],
+    "original form": "https://www.agfahealthcare.com/xen-federated-imaging-network/",
+    "bare minimum form": "agfahealthcare.com/xen-federated-imaging-network",
+    "original start position of the current link": 7556,
+    "original end position of the current link": 7616,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link20": {
+    "duplicate list": [
+      "link195",
+      "link244"
+    ],
+    "original form": "https://www.agfahealthcare.com/transition-to-enterprise-imaging/",
+    "bare minimum form": "agfahealthcare.com/transition-to-enterprise-imaging",
+    "original start position of the current link": 8440,
+    "original end position of the current link": 8503,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link22": {
+    "duplicate list": [
+      "link101",
+      "link143",
+      "link154",
+      "link159",
+      "link215"
+    ],
+    "original form": "https://www.agfahealthcare.com/radiology/",
+    "bare minimum form": "agfahealthcare.com/radiology",
+    "original start position of the current link": 9284,
+    "original end position of the current link": 9324,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link24": {
+    "duplicate list": [],
+    "original form": "https://www.agfahealthcare.com/information-security-privacy/",
+    "bare minimum form": "agfahealthcare.com/information-security-privacy",
+    "original start position of the current link": 10152,
+    "original end position of the current link": 10211,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link26": {
+    "duplicate list": [],
+    "original form": "https://www.agfa.com/he/usa/en/internet/image_management/resources/literature/enterprise_imaging_downloads.jsp",
+    "bare minimum form": "agfahealthcare.com/he/usa/en/internet/image_management/resources/literature/enterprise_imaging_downloads.jsp",
+    "original start position of the current link": 10951,
+    "original end position of the current link": 11060,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link28": {
+    "duplicate list": [
+      "link223"
+    ],
+    "original form": "https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=81709056",
+    "bare minimum form": "agfahealthcare.com/he/global/en/internet/he/library/libraryopen?ID=81709056",
+    "original start position of the current link": 11812,
+    "original end position of the current link": 11888,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link30": {
+    "duplicate list": [],
+    "original form": "https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=59957319",
+    "bare minimum form": "agfahealthcare.com/he/global/en/internet/he/library/libraryopen?ID=59957319",
+    "original start position of the current link": 12804,
+    "original end position of the current link": 12880,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link32": {
+    "duplicate list": [],
+    "original form": "https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=48850540",
+    "bare minimum form": "agfahealthcare.com/he/global/en/internet/he/library/libraryopen?ID=48850540",
+    "original start position of the current link": 13677,
+    "original end position of the current link": 13753,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link34": {
+    "duplicate list": [
+      "link63",
+      "link105",
+      "link137",
+      "link148",
+      "link166",
+      "link255"
+    ],
+    "original form": "https://www.agfahealthcare.com/wp-content/uploads/2025/04/001679_Enterprise_Imaging_8.4.x_DICOM_Conformance_Statement-5.pdf",
+    "bare minimum form": "agfahealthcare.com/wp-content/uploads/2025/04/001679_Enterprise_Imaging_8.4.x_DICOM_Conformance_Statement-5.pdf",
+    "original start position of the current link": 14735,
+    "original end position of the current link": 14857,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link36": {
+    "duplicate list": [
+      "link69",
+      "link169",
+      "link313"
+    ],
+    "original form": "https://www.agfahealthcare.com/wp-content/uploads/2025/04/001685_Enterprise_Imaging_8.4.x_IHE_Integration_Statement-1.pdf",
+    "bare minimum form": "agfahealthcare.com/wp-content/uploads/2025/04/001685_Enterprise_Imaging_8.4.x_IHE_Integration_Statement-1.pdf",
+    "original start position of the current link": 15717,
+    "original end position of the current link": 15837,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link38": {
+    "duplicate list": [
+      "link172",
+      "link292"
+    ],
+    "original form": "https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=81192186",
+    "bare minimum form": "agfahealthcare.com/he/global/en/internet/he/library/libraryopen?ID=81192186",
+    "original start position of the current link": 16737,
+    "original end position of the current link": 16813,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link40": {
+    "duplicate list": [
+      "link71",
+      "link203",
+      "link309"
+    ],
+    "original form": "https://www.agfahealthcare.com/wp-content/uploads/2025/04/001659_Enterprise_Imaging_8.2.2_FHIR_Conformance_Statement.pdf",
+    "bare minimum form": "agfahealthcare.com/wp-content/uploads/2025/04/001659_Enterprise_Imaging_8.2.2_FHIR_Conformance_Statement.pdf",
+    "original start position of the current link": 17655,
+    "original end position of the current link": 17774,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link42": {
+    "duplicate list": [
+      "link70",
+      "link229"
+    ],
+    "original form": "https://www.agfahealthcare.com/wp-content/uploads/2025/04/001665_Enterprise_Imaging_8.3.x_FHIR_Conformance_Statement.pdf",
+    "bare minimum form": "agfahealthcare.com/wp-content/uploads/2025/04/001665_Enterprise_Imaging_8.3.x_FHIR_Conformance_Statement.pdf",
+    "original start position of the current link": 18641,
+    "original end position of the current link": 18760,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link44": {
+    "duplicate list": [],
+    "original form": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?id=K170434",
+    "bare minimum form": "accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?id=K170434",
+    "original start position of the current link": 19551,
+    "original end position of the current link": 19625,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link45": {
+    "duplicate list": [],
+    "original form": "accessdata.fda.gov",
+    "bare minimum form": "accessdata.fda.gov",
+    "original start position of the current link": 19686,
+    "original end position of the current link": 19703,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link47": {
+    "duplicate list": [
+      "link108",
+      "link139",
+      "link150",
+      "link161",
+      "link232"
+    ],
+    "original form": "https://www.accessdata.fda.gov/cdrh_docs/pdf17/K170434.pdf",
+    "bare minimum form": "accessdata.fda.gov/cdrh_docs/pdf17/K170434.pdf",
+    "original start position of the current link": 20318,
+    "original end position of the current link": 20375,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link49": {
+    "duplicate list": [
+      "link65"
+    ],
+    "original form": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K252199.pdf",
+    "bare minimum form": "accessdata.fda.gov/cdrh_docs/pdf25/K252199.pdf",
+    "original start position of the current link": 21374,
+    "original end position of the current link": 21431,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link51": {
+    "duplicate list": [],
+    "original form": "https://www.agfahealthcare.com/customer-successes/sparrow/",
+    "bare minimum form": "agfahealthcare.com/customer-successes/sparrow",
+    "original start position of the current link": 22484,
+    "original end position of the current link": 22541,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link53": {
+    "duplicate list": [],
+    "original form": "https://www.agfahealthcare.com/customer-successes/zuckerberg/",
+    "bare minimum form": "agfahealthcare.com/customer-successes/zuckerberg",
+    "original start position of the current link": 23289,
+    "original end position of the current link": 23349,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link55": {
+    "duplicate list": [],
+    "original form": "https://www.agfahealthcare.com/customer-successes/my-clinic-jeddah/",
+    "bare minimum form": "agfahealthcare.com/customer-successes/my-clinic-jeddah",
+    "original start position of the current link": 24161,
+    "original end position of the current link": 24227,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link57": {
+    "duplicate list": [
+      "link205",
+      "link315"
+    ],
+    "original form": "https://www.agfahealthcare.com/news/connectathon-2024/",
+    "bare minimum form": "agfahealthcare.com/news/connectathon-2024",
+    "original start position of the current link": 24939,
+    "original end position of the current link": 24992,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link59": {
+    "duplicate list": [
+      "link97",
+      "link121",
+      "link189",
+      "link211",
+      "link267"
+    ],
+    "original form": "https://www.agfahealthcare.com/contact/",
+    "bare minimum form": "agfahealthcare.com/contact",
+    "original start position of the current link": 25727,
+    "original end position of the current link": 25765,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link61": {
+    "duplicate list": [
+      "link271"
+    ],
+    "original form": "https://intuitionlabs.ai/software/pdfs/agfa-healthcare-enterprise-imaging.pdf",
+    "bare minimum form": "intuitionlabs.ai/software/pdfs/agfa-healthcare-enterprise-imaging.pdf",
+    "original start position of the current link": 26383,
+    "original end position of the current link": 26459,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link62": {
+    "duplicate list": [
+      "link140",
+      "link151",
+      "link160",
+      "link217"
+    ],
+    "original form": "https://www.agfahealthcare.com/wp-content/uploads/2024/10/AGFA_HealthCare_Enterprise_Imaging_-_Brochure.pdf",
+    "bare minimum form": "agfahealthcare.com/wp-content/uploads/2024/10/AGFA_HealthCare_Enterprise_Imaging_-_Brochure.pdf",
+    "original start position of the current link": 27089,
+    "original end position of the current link": 27195,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link64": {
+    "duplicate list": [
+      "link306"
+    ],
+    "original form": "https://www.agfahealthcare.com/wp-content/uploads/2025/04/001644_Enterprise_Imaging_8.2.x_IHE_Integration_Statement.pdf",
+    "bare minimum form": "agfahealthcare.com/wp-content/uploads/2025/04/001644_Enterprise_Imaging_8.2.x_IHE_Integration_Statement.pdf",
+    "original start position of the current link": 28860,
+    "original end position of the current link": 28978,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link66": {
+    "duplicate list": [
+      "link138",
+      "link149",
+      "link162",
+      "link237"
+    ],
+    "original form": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K252199",
+    "bare minimum form": "accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K252199",
+    "original start position of the current link": 30564,
+    "original end position of the current link": 30638,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link67": {
+    "duplicate list": [],
+    "original form": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K170434",
+    "bare minimum form": "accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K170434",
+    "original start position of the current link": 31145,
+    "original end position of the current link": 31219,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link68": {
+    "duplicate list": [
+      "link168",
+      "link282"
+    ],
+    "original form": "https://www.agfahealthcare.com/wp-content/uploads/2025/04/001668_Enterprise_Imaging_8.3.x_IHE_Integration_Statement.pdf",
+    "bare minimum form": "agfahealthcare.com/wp-content/uploads/2025/04/001668_Enterprise_Imaging_8.3.x_IHE_Integration_Statement.pdf",
+    "original start position of the current link": 31746,
+    "original end position of the current link": 31864,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link72": {
+    "duplicate list": [],
+    "original form": "https://www.agfahealthcare.com/wp-content/uploads/2025/04/AGFA_HealthCare_-_Cross-Enterprise_Worklist_-_Brochure_20241021-1.pdf",
+    "bare minimum form": "agfahealthcare.com/wp-content/uploads/2025/04/AGFA_HealthCare_-_Cross-Enterprise_Worklist_-_Brochure_20241021-1.pdf",
+    "original start position of the current link": 33633,
+    "original end position of the current link": 33759,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link73": {
+    "duplicate list": [],
+    "original form": "https://www.agfahealthcare.com/wp-content/uploads/2025/04/AGFA_HealthCare_-_Scheduling_-_Brochure.pdf",
+    "bare minimum form": "agfahealthcare.com/wp-content/uploads/2025/04/AGFA_HealthCare_-_Scheduling_-_Brochure.pdf",
+    "original start position of the current link": 34169,
+    "original end position of the current link": 34269,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link74": {
+    "duplicate list": [
+      "link141",
+      "link152",
+      "link167",
+      "link218"
+    ],
+    "original form": "https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=37790797",
+    "bare minimum form": "agfahealthcare.com/he/global/en/internet/he/library/libraryopen?ID=37790797",
+    "original start position of the current link": 34572,
+    "original end position of the current link": 34648,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link75": {
+    "duplicate list": [
+      "link176",
+      "link253"
+    ],
+    "original form": "https://pdfs.loadbalancer.org/AGFA_HealthCare_Enterprise_Imaging_Deployment_Brief.pdf",
+    "bare minimum form": "pdfs.loadbalancer.org/AGFA_HealthCare_Enterprise_Imaging_Deployment_Brief.pdf",
+    "original start position of the current link": 35180,
+    "original end position of the current link": 35264,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link76": {
+    "duplicate list": [
+      "link77",
+      "link177",
+      "link178",
+      "link179"
+    ],
+    "original form": "Loadbalancer.org",
+    "bare minimum form": "loadbalancer.org",
+    "original start position of the current link": 35313,
+    "original end position of the current link": 35328,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link78": {
+    "duplicate list": [
+      "link197",
+      "link251"
+    ],
+    "original form": "https://radres.ucsd.edu/documents/Residency%20resources/AGFA%20user%20manual.pdf",
+    "bare minimum form": "radres.ucsd.edu/documents/Residency%20resources/AGFA%20user%20manual.pdf",
+    "original start position of the current link": 35729,
+    "original end position of the current link": 35808,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link79": {
+    "duplicate list": [
+      "link183",
+      "link252"
+    ],
+    "original form": "https://www.agfahealthcare.com/customer-successes/aosta/",
+    "bare minimum form": "agfahealthcare.com/customer-successes/aosta",
+    "original start position of the current link": 36229,
+    "original end position of the current link": 36284,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link80": {
+    "duplicate list": [],
+    "original form": "https://www.agfahealthcare.com/news/agfa-healthcare-expands-enterprise-imaging-platform-to-cardiology-at-zuckerberg-san-francisco-general-hospital/",
+    "bare minimum form": "agfahealthcare.com/news/agfa-healthcare-expands-enterprise-imaging-platform-to-cardiology-at-zuckerberg-san-francisco-general-hospital",
+    "original start position of the current link": 36742,
+    "original end position of the current link": 36888,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link81": {
+    "duplicate list": [],
+    "original form": "https://www.agfahealthcare.com/customer-successes/uz-gent/",
+    "bare minimum form": "agfahealthcare.com/customer-successes/uz-gent",
+    "original start position of the current link": 37349,
+    "original end position of the current link": 37406,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link82": {
+    "duplicate list": [],
+    "original form": "https://www.agfahealthcare.com/news/uzbrussels/",
+    "bare minimum form": "agfahealthcare.com/news/uzbrussels",
+    "original start position of the current link": 37892,
+    "original end position of the current link": 37938,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link83": {
+    "duplicate list": [],
+    "original form": "https://www.agfahealthcare.com/customer-successes/adventhealth/",
+    "bare minimum form": "agfahealthcare.com/customer-successes/adventhealth",
+    "original start position of the current link": 38343,
+    "original end position of the current link": 38405,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link84": {
+    "duplicate list": [],
+    "original form": "https://www.agfahealthcare.com/customer-successes/king-abdullah-medical-city/",
+    "bare minimum form": "agfahealthcare.com/customer-successes/king-abdullah-medical-city",
+    "original start position of the current link": 38815,
+    "original end position of the current link": 38891,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link85": {
+    "duplicate list": [
+      "link142",
+      "link153"
+    ],
+    "original form": "https://www.agfahealthcare.com/customer-successes/novant/",
+    "bare minimum form": "agfahealthcare.com/customer-successes/novant",
+    "original start position of the current link": 39295,
+    "original end position of the current link": 39351,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link86": {
+    "duplicate list": [
+      "link185",
+      "link256"
+    ],
+    "original form": "https://www.agfahealthcare.com/customer-successes/san-gerardo-hospital/",
+    "bare minimum form": "agfahealthcare.com/customer-successes/san-gerardo-hospital",
+    "original start position of the current link": 39754,
+    "original end position of the current link": 39824,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link87": {
+    "duplicate list": [],
+    "original form": "https://www.agfahealthcare.com/customer-successes/cody-regional-health/",
+    "bare minimum form": "agfahealthcare.com/customer-successes/cody-regional-health",
+    "original start position of the current link": 40233,
+    "original end position of the current link": 40303,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link88": {
+    "duplicate list": [],
+    "original form": "https://www.agfahealthcare.com/customer-successes/wellstar-enterprise-imaging/",
+    "bare minimum form": "agfahealthcare.com/customer-successes/wellstar-enterprise-imaging",
+    "original start position of the current link": 40647,
+    "original end position of the current link": 40724,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link89": {
+    "duplicate list": [],
+    "original form": "https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=70729173",
+    "bare minimum form": "agfahealthcare.com/he/global/en/internet/he/library/libraryopen?ID=70729173",
+    "original start position of the current link": 41084,
+    "original end position of the current link": 41160,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link90": {
+    "duplicate list": [],
+    "original form": "https://www.agfahealthcare.com/rsna/schedule-lineup/",
+    "bare minimum form": "agfahealthcare.com/rsna/schedule-lineup",
+    "original start position of the current link": 41525,
+    "original end position of the current link": 41576,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link91": {
+    "duplicate list": [],
+    "original form": "https://www.agfahealthcare.com/news/himss25-launch/",
+    "bare minimum form": "agfahealthcare.com/news/himss25-launch",
+    "original start position of the current link": 42030,
+    "original end position of the current link": 42080,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link92": {
+    "duplicate list": [],
+    "original form": "https://www.agfahealthcare.com/news/ukio2025/",
+    "bare minimum form": "agfahealthcare.com/news/ukio2025",
+    "original start position of the current link": 42471,
+    "original end position of the current link": 42515,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link93": {
+    "duplicate list": [],
+    "original form": "https://www.rsna.org/news/2025/may/industry-sponsored-agfa-healthcare",
+    "bare minimum form": "rsna.org/news/2025/may/industry-sponsored-agfa-healthcare",
+    "original start position of the current link": 42898,
+    "original end position of the current link": 42966,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link94": {
+    "duplicate list": [
+      "link182",
+      "link265"
+    ],
+    "original form": "https://aws.amazon.com/marketplace/pp/prodview-jfobyfdfxlhaa",
+    "bare minimum form": "aws.amazon.com/marketplace/pp/prodview-jfobyfdfxlhaa",
+    "original start position of the current link": 43344,
+    "original end position of the current link": 43403,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link98": {
+    "duplicate list": [],
+    "original form": "summaries.Based",
+    "bare minimum form": "summaries.based",
+    "original start position of the current link": 45407,
+    "original end position of the current link": 45421,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link99": {
+    "duplicate list": [
+      "link123",
+      "link193",
+      "link224",
+      "link277"
+    ],
+    "original form": "https://www.agfahealthcare.com",
+    "bare minimum form": "agfahealthcare.com",
+    "original start position of the current link": 45650,
+    "original end position of the current link": 45679,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link104": {
+    "duplicate list": [],
+    "original form": "https://www.agfahealthcare.com/dicom-conformance/**",
+    "bare minimum form": "agfahealthcare.com/dicom-conformance",
+    "original start position of the current link": 48187,
+    "original end position of the current link": 48237,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link106": {
+    "duplicate list": [],
+    "original form": "https://www.agfahealthcare.com/wp-content/uploads/2025/04/001647_Enterprise_Imaging_8.2.x_DICOM_Conformance_Statement-1.pdf**",
+    "bare minimum form": "agfahealthcare.com/wp-content/uploads/2025/04/001647_Enterprise_Imaging_8.2.x_DICOM_Conformance_Statement-1.pdf",
+    "original start position of the current link": 49453,
+    "original end position of the current link": 49577,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link107": {
+    "duplicate list": [
+      "link171",
+      "link291"
+    ],
+    "original form": "https://www.agfahealthcare.com/hl7/**",
+    "bare minimum form": "agfahealthcare.com/hl7",
+    "original start position of the current link": 50170,
+    "original end position of the current link": 50206,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link109": {
+    "duplicate list": [],
+    "original form": "https://xrayinterpreter.com/fda/K252199**",
+    "bare minimum form": "xrayinterpreter.com/fda/K252199",
+    "original start position of the current link": 51556,
+    "original end position of the current link": 51596,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link110": {
+    "duplicate list": [
+      "link290"
+    ],
+    "original form": "https://radiologybusiness.com/topics/health-it/enterprise-imaging/imaging-informatics/agfa-healthcare-receives-fda-510k-clearance**",
+    "bare minimum form": "radiologybusiness.com/topics/health-it/enterprise-imaging/imaging-informatics/agfa-healthcare-receives-fda-510k-clearance",
+    "original start position of the current link": 52091,
+    "original end position of the current link": 52221,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link111": {
+    "duplicate list": [
+      "link246"
+    ],
+    "original form": "https://www.prnewswire.com/news-releases/agfa-healthcare-receives-fda-510k-clearance-for-advanced-clinical-applications-on-xero-universal-viewer-300495227.html**",
+    "bare minimum form": "prnewswire.com/news-releases/agfa-healthcare-receives-fda-510k-clearance-for-advanced-clinical-applications-on-xero-universal-viewer-300495227.html",
+    "original start position of the current link": 52931,
+    "original end position of the current link": 53091,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link112": {
+    "duplicate list": [
+      "link243"
+    ],
+    "original form": "https://www.itnonline.com/content/agfa-receives-fda-510k-xtend-functionalities-xero-universal-viewer**",
+    "bare minimum form": "itnonline.com/content/agfa-receives-fda-510k-xtend-functionalities-xero-universal-viewer",
+    "original start position of the current link": 53757,
+    "original end position of the current link": 53858,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link113": {
+    "duplicate list": [],
+    "original form": "https://knowledgebase-healthcare-ex.agfa.net/library/IITS/Enterprise_Imaging/XERO_Viewer/XERO_Viewer_8_1_4/s0_1416594675664/en-gb/webhelp/s0_1416594666945.html**",
+    "bare minimum form": "knowledgebase-healthcare-ex.agfa.net/library/IITS/Enterprise_Imaging/XERO_Viewer/XERO_Viewer_8_1_4/s0_1416594675664/en-gb/webhelp/s0_1416594666945.html",
+    "original start position of the current link": 54550,
+    "original end position of the current link": 54710,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link114": {
+    "duplicate list": [],
+    "original form": "https://radres.ucsd.edu/documents/Residency",
+    "bare minimum form": "radres.ucsd.edu/documents/Residency",
+    "original start position of the current link": 55355,
+    "original end position of the current link": 55397,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link115": {
+    "duplicate list": [],
+    "original form": "manual.pdf",
+    "bare minimum form": "manual.pdf",
+    "original start position of the current link": 55419,
+    "original end position of the current link": 55428,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link116": {
+    "duplicate list": [
+      "link187",
+      "link257"
+    ],
+    "original form": "https://www.advisory.com/sponsored/agfa-enterprise-imaging**",
+    "bare minimum form": "advisory.com/sponsored/agfa-enterprise-imaging",
+    "original start position of the current link": 55840,
+    "original end position of the current link": 55899,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link117": {
+    "duplicate list": [],
+    "original form": "https://www.loadbalancer.org/applications/agfa-healthcare-enterprise-imaging/**",
+    "bare minimum form": "loadbalancer.org/applications/agfa-healthcare-enterprise-imaging",
+    "original start position of the current link": 56704,
+    "original end position of the current link": 56782,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link118": {
+    "duplicate list": [],
+    "original form": "https://global.agfahealthcare.com/universal-viewer-xero-xtend-and-full-fidelity/**",
+    "bare minimum form": "global.agfahealthcare.com/universal-viewer-xero-xtend-and-full-fidelity",
+    "original start position of the current link": 57444,
+    "original end position of the current link": 57525,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link119": {
+    "duplicate list": [
+      "link222"
+    ],
+    "original form": "https://www.evolucare.com/en/evolucare-and-agfa-healthcare-transform-medical-imaging-in-france/**",
+    "bare minimum form": "evolucare.com/en/evolucare-and-agfa-healthcare-transform-medical-imaging-in-france",
+    "original start position of the current link": 58264,
+    "original end position of the current link": 58360,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link120": {
+    "duplicate list": [],
+    "original form": "https://enterpriseimaging.agfahealthcare.com/acton/fs/blocks/showLandingPage/a/44820/p/p-0052/t/page/fm/0**",
+    "bare minimum form": "enterpriseimaging.agfahealthcare.com/acton/fs/blocks/showLandingPage/a/44820/p/p-0052/t/page/fm/0",
+    "original start position of the current link": 59124,
+    "original end position of the current link": 59230,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link122": {
+    "duplicate list": [
+      "link317"
+    ],
+    "original form": "https://agfaradiologysolutions.com/addresses/**",
+    "bare minimum form": "agfaradiologysolutions.com/addresses",
+    "original start position of the current link": 60356,
+    "original end position of the current link": 60402,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link124": {
+    "duplicate list": [],
+    "original form": "https://www.newswire.com/news/agfa-healthcare-recognized-for-proactive-partnerships-and-22577626**",
+    "bare minimum form": "newswire.com/news/agfa-healthcare-recognized-for-proactive-partnerships-and-22577626",
+    "original start position of the current link": 60799,
+    "original end position of the current link": 60896,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link125": {
+    "duplicate list": [],
+    "original form": "https://www.agfahealthcare.com/news/pacs-report-2025/**",
+    "bare minimum form": "agfahealthcare.com/news/pacs-report-2025",
+    "original start position of the current link": 61579,
+    "original end position of the current link": 61633,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link126": {
+    "duplicate list": [
+      "link175",
+      "link238"
+    ],
+    "original form": "https://intuitionlabs.ai/software/pacsris-systems/enterprise-pacs-platforms/agfa-healthcare-enterprise-imaging**",
+    "bare minimum form": "intuitionlabs.ai/software/pacsris-systems/enterprise-pacs-platforms/agfa-healthcare-enterprise-imaging",
+    "original start position of the current link": 62314,
+    "original end position of the current link": 62425,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link127": {
+    "duplicate list": [],
+    "original form": "IntuitionLabs.ai",
+    "bare minimum form": "intuitionlabs.ai",
+    "original start position of the current link": 62462,
+    "original end position of the current link": 62477,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link128": {
+    "duplicate list": [],
+    "original form": "https://www.agfahealthcare.com/news/department-of-health-and-social-services-article-about-the-transformative-impact-of-agfa-healthcares-enterpriseimaging-platform/**",
+    "bare minimum form": "agfahealthcare.com/news/department-of-health-and-social-services-article-about-the-transformative-impact-of-agfa-healthcares-enterpriseimaging-platform",
+    "original start position of the current link": 63240,
+    "original end position of the current link": 63405,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link129": {
+    "duplicate list": [],
+    "original form": "customizable...able",
+    "bare minimum form": "customizable...able",
+    "original start position of the current link": 63922,
+    "original end position of the current link": 63940,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link130": {
+    "duplicate list": [],
+    "original form": "https://klasresearch.com/comments/agfa-healthcare-enterprise-imaging-xero-viewer/79220**",
+    "bare minimum form": "klasresearch.com/comments/agfa-healthcare-enterprise-imaging-xero-viewer/79220",
+    "original start position of the current link": 64247,
+    "original end position of the current link": 64334,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link131": {
+    "duplicate list": [],
+    "original form": "https://healthmanagement.org/c/imaging/pressrelease/agfa-healthcare-receives-fda-510-k-clearance-for-xero-r**",
+    "bare minimum form": "healthmanagement.org/c/imaging/pressrelease/agfa-healthcare-receives-fda-510-k-clearance-for-xero-r",
+    "original start position of the current link": 65054,
+    "original end position of the current link": 65162,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link132": {
+    "duplicate list": [
+      "link210"
+    ],
+    "original form": "HealthManagement.org",
+    "bare minimum form": "healthmanagement.org",
+    "original start position of the current link": 65218,
+    "original end position of the current link": 65237,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link133": {
+    "duplicate list": [],
+    "original form": "http://blog.agfahealthcare.com/agfa-healthcare-receives-fda-510k-clearance-for-advanced-clinical-applications-on-xero-universal-viewer/**",
+    "bare minimum form": "blog.agfahealthcare.com/agfa-healthcare-receives-fda-510k-clearance-for-advanced-clinical-applications-on-xero-universal-viewer",
+    "original start position of the current link": 65976,
+    "original end position of the current link": 66112,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link134": {
+    "duplicate list": [],
+    "original form": "https://www.healthcareitnews.com/news/agfa-building-out-enterprise-imaging-platform-ehr-integration-ibm-watson-capabilities**",
+    "bare minimum form": "healthcareitnews.com/news/agfa-building-out-enterprise-imaging-platform-ehr-integration-ibm-watson-capabilities",
+    "original start position of the current link": 66656,
+    "original end position of the current link": 66780,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link135": {
+    "duplicate list": [
+      "link146"
+    ],
+    "original form": "https://www.agfahealthcare.com/enterprise-imaging-platform/]",
+    "bare minimum form": "agfahealthcare.com/enterprise-imaging-platform/]",
+    "original start position of the current link": 67703,
+    "original end position of the current link": 67762,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link163": {
+    "duplicate list": [
+      "link283"
+    ],
+    "original form": "https://www.itnonline.com/content/fda-clears-agfas-xero-viewer-full-fidelity-view**",
+    "bare minimum form": "itnonline.com/content/fda-clears-agfas-xero-viewer-full-fidelity-view",
+    "original start position of the current link": 84466,
+    "original end position of the current link": 84548,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link165": {
+    "duplicate list": [
+      "link214"
+    ],
+    "original form": "https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=53821200**",
+    "bare minimum form": "agfahealthcare.com/he/global/en/internet/he/library/libraryopen?ID=53821200",
+    "original start position of the current link": 85505,
+    "original end position of the current link": 85583,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link170": {
+    "duplicate list": [
+      "link311"
+    ],
+    "original form": "https://www.agfahealthcare.com/ihe/**",
+    "bare minimum form": "agfahealthcare.com/ihe",
+    "original start position of the current link": 91419,
+    "original end position of the current link": 91455,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link173": {
+    "duplicate list": [
+      "link220"
+    ],
+    "original form": "https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=38424522**",
+    "bare minimum form": "agfahealthcare.com/he/global/en/internet/he/library/libraryopen?ID=38424522",
+    "original start position of the current link": 93007,
+    "original end position of the current link": 93085,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link174": {
+    "duplicate list": [
+      "link297"
+    ],
+    "original form": "https://www.agfahealthcare.com/wp-content/uploads/2023/08/Paragon-What-is-Enterprise-Imaging-Really.pdf**",
+    "bare minimum form": "agfahealthcare.com/wp-content/uploads/2023/08/Paragon-What-is-Enterprise-Imaging-Really.pdf",
+    "original start position of the current link": 93558,
+    "original end position of the current link": 93662,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link184": {
+    "duplicate list": [
+      "link254"
+    ],
+    "original form": "https://www.agfahealthcare.com/customer-successes/asl-roma-2/**",
+    "bare minimum form": "agfahealthcare.com/customer-successes/asl-roma-2",
+    "original start position of the current link": 98340,
+    "original end position of the current link": 98402,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link186": {
+    "duplicate list": [
+      "link213"
+    ],
+    "original form": "https://www.agfahealthcare.com/news/qeh/**",
+    "bare minimum form": "agfahealthcare.com/news/qeh",
+    "original start position of the current link": 99744,
+    "original end position of the current link": 99785,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link188": {
+    "duplicate list": [],
+    "original form": "Advisory.com",
+    "bare minimum form": "advisory.com",
+    "original start position of the current link": 100643,
+    "original end position of the current link": 100654,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link190": {
+    "duplicate list": [
+      "link314"
+    ],
+    "original form": "https://www.agfahealthcare.com/worldmap/northamerica/united-states/**",
+    "bare minimum form": "agfahealthcare.com/worldmap/northamerica/united-states",
+    "original start position of the current link": 101609,
+    "original end position of the current link": 101677,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link191": {
+    "duplicate list": [
+      "link270"
+    ],
+    "original form": "https://www.agfahealthcare.com/rsna/demos/**",
+    "bare minimum form": "agfahealthcare.com/rsna/demos",
+    "original start position of the current link": 101939,
+    "original end position of the current link": 101982,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link192": {
+    "duplicate list": [
+      "link310"
+    ],
+    "original form": "https://www.zoominfo.com/pic/agfa-healthcare-corp/1112037369**",
+    "bare minimum form": "zoominfo.com/pic/agfa-healthcare-corp/1112037369",
+    "original start position of the current link": 102491,
+    "original end position of the current link": 102552,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link194": {
+    "duplicate list": [
+      "link281"
+    ],
+    "original form": "https://www.agfahealthcare.com/breast-imaging/**",
+    "bare minimum form": "agfahealthcare.com/breast-imaging",
+    "original start position of the current link": 103053,
+    "original end position of the current link": 103100,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link196": {
+    "duplicate list": [],
+    "original form": "https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=83154606**",
+    "bare minimum form": "agfahealthcare.com/he/global/en/internet/he/library/libraryopen?ID=83154606",
+    "original start position of the current link": 104217,
+    "original end position of the current link": 104295,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link198": {
+    "duplicate list": [
+      "link258"
+    ],
+    "original form": "http://www.agfa.com/he/global/en/internet/main/resources/blp/user_doc.jsp**",
+    "bare minimum form": "agfahealthcare.com/he/global/en/internet/main/resources/blp/user_doc.jsp",
+    "original start position of the current link": 105372,
+    "original end position of the current link": 105446,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link199": {
+    "duplicate list": [
+      "link293"
+    ],
+    "original form": "https://knowledgebase-healthcare-ex.agfa.net/library/IITS/Enterprise_Imaging/Desktops/Desktops_8_1_4/axk1425415129217/en-us/webhelp/nxn1612526597012.html**",
+    "bare minimum form": "knowledgebase-healthcare-ex.agfa.net/library/IITS/Enterprise_Imaging/Desktops/Desktops_8_1_4/axk1425415129217/en-us/webhelp/nxn1612526597012.html",
+    "original start position of the current link": 105761,
+    "original end position of the current link": 105915,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link200": {
+    "duplicate list": [
+      "link266"
+    ],
+    "original form": "https://www.auntminnie.com/imaging-informatics/enterprise-imaging/pacs-vna/article/15615936/agfa-debuts-new-enterprise-imaging-release**",
+    "bare minimum form": "auntminnie.com/imaging-informatics/enterprise-imaging/pacs-vna/article/15615936/agfa-debuts-new-enterprise-imaging-release",
+    "original start position of the current link": 106406,
+    "original end position of the current link": 106541,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link201": {
+    "duplicate list": [],
+    "original form": "AuntMinnie.com",
+    "bare minimum form": "auntminnie.com",
+    "original start position of the current link": 106608,
+    "original end position of the current link": 106621,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link202": {
+    "duplicate list": [
+      "link316"
+    ],
+    "original form": "https://www.agfahealthcare.com/worldmap/northamerica/canada/waterloo/**",
+    "bare minimum form": "agfahealthcare.com/worldmap/northamerica/canada/waterloo",
+    "original start position of the current link": 107187,
+    "original end position of the current link": 107257,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link204": {
+    "duplicate list": [
+      "link245"
+    ],
+    "original form": "https://www.agfahealthcare.com/regulatory-compliance/**",
+    "bare minimum form": "agfahealthcare.com/regulatory-compliance",
+    "original start position of the current link": 108174,
+    "original end position of the current link": 108228,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link206": {
+    "duplicate list": [],
+    "original form": "https://www.agfa.com/corporate/news-item/agfa-healthcare-among-the-first-to-receive-new-european-medical-device-regulation-certification/**",
+    "bare minimum form": "agfahealthcare.com/corporate/news-item/agfa-healthcare-among-the-first-to-receive-new-european-medical-device-regulation-certification",
+    "original start position of the current link": 108993,
+    "original end position of the current link": 109131,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link207": {
+    "duplicate list": [
+      "link269"
+    ],
+    "original form": "https://www.reddit.com/r/PACSAdmin/comments/1mtmcik/agfa_ei_experience/**",
+    "bare minimum form": "reddit.com/r/PACSAdmin/comments/1mtmcik/agfa_ei_experience",
+    "original start position of the current link": 109520,
+    "original end position of the current link": 109592,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link208": {
+    "duplicate list": [
+      "link225"
+    ],
+    "original form": "https://klasresearch.com/review/agfa-healthcare-impax-global/1486**",
+    "bare minimum form": "klasresearch.com/review/agfa-healthcare-impax-global/1486",
+    "original start position of the current link": 110078,
+    "original end position of the current link": 110144,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link209": {
+    "duplicate list": [
+      "link289"
+    ],
+    "original form": "https://healthmanagement.org/c/imaging/PressRelease/agfa-healthcare-receives-fda-510-k-clearance-for-xero-r**",
+    "bare minimum form": "healthmanagement.org/c/imaging/PressRelease/agfa-healthcare-receives-fda-510-k-clearance-for-xero-r",
+    "original start position of the current link": 110455,
+    "original end position of the current link": 110563,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link216": {
+    "duplicate list": [],
+    "original form": "https://www.evolucare.com/fr/transformer-limagerie-medicale-en-france-avec-agfa-healthcare/",
+    "bare minimum form": "evolucare.com/fr/transformer-limagerie-medicale-en-france-avec-agfa-healthcare",
+    "original start position of the current link": 113798,
+    "original end position of the current link": 113888,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link219": {
+    "duplicate list": [],
+    "original form": "https://physicians.nshealth.ca/news/update-new-enterprise-imaging-solution",
+    "bare minimum form": "physicians.nshealth.ca/news/update-new-enterprise-imaging-solution",
+    "original start position of the current link": 114091,
+    "original end position of the current link": 114164,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link221": {
+    "duplicate list": [],
+    "original form": "https://www.agfa.com/he/global/en/internet/image_management/enterprise_imaging/",
+    "bare minimum form": "agfahealthcare.com/he/global/en/internet/image_management/enterprise_imaging",
+    "original start position of the current link": 114255,
+    "original end position of the current link": 114333,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link226": {
+    "duplicate list": [],
+    "original form": "https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=79390343",
+    "bare minimum form": "agfahealthcare.com/he/global/en/internet/he/library/libraryopen?ID=79390343",
+    "original start position of the current link": 114636,
+    "original end position of the current link": 114712,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link227": {
+    "duplicate list": [],
+    "original form": "https://www.evolucare.com/en/evolucare-agfa-partnership/",
+    "bare minimum form": "evolucare.com/en/evolucare-agfa-partnership",
+    "original start position of the current link": 114720,
+    "original end position of the current link": 114775,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link228": {
+    "duplicate list": [],
+    "original form": "https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=50671545",
+    "bare minimum form": "agfahealthcare.com/he/global/en/internet/he/library/libraryopen?ID=50671545",
+    "original start position of the current link": 114783,
+    "original end position of the current link": 114859,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link230": {
+    "duplicate list": [],
+    "original form": "http://www.agfa.com/he/france/fr/internet/main/products_services/enterprise_imaging/index.jsp",
+    "bare minimum form": "agfahealthcare.com/he/france/fr/internet/main/products_services/enterprise_imaging/index.jsp",
+    "original start position of the current link": 114994,
+    "original end position of the current link": 115086,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link231": {
+    "duplicate list": [],
+    "original form": "https://www.canhealth.com/2024/06/27/upgraded-pacs-in-nwt-allows-clinicians-to-share-images-more-easily/",
+    "bare minimum form": "canhealth.com/2024/06/27/upgraded-pacs-in-nwt-allows-clinicians-to-share-images-more-easily",
+    "original start position of the current link": 115094,
+    "original end position of the current link": 115197,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link233": {
+    "duplicate list": [],
+    "original form": "https://www.accessdata.fda.gov/cdrh_docs/pdf7/K071297.pdf",
+    "bare minimum form": "accessdata.fda.gov/cdrh_docs/pdf7/K071297.pdf",
+    "original start position of the current link": 115270,
+    "original end position of the current link": 115326,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link234": {
+    "duplicate list": [],
+    "original form": "https://www.auntminnie.com/imaging-informatics/enterprise-imaging/pacs-vna/article/15569053/agfa-pacs-ris-gateway-get-air-force-ok",
+    "bare minimum form": "auntminnie.com/imaging-informatics/enterprise-imaging/pacs-vna/article/15569053/agfa-pacs-ris-gateway-get-air-force-ok",
+    "original start position of the current link": 115334,
+    "original end position of the current link": 115463,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link235": {
+    "duplicate list": [],
+    "original form": "https://www.auntminnie.com/imaging-informatics/enterprise-imaging/article/15676481/carplai-fda-grants-carplai-510k-for-enterprise-imaging-ai-platform",
+    "bare minimum form": "auntminnie.com/imaging-informatics/enterprise-imaging/article/15676481/carplai-fda-grants-carplai-510k-for-enterprise-imaging-ai-platform",
+    "original start position of the current link": 115471,
+    "original end position of the current link": 115619,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link236": {
+    "duplicate list": [],
+    "original form": "https://theimagingwire.com/news/philips-pacs-vulnerable-agfa-canon-clear-fda-item-heads-up/",
+    "bare minimum form": "theimagingwire.com/news/philips-pacs-vulnerable-agfa-canon-clear-fda-item-heads-up",
+    "original start position of the current link": 115627,
+    "original end position of the current link": 115717,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link239": {
+    "duplicate list": [],
+    "original form": "https://www.healthcareitnews.com/news/ai-transforming-imaging-fda-approvals-continuing-apace",
+    "bare minimum form": "healthcareitnews.com/news/ai-transforming-imaging-fda-approvals-continuing-apace",
+    "original start position of the current link": 115924,
+    "original end position of the current link": 116015,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link241": {
+    "duplicate list": [],
+    "original form": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=167192",
+    "bare minimum form": "accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=167192",
+    "original start position of the current link": 116086,
+    "original end position of the current link": 116159,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link242": {
+    "duplicate list": [],
+    "original form": "https://www.agfa.com/corporate/news-item/the-agfa-gevaert-group-in-q3-2022-regulated-information/",
+    "bare minimum form": "agfahealthcare.com/corporate/news-item/the-agfa-gevaert-group-in-q3-2022-regulated-information",
+    "original start position of the current link": 116167,
+    "original end position of the current link": 116263,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link247": {
+    "duplicate list": [],
+    "original form": "https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=81490831",
+    "bare minimum form": "agfahealthcare.com/he/global/en/internet/he/library/libraryopen?ID=81490831",
+    "original start position of the current link": 116675,
+    "original end position of the current link": 116751,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link248": {
+    "duplicate list": [],
+    "original form": "https://www.agfa.com/corporate/news-item/agfa-healthcare-among-the-first-to-receive-new-european-medical-device-regulation-certification-for-its-class-iia-solutions/",
+    "bare minimum form": "agfahealthcare.com/corporate/news-item/agfa-healthcare-among-the-first-to-receive-new-european-medical-device-regulation-certification-for-its-class-iia-solutions",
+    "original start position of the current link": 116759,
+    "original end position of the current link": 116923,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link249": {
+    "duplicate list": [],
+    "original form": "https://medimaging.net/imaging-it/articles/294770410/enterprise-imaging-viewer-receives-clearance-for-additional-apps.html",
+    "bare minimum form": "medimaging.net/imaging-it/articles/294770410/enterprise-imaging-viewer-receives-clearance-for-additional-apps.html",
+    "original start position of the current link": 116931,
+    "original end position of the current link": 117052,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link250": {
+    "duplicate list": [],
+    "original form": "https://knowledgebase-healthcare-ex.agfa.net/library/IITS/Enterprise_Imaging/Desktops/Desktops_8_1_4/axk1425415129217/en-us/webhelp/axk1425412988102.html",
+    "bare minimum form": "knowledgebase-healthcare-ex.agfa.net/library/IITS/Enterprise_Imaging/Desktops/Desktops_8_1_4/axk1425415129217/en-us/webhelp/axk1425412988102.html",
+    "original start position of the current link": 117060,
+    "original end position of the current link": 117212,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link259": {
+    "duplicate list": [],
+    "original form": "https://cass.co.nz/storage/Agfa%20-%20EI%20for%20Radiologists.pdf",
+    "bare minimum form": "cass.co.nz/storage/Agfa%20-%20EI%20for%20Radiologists.pdf",
+    "original start position of the current link": 117883,
+    "original end position of the current link": 117947,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link260": {
+    "duplicate list": [],
+    "original form": "https://www.slideshare.net/slideshow/enterprise-imaging-case-study/73715307",
+    "bare minimum form": "slideshare.net/slideshow/enterprise-imaging-case-study/73715307",
+    "original start position of the current link": 117955,
+    "original end position of the current link": 118029,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link261": {
+    "duplicate list": [],
+    "original form": "https://agfaradiologysolutions.com/user-documentation/",
+    "bare minimum form": "agfaradiologysolutions.com/user-documentation",
+    "original start position of the current link": 118037,
+    "original end position of the current link": 118090,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link262": {
+    "duplicate list": [],
+    "original form": "https://www.dicardiology.com/content/agfa-healthcare-displaying-enhanced-enterprise-imaging-solutions-himss15",
+    "bare minimum form": "dicardiology.com/content/agfa-healthcare-displaying-enhanced-enterprise-imaging-solutions-himss15",
+    "original start position of the current link": 118098,
+    "original end position of the current link": 118206,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link263": {
+    "duplicate list": [],
+    "original form": "https://knowledgebase-healthcare-ex.agfa.net/library/IITS/Enterprise_Imaging/Desktops/Desktops_8_1_4/axk1425415129217/en-us/webhelp/bhg1612526594710.html",
+    "bare minimum form": "knowledgebase-healthcare-ex.agfa.net/library/IITS/Enterprise_Imaging/Desktops/Desktops_8_1_4/axk1425415129217/en-us/webhelp/bhg1612526594710.html",
+    "original start position of the current link": 118214,
+    "original end position of the current link": 118366,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link264": {
+    "duplicate list": [],
+    "original form": "https://www.scribd.com/document/602808897/CR-12-X-English-datasheet",
+    "bare minimum form": "scribd.com/document/602808897/CR-12-X-English-datasheet",
+    "original start position of the current link": 118374,
+    "original end position of the current link": 118440,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link268": {
+    "duplicate list": [],
+    "original form": "https://www.medaxiom.com/clientuploads/Corporate%20Partners/Agfa/Driving_Lower_Total_Cost_of_Ownersip_for_Healthcare_Provider_Organizations.pdf",
+    "bare minimum form": "medaxiom.com/clientuploads/Corporate%20Partners/Agfa/Driving_Lower_Total_Cost_of_Ownersip_for_Healthcare_Provider_Organizations.pdf",
+    "original start position of the current link": 118702,
+    "original end position of the current link": 118844,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link272": {
+    "duplicate list": [],
+    "original form": "https://www.agfa.com/corporate/news-item/agfa-healthcare-secures-major-new-deal-with-alliance-medical-for-a-comprehensive-cloud-based-enterprise-imaging-solution-across-the-uk/",
+    "bare minimum form": "agfahealthcare.com/corporate/news-item/agfa-healthcare-secures-major-new-deal-with-alliance-medical-for-a-comprehensive-cloud-based-enterprise-imaging-solution-across-the-uk",
+    "original start position of the current link": 119063,
+    "original end position of the current link": 119238,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link274": {
+    "duplicate list": [],
+    "original form": "https://www.taloflow.ai/guides/comparisons/agfaimaging-vs-leicabiodigitalpathology-medical-imaging",
+    "bare minimum form": "taloflow.ai/guides/comparisons/agfaimaging-vs-leicabiodigitalpathology-medical-imaging",
+    "original start position of the current link": 119294,
+    "original end position of the current link": 119391,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link275": {
+    "duplicate list": [],
+    "original form": "http://www.agfa.com/he/global/en/internet/main/resources/literature/enterprise_imaging_downloads.jsp",
+    "bare minimum form": "agfahealthcare.com/he/global/en/internet/main/resources/literature/enterprise_imaging_downloads.jsp",
+    "original start position of the current link": 119399,
+    "original end position of the current link": 119498,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link276": {
+    "duplicate list": [],
+    "original form": "https://www.edgenexus.io/applications/load-balance-agfa-enterprise-imaging/",
+    "bare minimum form": "edgenexus.io/applications/load-balance-agfa-enterprise-imaging",
+    "original start position of the current link": 119506,
+    "original end position of the current link": 119580,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link278": {
+    "duplicate list": [],
+    "original form": "https://www.sugarcrm.com/customers/case-studies/agfa/",
+    "bare minimum form": "sugarcrm.com/customers/case-studies/agfa",
+    "original start position of the current link": 119615,
+    "original end position of the current link": 119667,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link279": {
+    "duplicate list": [],
+    "original form": "https://www.auntminnie.com/imaging-informatics/enterprise-imaging/pacs-vna/article/15569439/agfa-posts-small-healthcare-dip-divests-consumer-imaging-unit",
+    "bare minimum form": "auntminnie.com/imaging-informatics/enterprise-imaging/pacs-vna/article/15569439/agfa-posts-small-healthcare-dip-divests-consumer-imaging-unit",
+    "original start position of the current link": 119675,
+    "original end position of the current link": 119827,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link280": {
+    "duplicate list": [],
+    "original form": "https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=54472549",
+    "bare minimum form": "agfahealthcare.com/he/global/en/internet/he/library/libraryopen?ID=54472549",
+    "original start position of the current link": 119835,
+    "original end position of the current link": 119911,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link284": {
+    "duplicate list": [],
+    "original form": "https://www.dicardiology.com/product/fda-clears-agfas-xero-viewer-full-fidelity-view",
+    "bare minimum form": "dicardiology.com/product/fda-clears-agfas-xero-viewer-full-fidelity-view",
+    "original start position of the current link": 120186,
+    "original end position of the current link": 120269,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link285": {
+    "duplicate list": [],
+    "original form": "https://fr.medicaldevices.icij.org/devices/col-impax-pacs-and-ris-agfa",
+    "bare minimum form": "fr.medicaldevices.icij.org/devices/col-impax-pacs-and-ris-agfa",
+    "original start position of the current link": 120277,
+    "original end position of the current link": 120346,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link286": {
+    "duplicate list": [],
+    "original form": "https://www.auntminnie.com/imaging-informatics/enterprise-imaging/pacs-vna/article/15612551/fda-clears-agfas-xero-mobile-image-viewer",
+    "bare minimum form": "auntminnie.com/imaging-informatics/enterprise-imaging/pacs-vna/article/15612551/fda-clears-agfas-xero-mobile-image-viewer",
+    "original start position of the current link": 120354,
+    "original end position of the current link": 120486,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link287": {
+    "duplicate list": [],
+    "original form": "https://radiologybusiness.com/topics/health-it/enterprise-imaging/fda-clears-agfas-xero-viewer-diagnostic-reads",
+    "bare minimum form": "radiologybusiness.com/topics/health-it/enterprise-imaging/fda-clears-agfas-xero-viewer-diagnostic-reads",
+    "original start position of the current link": 120494,
+    "original end position of the current link": 120604,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link288": {
+    "duplicate list": [],
+    "original form": "https://knowledgebase-healthcare-ex.agfa.net/library/IITS/Enterprise_Imaging/Desktops/Desktops_8_1_4/axk1425415129217/en-us/webhelp/axk1425414915803.html",
+    "bare minimum form": "knowledgebase-healthcare-ex.agfa.net/library/IITS/Enterprise_Imaging/Desktops/Desktops_8_1_4/axk1425415129217/en-us/webhelp/axk1425414915803.html",
+    "original start position of the current link": 120612,
+    "original end position of the current link": 120764,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link294": {
+    "duplicate list": [],
+    "original form": "https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=37792878",
+    "bare minimum form": "agfahealthcare.com/he/global/en/internet/he/library/libraryopen?ID=37792878",
+    "original start position of the current link": 121308,
+    "original end position of the current link": 121384,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link295": {
+    "duplicate list": [],
+    "original form": "https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=69750221",
+    "bare minimum form": "agfahealthcare.com/he/global/en/internet/he/library/libraryopen?ID=69750221",
+    "original start position of the current link": 121392,
+    "original end position of the current link": 121468,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link296": {
+    "duplicate list": [],
+    "original form": "https://support.hyland.com/r/OnBase/Installation-Requirements/Foundation-23.1/Installation-Requirements/Integration-for-Medical-Imaging-Viewer-Agfa",
+    "bare minimum form": "support.hyland.com/r/OnBase/Installation-Requirements/Foundation-23.1/Installation-Requirements/Integration-for-Medical-Imaging-Viewer-Agfa",
+    "original start position of the current link": 121476,
+    "original end position of the current link": 121622,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link299": {
+    "duplicate list": [],
+    "original form": "http://www.agfa.com/he/global/en/internet/main/products_services/product-info/interoperability/hl7/index.jsp",
+    "bare minimum form": "agfahealthcare.com/he/global/en/internet/main/products_services/product-info/interoperability/hl7/index.jsp",
+    "original start position of the current link": 121787,
+    "original end position of the current link": 121894,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link300": {
+    "duplicate list": [],
+    "original form": "https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=81940483",
+    "bare minimum form": "agfahealthcare.com/he/global/en/internet/he/library/libraryopen?ID=81940483",
+    "original start position of the current link": 121902,
+    "original end position of the current link": 121978,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link301": {
+    "duplicate list": [],
+    "original form": "https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=37792466",
+    "bare minimum form": "agfahealthcare.com/he/global/en/internet/he/library/libraryopen?ID=37792466",
+    "original start position of the current link": 121986,
+    "original end position of the current link": 122062,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link302": {
+    "duplicate list": [],
+    "original form": "https://docs.progress.com/bundle/loadmaster-deployment-guide-agfa-ga/page/Introduction.html",
+    "bare minimum form": "docs.progress.com/bundle/loadmaster-deployment-guide-agfa-ga/page/Introduction.html",
+    "original start position of the current link": 122070,
+    "original end position of the current link": 122160,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link303": {
+    "duplicate list": [],
+    "original form": "https://www.scribd.com/document/845644258/AGFA-HealthCare-Enterprise-Imaging-Brochure",
+    "bare minimum form": "scribd.com/document/845644258/AGFA-HealthCare-Enterprise-Imaging-Brochure",
+    "original start position of the current link": 122168,
+    "original end position of the current link": 122252,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link304": {
+    "duplicate list": [],
+    "original form": "https://www.scribd.com/document/636501564/Untitled",
+    "bare minimum form": "scribd.com/document/636501564/Untitled",
+    "original start position of the current link": 122260,
+    "original end position of the current link": 122309,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link305": {
+    "duplicate list": [],
+    "original form": "https://www.ihe-europe.net/sites/default/files/Imaging%20Reportv1.pdf",
+    "bare minimum form": "ihe-europe.net/sites/default/files/Imaging%20Reportv1.pdf",
+    "original start position of the current link": 122317,
+    "original end position of the current link": 122385,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link307": {
+    "duplicate list": [],
+    "original form": "https://www.agfa.com/printing/global/usa/customer-care/",
+    "bare minimum form": "agfahealthcare.com/printing/global/usa/customer-care",
+    "original start position of the current link": 122519,
+    "original end position of the current link": 122573,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link308": {
+    "duplicate list": [],
+    "original form": "https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=49771363",
+    "bare minimum form": "agfahealthcare.com/he/global/en/internet/he/library/libraryopen?ID=49771363",
+    "original start position of the current link": 122581,
+    "original end position of the current link": 122657,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  },
+  "link312": {
+    "duplicate list": [],
+    "original form": "https://www.agfa.com/printing/worldwide/north-south-america/canada/canada/",
+    "bare minimum form": "agfahealthcare.com/printing/worldwide/north-south-america/canada/canada",
+    "original start position of the current link": 122903,
+    "original end position of the current link": 122976,
+    "accompanying RAG summary + metadata string": "",
+    "selected": 1
+  }
+}

@@ -1,0 +1,1245 @@
+[AGFA HealthCare Enterprise Imaging] | PACS / Diagnostic Imaging Viewer | [https://www.agfahealthcare.com/enterprise-imaging-platform/](https://www.agfahealthcare.com/enterprise-imaging-platform/)
+
+1. [https://www.agfahealthcare.com/enterprise-imaging-platform/](https://www.agfahealthcare.com/enterprise-imaging-platform/)
+2. Enterprise Imaging Platform — AGFA HealthCare — web page (date not shown)
+   Enterprise Imaging landing page describing the “Enterprise Imaging Platform” and its positioning across service lines (Radiology, Cardiology, Pathology, Breast imaging, Molecular Imaging, POCUS).
+   Navigation explicitly lists modular components including VNA, XERO Universal Viewer, Streaming Client, and Enterprise Workflows.
+   Page includes links to customer success stories and related Enterprise Imaging offerings within the platform suite.
+
+[AGFA HealthCare Enterprise Imaging] | PACS / Diagnostic Imaging Viewer | [https://www.agfahealthcare.com/enterprise-imaging-platform/](https://www.agfahealthcare.com/enterprise-imaging-platform/)
+
+1. [https://www.agfahealthcare.com/wp-content/uploads/2024/11/001792_Enterprise-Imaging-Platform-Digital-platform-to-grow-work-and-connect_brochure.pdf](https://www.agfahealthcare.com/wp-content/uploads/2024/11/001792_Enterprise-Imaging-Platform-Digital-platform-to-grow-work-and-connect_brochure.pdf)
+2. Enterprise Imaging Platform: Digital platform to grow, work and connect — AGFA HealthCare — PDF brochure (file dated 2024-11-01 in source metadata)
+   Vendor brochure describing Enterprise Imaging as an enterprise imaging platform with embedded EHR workflows and cross-enterprise image access.
+   States Epic and Oracle Health/Cerner EHR integration examples and describes a “single viewer and clinical workstation” approach.
+   Includes enterprise claims about “anywhere access,” collaboration tools, and platform modules (e.g., XERO Universal Viewer, VNA, Streaming Client, Cloud).
+
+[AGFA HealthCare Enterprise Imaging] | PACS / Diagnostic Imaging Viewer | [https://www.agfahealthcare.com/enterprise-imaging-platform/](https://www.agfahealthcare.com/enterprise-imaging-platform/)
+
+1. [https://www.agfahealthcare.com/universal-viewer/](https://www.agfahealthcare.com/universal-viewer/)
+2. XERO® Universal Viewer — AGFA HealthCare — web page (date not shown)
+   Describes a zero-footprint HTML5 web viewer where “all of the image processing is done on the server,” and access is via common browsers/operating systems.
+   Lists viewing/interactivity tools for mobile use: pan, zoom, rotate, flip, window/level, scroll, and measure; supports QR-code-based image sharing.
+   States diagnostic vs reference quality display switching and that “Full Fidelity mode is 510K and Health Canada approved for diagnostic quality.”
+
+[AGFA HealthCare Enterprise Imaging] | PACS / Diagnostic Imaging Viewer | [https://www.agfahealthcare.com/enterprise-imaging-platform/](https://www.agfahealthcare.com/enterprise-imaging-platform/)
+
+1. [https://www.agfahealthcare.com/xero-xtend-full-fidelity/](https://www.agfahealthcare.com/xero-xtend-full-fidelity/)
+2. XERO Xtend + Full Fidelity — AGFA HealthCare — web page (date not shown)
+   Defines module naming/stacking: XERO Universal Viewer, plus “XERO Xtend,” plus “XERO Full Fidelity” for diagnostic-quality viewing and advanced tools.
+   States Full Fidelity enables retrieval of original renditions on diagnostic-quality monitors and, for validated mobile devices, CR, DX, CT, MRI, ECG, and US images.
+   States users can switch between lossy-compressed reference views and Full Fidelity diagnostic-quality views and that the viewer can be embedded in the EMR.
+
+[AGFA HealthCare Enterprise Imaging] | PACS / Diagnostic Imaging Viewer | [https://www.agfahealthcare.com/enterprise-imaging-platform/](https://www.agfahealthcare.com/enterprise-imaging-platform/)
+
+1. [https://www.agfahealthcare.com/streaming/](https://www.agfahealthcare.com/streaming/)
+2. Enterprise Imaging Streaming Client — AGFA HealthCare — web page (date not shown)
+   Describes “Streaming Client for diagnostic imaging” with claims of “full diagnostic quality” access from any location and “blazing-fast” image accessibility.
+   States collaboration features including real-time chat and screen sharing and that the Streaming Client “merges clinical and diagnostic viewers into a Universal Viewer.”
+   Describes “intelligent pixel cache” streaming pixels only once for the viewed area and includes a demo request and brochure download call-to-action.
+
+[AGFA HealthCare Enterprise Imaging] | PACS / Diagnostic Imaging Viewer | [https://www.agfahealthcare.com/enterprise-imaging-platform/](https://www.agfahealthcare.com/enterprise-imaging-platform/)
+
+1. [https://www.agfahealthcare.com/ei-cloud/](https://www.agfahealthcare.com/ei-cloud/)
+2. Enterprise Imaging Cloud — AGFA HealthCare — web page (date not shown)
+   States “Enterprise Imaging Cloud” is a “hands-free, fully managed SaaS solution on the cloud,” with “predictable costs and responsibilities.”
+   Lists software resiliency items including seamless security patching, high-uptime upgrades/updates, blue-green deployments, and “native self-healing mechanisms and container modularity.”
+   Lists scale and infrastructure claims (scale on-demand, unburdened storage renewal/expansion) and includes “Schedule a Demo” and brochure/guide/white-paper downloads.
+
+[AGFA HealthCare Enterprise Imaging] | PACS / Diagnostic Imaging Viewer | [https://www.agfahealthcare.com/enterprise-imaging-platform/](https://www.agfahealthcare.com/enterprise-imaging-platform/)
+
+1. [https://www.agfahealthcare.com/vna/](https://www.agfahealthcare.com/vna/)
+2. Enterprise Imaging VNA — AGFA HealthCare — web page (date not shown)
+   Describes Enterprise Imaging VNA as a standards-based platform for storing curated multimedia image data and creating a longitudinal view accessible within the EMR.
+   States privacy/security tooling and explicitly says “The audit record repository is IHE ATNA-compliant”; claims compliance support for GDPR and HIPAA.
+   States cloud readiness and that imaging data can be hosted on public clouds such as Microsoft Azure and Amazon Web Services; also states support for HL7, DICOM, Non-DICOM, XDS and FHIR data type integrations.
+
+[AGFA HealthCare Enterprise Imaging] | PACS / Diagnostic Imaging Viewer | [https://www.agfahealthcare.com/enterprise-imaging-platform/](https://www.agfahealthcare.com/enterprise-imaging-platform/)
+
+1. [https://www.agfahealthcare.com/global/en/he/library/libraryopen?ID=80501840](https://www.agfahealthcare.com/global/en/he/library/libraryopen?ID=80501840)
+2. 6 Good Reasons to implement Enterprise Imaging VNA — AGFA HealthCare — PDF brochure (date not shown on first page excerpt)
+   Vendor brochure listing “6 Good Reasons” including reduced complexity, robust metadata workflows, care team collaboration, consolidated workflows, cross-regional care, and cloud-enabled archiving.
+   Explicitly lists captured/stored content types: diagnostic imaging, evidence imaging (pictures/photos/videos), image-based clinical reports, and procedure imaging (EEG, ECG, endoscopy, etc.).
+   States configuration/administration via web-based tools and references adding XERO Universal Viewer for timeline view and specialty hanging protocols.
+
+[AGFA HealthCare Enterprise Imaging] | PACS / Diagnostic Imaging Viewer | [https://www.agfahealthcare.com/enterprise-imaging-platform/](https://www.agfahealthcare.com/enterprise-imaging-platform/)
+
+1. [https://www.agfahealthcare.com/xen-federated-imaging-network/](https://www.agfahealthcare.com/xen-federated-imaging-network/)
+2. XERO Exchange Network (XEN) / Federated Imaging Network — AGFA HealthCare — web page (date not shown)
+   Describes federated querying where XERO Universal Viewer reaches out to multiple back-end imaging managers (including validated third-party systems) and “streams the images to the user’s desktop.”
+   Positioned as a multi-source consolidation approach to present patient images without switching applications/viewers.
+   Provides a vendor statement describing automatic network querying and streaming behavior for multi-site viewing workflows.
+
+[AGFA HealthCare Enterprise Imaging] | PACS / Diagnostic Imaging Viewer | [https://www.agfahealthcare.com/enterprise-imaging-platform/](https://www.agfahealthcare.com/enterprise-imaging-platform/)
+
+1. [https://www.agfahealthcare.com/transition-to-enterprise-imaging/](https://www.agfahealthcare.com/transition-to-enterprise-imaging/)
+2. Transition to Enterprise Imaging for Radiology — AGFA HealthCare — web page (date not shown)
+   States “The FDA cleared XERO Viewer allows remote access to patient images and reports, using common browsers.”
+   Describes mobile image collaboration features and lists mobile functionalities including mobile reporting, mobile capture, mobile worklist, and search/filter/discovery functions.
+   Positions radiologists and clinicians using advanced image toolsets beyond a diagnostic workstation and links to XERO Universal Viewer.
+
+[AGFA HealthCare Enterprise Imaging] | PACS / Diagnostic Imaging Viewer | [https://www.agfahealthcare.com/enterprise-imaging-platform/](https://www.agfahealthcare.com/enterprise-imaging-platform/)
+
+1. [https://www.agfahealthcare.com/radiology/](https://www.agfahealthcare.com/radiology/)
+2. Enterprise Imaging for Radiology — AGFA HealthCare — web page (date not shown)
+   Describes a “single database” supporting data consistency for interpretation and “customizable hanging protocols” for consistent presentation “regardless of modality or location.”
+   States radiologist productivity features such as minimizing repetitive tasks and workstation-centric access to embedded tools and reporting/sectional reports.
+   Positions an “everything on one workstation” approach for the radiologist workflow within the Enterprise Imaging radiology suite.
+
+[AGFA HealthCare Enterprise Imaging] | PACS / Diagnostic Imaging Viewer | [https://www.agfahealthcare.com/enterprise-imaging-platform/](https://www.agfahealthcare.com/enterprise-imaging-platform/)
+
+1. [https://www.agfahealthcare.com/information-security-privacy/](https://www.agfahealthcare.com/information-security-privacy/)
+2. Information Security & Privacy — AGFA HealthCare — web page (date not shown)
+   Corporate information security and privacy statements relevant to AGFA HealthCare solutions (web content).
+   Describes security/privacy posture at a company level rather than a product-specific technical spec sheet.
+   Useful as a publicly posted vendor security reference when mapping claims to formal conformance/IHE security profiles.
+
+[AGFA HealthCare Enterprise Imaging] | PACS / Diagnostic Imaging Viewer | [https://www.agfahealthcare.com/enterprise-imaging-platform/](https://www.agfahealthcare.com/enterprise-imaging-platform/)
+
+1. [https://www.agfa.com/he/usa/en/internet/image_management/resources/literature/enterprise_imaging_downloads.jsp](https://www.agfa.com/he/usa/en/internet/image_management/resources/literature/enterprise_imaging_downloads.jsp)
+2. Enterprise Imaging Downloads — AGFA (Agfa HealthCare) — web page (date not shown)
+   Download index page for Enterprise Imaging collateral and documentation from AGFA’s site.
+   Provides an entry point to vendor-published literature (e.g., brochures, reference materials, and related artifacts) for Enterprise Imaging.
+   Useful as a hub to locate additional primary PDFs (technical docs, datasheets, and other vendor artifacts) when building a documentation set.
+
+[AGFA HealthCare Enterprise Imaging] | PACS / Diagnostic Imaging Viewer | [https://www.agfahealthcare.com/enterprise-imaging-platform/](https://www.agfahealthcare.com/enterprise-imaging-platform/)
+
+1. [https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=81709056](https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=81709056)
+2. DICOM Conformance Statement: Enterprise Imaging 8.3.x — AGFA HealthCare — PDF (AGFA HealthCare dated 4 January 2024; Doc No. 001667 Rev. 8)
+   DICOM conformance statement for Enterprise Imaging 8.3.x describing DICOM roles, network behaviors, and interoperability requirements.
+   Includes explicit descriptions of Query/Retrieve behaviors (C-FIND responses and C-MOVE sequencing) and Storage Commitment behavior (N-ACTION / N-EVENT-REPORT handling).
+   Contains service-level details, status codes, and configuration/behavior notes intended for integrators validating DICOM interoperability with Enterprise Imaging components.
+
+[AGFA HealthCare Enterprise Imaging] | PACS / Diagnostic Imaging Viewer | [https://www.agfahealthcare.com/enterprise-imaging-platform/](https://www.agfahealthcare.com/enterprise-imaging-platform/)
+
+1. [https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=59957319](https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=59957319)
+2. DICOM Conformance Statement: Enterprise Imaging 8.0.x — AGFA HealthCare — PDF (AGFA HealthCare dated 8 August 2017 in source metadata)
+   DICOM conformance statement for Enterprise Imaging 8.0.x describing DICOM connectivity and conformance expectations.
+   Documented for interoperability testing with third-party DICOM devices and systems, including association and service behavior details.
+   Provides a baseline reference for older EI deployments and version-specific DICOM capabilities and constraints.
+
+[AGFA HealthCare Enterprise Imaging] | PACS / Diagnostic Imaging Viewer | [https://www.agfahealthcare.com/enterprise-imaging-platform/](https://www.agfahealthcare.com/enterprise-imaging-platform/)
+
+1. [https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=48850540](https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=48850540)
+2. DICOM Conformance Statement: Enterprise Imaging VNA 8.0.0 — AGFA HealthCare — PDF (Agfa HealthCare dated 1 October 2015; Doc No. 001498 Rev. 1.3)
+   DICOM conformance statement for Enterprise Imaging VNA describing Storage, Query/Retrieve, and Storage Commitment behaviors and presentation contexts.
+   Explicitly documents Storage Commitment both as SCU and SCP and describes N-ACTION / N-EVENT-REPORT sequencing and related attributes.
+   Explicitly states transfer syntax behavior including Implicit VR Little Endian and Explicit VR Little Endian preference and states the VNA “will not convert” objects into other compressed transfer syntaxes.
+
+[AGFA HealthCare Enterprise Imaging] | PACS / Diagnostic Imaging Viewer | [https://www.agfahealthcare.com/enterprise-imaging-platform/](https://www.agfahealthcare.com/enterprise-imaging-platform/)
+
+1. [https://www.agfahealthcare.com/wp-content/uploads/2025/04/001679_Enterprise_Imaging_8.4.x_DICOM_Conformance_Statement-5.pdf](https://www.agfahealthcare.com/wp-content/uploads/2025/04/001679_Enterprise_Imaging_8.4.x_DICOM_Conformance_Statement-5.pdf)
+2. DICOM Conformance Statement: Enterprise Imaging 8.4.x — AGFA HealthCare — PDF (dated 26 Mar 2025 in source snippet)
+   DICOM conformance statement for Enterprise Imaging 8.4.x documenting DICOM 3.0 interoperability for Enterprise Imaging components.
+   Source snippet explicitly references deployment of a Universal viewer (XERO) with Enterprise Imaging departmental solutions.
+   Intended as a primary artifact for validating DICOM roles/services, supported objects, and version-specific interoperability details for EI 8.4.x.
+
+[AGFA HealthCare Enterprise Imaging] | PACS / Diagnostic Imaging Viewer | [https://www.agfahealthcare.com/enterprise-imaging-platform/](https://www.agfahealthcare.com/enterprise-imaging-platform/)
+
+1. [https://www.agfahealthcare.com/wp-content/uploads/2025/04/001685_Enterprise_Imaging_8.4.x_IHE_Integration_Statement-1.pdf](https://www.agfahealthcare.com/wp-content/uploads/2025/04/001685_Enterprise_Imaging_8.4.x_IHE_Integration_Statement-1.pdf)
+2. IHE Integration Statement: Enterprise Imaging 8.4.x — AGFA HealthCare — PDF (date not shown in excerpt)
+   IHE Integration Statement enumerating IHE profiles, actors, and options implemented by Enterprise Imaging 8.4.x components (Core Server, Web Server, XERO Viewer).
+   Explicitly lists ITI profiles including ATNA (Audit Trail and Node Authentication), CT (Consistent Time), PIX/PDQ, and XDS.b/XDS-SD document consumption, plus multiple RAD/CARD profiles.
+   Primary artifact for IHE-based integration due diligence, including security/audit profile participation (ATNA) and domain workflow profile mapping.
+
+[AGFA HealthCare Enterprise Imaging] | PACS / Diagnostic Imaging Viewer | [https://www.agfahealthcare.com/enterprise-imaging-platform/](https://www.agfahealthcare.com/enterprise-imaging-platform/)
+
+1. [https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=81192186](https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=81192186)
+2. HL7 Conformance Statement: Enterprise Imaging 8.2.2 — AGFA HealthCare — PDF (dated February 2023 in document revision history)
+   HL7 v2 conformance statement describing Enterprise Imaging 8.2.2 HL7 services for system integration and interface design audiences.
+   Provides conformance framework guidance and references a companion “HL7 Conformance Profiles” bundle for validation.
+   Primary vendor document used to determine HL7 message/segment support and integration expectations for EI 8.2.2 deployments.
+
+[AGFA HealthCare Enterprise Imaging] | PACS / Diagnostic Imaging Viewer | [https://www.agfahealthcare.com/enterprise-imaging-platform/](https://www.agfahealthcare.com/enterprise-imaging-platform/)
+
+1. [https://www.agfahealthcare.com/wp-content/uploads/2025/04/001659_Enterprise_Imaging_8.2.2_FHIR_Conformance_Statement.pdf](https://www.agfahealthcare.com/wp-content/uploads/2025/04/001659_Enterprise_Imaging_8.2.2_FHIR_Conformance_Statement.pdf)
+2. FHIR Conformance Statement: Enterprise Imaging 8.2.2 — AGFA HealthCare — PDF (Agfa HealthCare dated 14 March 2023)
+   FHIR conformance statement for Enterprise Imaging 8.2.2 with an explicit “Technology Preview” disclaimer regarding potential future deprecations.
+   Written for integrators/software design audiences to understand EI FHIR interfaces in conjunction with the FHIR standard and IHE technical frameworks.
+   Primary artifact to identify stated FHIR capabilities, resources/profiles, and interface assumptions for EI 8.2.2.
+
+[AGFA HealthCare Enterprise Imaging] | PACS / Diagnostic Imaging Viewer | [https://www.agfahealthcare.com/enterprise-imaging-platform/](https://www.agfahealthcare.com/enterprise-imaging-platform/)
+
+1. [https://www.agfahealthcare.com/wp-content/uploads/2025/04/001665_Enterprise_Imaging_8.3.x_FHIR_Conformance_Statement.pdf](https://www.agfahealthcare.com/wp-content/uploads/2025/04/001665_Enterprise_Imaging_8.3.x_FHIR_Conformance_Statement.pdf)
+2. FHIR Conformance Statement: Enterprise Imaging 8.3.x — AGFA HealthCare — PDF (date not shown in snippet)
+   FHIR conformance statement for Enterprise Imaging 8.3.x intended for integration and software design audiences.
+   Used to determine explicitly documented FHIR capabilities and how EI aligns to referenced standards and interoperability frameworks.
+   Primary vendor artifact for EI 8.3.x FHIR interface due diligence (resource support, profiles/extensions, and interface behaviors as documented).
+
+[AGFA HealthCare Enterprise Imaging] | PACS / Diagnostic Imaging Viewer | [https://www.agfahealthcare.com/enterprise-imaging-platform/](https://www.agfahealthcare.com/enterprise-imaging-platform/)
+
+1. [https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?id=K170434](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?id=K170434)
+2. FDA 510(k) Premarket Notification: K170434 — U.S. FDA (accessdata.fda.gov) — database entry (date not shown)
+   FDA database record for K170434 providing the official regulatory index entry for the cleared device.
+   Includes FDA-structured fields such as applicant/manufacturer, decision date, and device identifiers as posted by FDA.
+   Primary source pointer to the publicly available FDA 510(k) summary PDF for K170434.
+
+[AGFA HealthCare Enterprise Imaging] | PACS / Diagnostic Imaging Viewer | [https://www.agfahealthcare.com/enterprise-imaging-platform/](https://www.agfahealthcare.com/enterprise-imaging-platform/)
+
+1. [https://www.accessdata.fda.gov/cdrh_docs/pdf17/K170434.pdf](https://www.accessdata.fda.gov/cdrh_docs/pdf17/K170434.pdf)
+2. 510(k) Summary: XERO Viewer — AGFA HealthCare — PDF (FDA summary for K170434)
+   FDA-cleared intended use describes the device as a web-based application for “remote access and visualization of medical images and reports” and notes it “can be used for primary diagnosis” in specific contexts.
+   Explicit modality scope includes CR, DX, CT, MR, US, and ECG images (diagnostic for validated mobile devices); explicitly states mammography is “not intended for primary diagnosis” and restricts breast tomosynthesis to “reference only.”
+   Describes viewing/analysis features including 2D viewing (zoom/pan/window/level), annotations/measurements, MPR/MIP, 3D volume rendering, comparative view layouts, and multi-planar thick slice.
+
+[AGFA HealthCare Enterprise Imaging] | PACS / Diagnostic Imaging Viewer | [https://www.agfahealthcare.com/enterprise-imaging-platform/](https://www.agfahealthcare.com/enterprise-imaging-platform/)
+
+1. [https://www.accessdata.fda.gov/cdrh_docs/pdf25/K252199.pdf](https://www.accessdata.fda.gov/cdrh_docs/pdf25/K252199.pdf)
+2. 510(k) Summary: AGFA HealthCare Enterprise Imaging Desktops — AGFA HealthCare — PDF (FDA summary for K252199)
+   FDA-cleared description identifies the device as “a multimodality DICOM viewing and processing application” for hospital-wide solutions where medical images are used by non-radiology healthcare professionals.
+   Explicitly lists major functions such as image layout, hanging protocols, comparisons, annotations/measurements, key images, and advanced visualization features (including MPR, MIP, 3D rendering, fusion, vessel tracking, segmentation, and registration).
+   Includes explicit limitation that “mammography image compression is not supported,” and describes integration positioning with RIS/CIS/HIS/EPR systems and reporting/third-party application integration.
+
+[AGFA HealthCare Enterprise Imaging] | PACS / Diagnostic Imaging Viewer | [https://www.agfahealthcare.com/enterprise-imaging-platform/](https://www.agfahealthcare.com/enterprise-imaging-platform/)
+
+1. [https://www.agfahealthcare.com/customer-successes/sparrow/](https://www.agfahealthcare.com/customer-successes/sparrow/)
+2. Enterprise Imaging journey: Sparrow Health System — AGFA HealthCare — customer success page (date not shown)
+   Customer success narrative describing an Enterprise Imaging deployment and operational/clinical workflow impacts in a named health system.
+   Used as qualitative evidence of platform adoption and referenced outcomes (site narrative and quotations).
+   Provides organization context and Enterprise Imaging components referenced as part of the implementation story.
+
+[AGFA HealthCare Enterprise Imaging] | PACS / Diagnostic Imaging Viewer | [https://www.agfahealthcare.com/enterprise-imaging-platform/](https://www.agfahealthcare.com/enterprise-imaging-platform/)
+
+1. [https://www.agfahealthcare.com/customer-successes/zuckerberg/](https://www.agfahealthcare.com/customer-successes/zuckerberg/)
+2. A solution that works: Zuckerberg San Francisco General Hospital — AGFA HealthCare — customer success page (date not shown)
+   Customer success narrative describing Enterprise Imaging usage and workflow outcomes in a named U.S. public hospital setting.
+   Used as qualitative evidence of Enterprise Imaging deployment characteristics and user-facing workflow claims (as reported by the organization/vendor page).
+   Provides context for platform utilization and links to related Enterprise Imaging solutions referenced by the vendor.
+
+[AGFA HealthCare Enterprise Imaging] | PACS / Diagnostic Imaging Viewer | [https://www.agfahealthcare.com/enterprise-imaging-platform/](https://www.agfahealthcare.com/enterprise-imaging-platform/)
+
+1. [https://www.agfahealthcare.com/customer-successes/my-clinic-jeddah/](https://www.agfahealthcare.com/customer-successes/my-clinic-jeddah/)
+2. Customer Success: My Clinic, Jeddah — AGFA HealthCare — customer success page (date not shown)
+   Customer case material describing Enterprise Imaging/XERO usage and workflow context in a named clinical organization.
+   Provides qualitative statements on deployment rationale, collaboration, and viewing access patterns (as published on vendor site).
+   Useful as non-regulatory evidence/case material for adoption and operational considerations.
+
+[AGFA HealthCare Enterprise Imaging] | PACS / Diagnostic Imaging Viewer | [https://www.agfahealthcare.com/enterprise-imaging-platform/](https://www.agfahealthcare.com/enterprise-imaging-platform/)
+
+1. [https://www.agfahealthcare.com/news/connectathon-2024/](https://www.agfahealthcare.com/news/connectathon-2024/)
+2. Connectathon 2024 (IHE / HL7 FHIR testing) — AGFA HealthCare — news page (date not shown)
+   Vendor news describing interoperability testing participation and outcomes at Connectathon events for Enterprise Imaging-related components.
+   States profile-based interoperability claims in the context of IHE/HL7 testing participation (as published by the vendor).
+   Useful as supplemental evidence of standards engagement alongside primary conformance and IHE integration statement PDFs.
+
+[AGFA HealthCare Enterprise Imaging] | PACS / Diagnostic Imaging Viewer | [https://www.agfahealthcare.com/enterprise-imaging-platform/](https://www.agfahealthcare.com/enterprise-imaging-platform/)
+
+1. [https://www.agfahealthcare.com/contact/](https://www.agfahealthcare.com/contact/)
+2. Contact — AGFA HealthCare — web page (date not shown)
+   Public commercial contact page providing inquiry pathways for AGFA HealthCare solutions, including Enterprise Imaging.
+   Includes phone contact details and a web form process for sales/general inquiries as published by the vendor.
+   Supports publicly sourced “sales contact / demo request” due diligence when paired with product pages containing “Schedule a Demo” calls-to-action.
+
+
+
+---
+
+
+
+Agfa HealthCare Enterprise Imaging (Agfa EI) | PACS / Diagnostic Imaging Viewer | https://www.agfahealthcare.com/enterprise-imaging-platform/
+
+---
+
+**SOURCE 1**
+
+https://intuitionlabs.ai/software/pdfs/agfa-healthcare-enterprise-imaging.pdf
+
+Agfa HealthCare Enterprise Imaging Brochure | Vendor PDF
+
+Comprehensive product brochure detailing Enterprise Imaging as a unified multi-specialty PACS/VNA platform integrating with EHRs (Epic, Cerner) to create an Imaging Health Record™ (IHR). Covers RUBEE® Orchestrator for intelligent workflow orchestration, XERO® Universal Viewer for diagnostic/universal viewing, native streaming client, VNA capabilities for DICOM/non-DICOM archiving, cloud deployment options, AI-powered analytics including Augmented Radiology and Lesion Tracking, and multi-departmental support (radiology, cardiology, pathology).
+
+---
+
+**SOURCE 2**
+
+https://www.agfahealthcare.com/wp-content/uploads/2024/10/AGFA_HealthCare_Enterprise_Imaging_-_Brochure.pdf
+
+AGFA HealthCare Enterprise Imaging Platform Brochure | Official Agfa PDF | October 2024
+
+Official platform brochure describing Enterprise Imaging's unified imaging ecosystem spanning radiology, cardiology, pathology and other specialties. Details include embedded EHR integration for longitudinal patient imaging access, RUBEE® workflow orchestration for real-time cross-organizational workflows, XERO® viewer for secure web-based diagnostic viewing with 3D/MPR/MIP capabilities, streaming client for remote reading, VNA for enterprise-wide DICOM/non-DICOM archiving, cloud deployment benefits (scalability, security, reduced infrastructure costs), and advanced features like structured reporting and business intelligence.
+
+---
+
+**SOURCE 3**
+
+https://www.agfahealthcare.com/wp-content/uploads/2025/04/001679_Enterprise_Imaging_8.4.x_DICOM_Conformance_Statement-5.pdf
+
+Enterprise Imaging 8.4.x DICOM Conformance Statement | Official Agfa Technical PDF | Document No. 001679, Revision 11 | March 26, 2025
+
+202-page technical specification documenting DICOM 3.0 2025 compliance for Enterprise Imaging version 8.4.x. Includes comprehensive tables of supported SOP Classes (Storage, Query/Retrieve, Modality Worklist, Storage Commitment, MPPS, Verification), application entities (Core Server AE, RESTful DICOMweb AE, Print AE, Web Server AE), transfer syntaxes (JPEG 2000 lossless/lossy, RLE, MPEG2/4, uncompressed variants), supported modalities (CR/DR, CT including Perfusion, MR, US, XA/RF, MG, PET, NM/SPECT, Intravascular OCT), DICOMweb services (WADO-URI, WADO-RS, QIDO-RS), and DICOM roles (SCP/SCU) with detailed negotiation parameters.
+
+---
+
+**SOURCE 4**
+
+https://www.agfahealthcare.com/wp-content/uploads/2025/04/001644_Enterprise_Imaging_8.2.x_IHE_Integration_Statement.pdf
+
+Enterprise Imaging 8.2.x IHE Integration Statement | Official Agfa Technical PDF | Document No. 001644, Revision 7 | December 2022
+
+Technical document specifying IHE profile compliance for Enterprise Imaging 8.2.x. Lists implemented profiles/actors including CARD (CATH/ECHO), ITI (ATNA for secure auditing), RAD (SWF.b Scheduled Workflow, ARI Advanced Reporting Infrastructure), XDS-I.b (Cross-Enterprise Document Sharing for Imaging), IOCM (Imaging Object Change Management), DIFF/PERF/SMI Image Manager/Archive, with support for portable media and cross-organizational workflows across Core Server and Web Server/XERO Viewer components.
+
+---
+
+**SOURCE 5**
+
+https://www.accessdata.fda.gov/cdrh_docs/pdf25/K252199.pdf
+
+FDA 510(k) K252199 Summary | FDA Database | October 1, 2025
+
+FDA 510(k) clearance summary for Agfa HealthCare Enterprise Imaging with new Vessel Tracking functionality. Device classified as Class II under 21 CFR 892.2050 (Medical Image Management And Processing System), product code LLZ. Indications cover Enterprise Imaging Desktops for acquisition, display, processing, annotation, review, printing, storage, and distribution of multimodality DICOM-compliant images for diagnostic use by trained professionals (radiologists, cardiologists). Supports MPR, MIP, 3D rendering, window leveling, registration, segmentation; excludes lossy compressed mammography for primary interpretation. Predicate devices: K133135 (IMPAX Volume Viewing), K142316 (Enterprise Imaging Desktops), K170434 (XERO Viewer). Applicant: AGFA HealthCare N.V., Belgium.
+
+---
+
+**SOURCE 6**
+
+https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K252199
+
+FDA 510(k) Database Entry K252199 | FDA Premarket Notification Database
+
+FDA database entry for K252199 clearance showing: Product Code LLZ (System, Image Processing, Radiological), Device Class 2, Regulation Number 892.2050, Decision Date October 1, 2025, Applicant AGFA HealthCare N.V. (Septestraat 27, Mortsel, Belgium), Contact Jodi Coleman, Product Name "Enterprise Imaging", Predicate Device K133135. Provides direct link to clearance letter PDF and searchable database record.
+
+---
+
+**SOURCE 7**
+
+https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K170434
+
+FDA 510(k) Database Entry K170434 | FDA Premarket Notification Database
+
+FDA database entry for K170434 clearance (Enterprise Imaging XERO Viewer 8.1) showing: Product Code LLZ, Device Class 2, Regulation 892.2050, Decision Date June 20, 2017. Device described as web-based software for reference and diagnostic viewing of multispecialty medical imaging and non-imaging data, including image manipulations (window/level, markups, 3D visualization, measurements). Applicant AGFA HealthCare N.V., Belgium.
+
+---
+
+**SOURCE 8**
+
+https://www.agfahealthcare.com/wp-content/uploads/2025/04/001668_Enterprise_Imaging_8.3.x_IHE_Integration_Statement.pdf
+
+Enterprise Imaging 8.3.x IHE Integration Statement | Official Agfa Technical PDF | Document No. 001668, Revision 5 | December 2023
+
+Updated IHE conformance statement for Enterprise Imaging 8.3.x (versions 8.3.0/8.3.1/8.3.2). Documents implementation of IHE profiles including updates for BRTO-II (Breast Treatment Oncology), MMRO-III (Mammography Multi-Modality Reporting Oncology), XDS-I.b, with profile support across Core Server and Web Server components.
+
+---
+
+**SOURCE 9**
+
+https://www.agfahealthcare.com/wp-content/uploads/2025/04/001685_Enterprise_Imaging_8.4.x_IHE_Integration_Statement-1.pdf
+
+Enterprise Imaging 8.4.x IHE Integration Statement | Official Agfa Technical PDF | Document No. 001685, Revision 1 | 2025
+
+Latest IHE integration specification for Enterprise Imaging 8.4.x detailing supported IHE profiles, actors, and options across Core Server and Web Server components.
+
+---
+
+**SOURCE 10**
+
+https://www.agfahealthcare.com/wp-content/uploads/2025/04/001665_Enterprise_Imaging_8.3.x_FHIR_Conformance_Statement.pdf
+
+Enterprise Imaging 8.3.x FHIR Conformance Statement | Official Agfa Technical PDF | Document No. 001665 | 2025
+
+Technology preview FHIR conformance statement for Enterprise Imaging 8.3.x, documenting FHIR profiles, extensions, and implementation guides. Includes technology preview warnings indicating evolving FHIR support.
+
+---
+
+**SOURCE 11**
+
+https://www.agfahealthcare.com/wp-content/uploads/2025/04/001659_Enterprise_Imaging_8.2.2_FHIR_Conformance_Statement.pdf
+
+Enterprise Imaging 8.2.2 FHIR Conformance Statement | Official Agfa Technical PDF | Document No. 001659
+
+FHIR conformance statement for Enterprise Imaging 8.2.2 documenting technology preview implementation of FHIR APIs and standards support.
+
+---
+
+**SOURCE 12**
+
+https://www.agfahealthcare.com/wp-content/uploads/2025/04/AGFA_HealthCare_-_Cross-Enterprise_Worklist_-_Brochure_20241021-1.pdf
+
+Enterprise Imaging Cross-Enterprise Worklist Brochure | Official Agfa PDF | October 21, 2024
+
+Solution brief describing unified worklists across Enterprise Imaging, federation capabilities with third-party PACS/VNAs, real-time workflow orchestration, scalability for multi-site deployments, and multi-disciplinary workflow scenarios across radiology, cardiology, and other specialties.
+
+---
+
+**SOURCE 13**
+
+https://www.agfahealthcare.com/wp-content/uploads/2025/04/AGFA_HealthCare_-_Scheduling_-_Brochure.pdf
+
+Enterprise Imaging Scheduling Brochure | Official Agfa PDF | 2025
+
+Product brochure detailing electronic appointment scheduling functionality within Enterprise Imaging, covering ordering workflows, scheduling integration features, and cross-departmental scheduling capabilities.
+
+---
+
+**SOURCE 14**
+
+https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=37790797
+
+Enterprise Imaging System Architecture White Paper | Official Agfa PDF
+
+Technical white paper describing Enterprise Imaging system architecture including JBoss application server deployment, EJB-based integration services for (R)IS/imaging, Background Process Engine (BPE) for DICOM/HL7/proprietary data handling, Oracle database (UTF-8) infrastructure, WADO-optimized transfer protocols, server-side pre-processing, 3D rendering capabilities, hanging protocol support, and XERO viewer platform integration.
+
+---
+
+**SOURCE 15**
+
+https://pdfs.loadbalancer.org/AGFA_HealthCare_Enterprise_Imaging_Deployment_Brief.pdf
+
+AGFA Enterprise Imaging Deployment Brief with Loadbalancer.org | Third-Party Technical PDF
+
+Third-party deployment guide for load balancing AGFA Enterprise Imaging (V8.9.1+) using Loadbalancer.org appliances. Covers virtual service (VIP) requirements, Layer 4 operating modes (DR/NAT/SNAT), configuration steps for AGFA virtual services, high availability clustering setup, and health check implementations for enterprise-scale deployments.
+
+---
+
+**SOURCE 16**
+
+https://radres.ucsd.edu/documents/Residency%20resources/AGFA%20user%20manual.pdf
+
+AGFA Enterprise Imaging User Manual | UCSD Radiology Resident Resource | PDF by Mohanad Alhumayed
+
+Unofficial user manual created by UCSD radiology resident covering practical usage of AGFA Enterprise Imaging platform. Includes login procedures, worklist navigation, PowerScribe speech recognition integration, profile customization, and common workflow tasks for radiology residents and fellows.
+
+---
+
+**SOURCE 17**
+
+https://www.agfahealthcare.com/customer-successes/aosta/
+
+Valle d'Aosta Case Study | Official Agfa Customer Success Page
+
+Customer case study detailing Valle d'Aosta (Azienda USL, Italy) implementation of Enterprise Imaging for Radiology and Nuclear Medicine with Elefante RIS and XERO Viewer. Highlights include 3-month deployment timeline, praise for patient-focused workflows, intuitive user interface, strong support team, and planned VNA expansion for multidisciplinary imaging archive.
+
+---
+
+**SOURCE 18**
+
+https://www.agfahealthcare.com/news/agfa-healthcare-expands-enterprise-imaging-platform-to-cardiology-at-zuckerberg-san-francisco-general-hospital/
+
+Zuckerberg San Francisco General Hospital Cardiology Expansion | Official Agfa News Release | November 2024
+
+Press release announcing expansion from radiology to cardiology at Zuckerberg San Francisco General Hospital. Details unified patient imaging views across specialties, AI-accelerated diagnosis support, EPIC EMR integration, operational cost reduction, and faster clinical decision-making through enterprise-wide imaging access.
+
+---
+
+**SOURCE 19**
+
+https://www.agfahealthcare.com/customer-successes/uz-gent/
+
+UZ Gent University Hospital Case Study | Official Agfa Customer Success Page
+
+Customer case study describing UZ Gent (Ghent University Hospital, Belgium) upgrade from two legacy IMPAX systems to consolidated Enterprise Imaging management for radiology, nuclear medicine, and additional departments. Benefits highlighted include enhanced productivity, improved mobility for clinicians, better cross-departmental collaboration, and advanced teaching capabilities.
+
+---
+
+**SOURCE 20**
+
+https://www.agfahealthcare.com/news/uzbrussels/
+
+UZ Brussel University Hospital Selection | Official Agfa News Release | June 2025
+
+Press release announcing UZ Brussel University Hospital (Belgium) selection of Enterprise Imaging for hospital-wide unified imaging deployment. Emphasizes scalable secure environment, workflow orchestration capabilities, comprehensive diagnostic tools, and enterprise-wide imaging standardization.
+
+---
+
+**SOURCE 21**
+
+https://www.agfahealthcare.com/customer-successes/adventhealth/
+
+AdventHealth Case Study | Official Agfa Customer Success Page
+
+Customer case study featuring AdventHealth as long-term Agfa partner transitioning to enterprise-wide imaging deployment. Highlights unified PACS across health system, EMR integration, unified user experience, and continuation of strategic imaging roadmap. Quote from AJ Scarlato (Director) emphasizing platform evolution.
+
+---
+
+**SOURCE 22**
+
+https://www.agfahealthcare.com/customer-successes/king-abdullah-medical-city/
+
+King Abdullah Medical City Case Study | Official Agfa Customer Success Page | 2021
+
+Customer case study documenting King Abdullah Medical City (KAMC, Saudi Arabia) 2021 Enterprise Imaging upgrade. Reports improved reporting speed, enhanced radiologist productivity, better work/life balance for radiologists, and modernized imaging infrastructure supporting diagnostic workflows.
+
+---
+
+**SOURCE 23**
+
+https://www.agfahealthcare.com/customer-successes/novant/
+
+Novant Health Cardiology Implementation | Official Agfa Customer Success Page
+
+Customer case study detailing Novant Health phased cardiology imaging rollout using Enterprise Imaging. Achievements include image consolidation across multiple markets, 100% image fulfillment rates, standardized revenue cycle workflows, and unified cardiology imaging platform across health system.
+
+---
+
+**SOURCE 24**
+
+https://www.agfahealthcare.com/customer-successes/san-gerardo-hospital/
+
+San Gerardo Hospital Case Study | Official Agfa Customer Success Page | 2018
+
+Customer case study describing San Gerardo Hospital (Italy) 2018 migration from legacy PACS to Enterprise Imaging. Benefits cited include enhanced productivity through modern workflows, improved collaboration tools, mobile access capabilities, and comprehensive imaging platform replacing outdated systems.
+
+---
+
+**SOURCE 25**
+
+https://www.agfahealthcare.com/customer-successes/cody-regional-health/
+
+Cody Regional Health Case Study | Official Agfa Customer Success Page
+
+Customer case study highlighting Cody Regional Health deployment demonstrating Enterprise Imaging suitability for smaller healthcare organizations. Emphasizes comprehensive toolset appropriate for community hospital scale and workflow requirements.
+
+---
+
+**SOURCE 26**
+
+https://www.agfahealthcare.com/customer-successes/wellstar-enterprise-imaging/
+
+Wellstar Health System Case Study | Official Agfa Customer Success Page | 2019
+
+Customer case study documenting Wellstar Health System 2019 upgrade from legacy IMPAX to unified Enterprise Imaging platform. Reports significant time savings, workflow efficiency improvements, and consolidated imaging infrastructure across health system.
+
+---
+
+**SOURCE 27**
+
+https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=70729173
+
+Enterprise Imaging Peer Learning Workflows | Official Agfa PDF
+
+Technical document describing peer learning workflow capabilities within Enterprise Imaging supporting quality assurance, accreditation processes, structured feedback mechanisms, and radiology certification requirements through systematic case review and educational features.
+
+---
+
+**SOURCE 28**
+
+https://www.agfahealthcare.com/rsna/schedule-lineup/
+
+RSNA 2025 Event Schedule | Official Agfa RSNA Page
+
+Official schedule page for Agfa HealthCare presence at RSNA 2025 including Lunch & Learn session on cloud Enterprise Imaging, educational sessions on PACS evolution to cognitive imaging platforms. Featured presenters include Dr. Anjum Ahmed, Dr. Kal Clark, Dr. Rajeev Nowrangi, and Charles Morris discussing Enterprise Imaging workflows, AI integration, and platform evolution.
+
+---
+
+**SOURCE 29**
+
+https://www.agfahealthcare.com/news/himss25-launch/
+
+HIMSS 2025 Event Announcement | Official Agfa News Release | March 3-6, 2025, Las Vegas
+
+Press release announcing Agfa HealthCare HIMSS 2025 presence with customer panels featuring Tampa General Hospital (Steven Johnson) and AdventHealth (J. Scarlato) discussing cloud deployment strategies, unified imaging platforms, and enterprise-wide implementation experiences.
+
+---
+
+**SOURCE 30**
+
+https://www.agfahealthcare.com/news/ukio2025/
+
+UKIO 2025 Event Announcement | Official Agfa News Release | June 2-4, 2025, Liverpool
+
+Press release detailing Agfa HealthCare participation at UKIO 2025 with thought leadership session "Beyond Enterprise Imaging" (Session K5) featuring Dr. Nick Spencer and Dr. Peter Strouhal, plus demonstrations of Streaming Client and Imaging Health Network capabilities.
+
+---
+
+**SOURCE 31**
+
+https://www.rsna.org/news/2025/may/industry-sponsored-agfa-healthcare
+
+RSNA 2025 Industry-Sponsored Sessions | RSNA Official Page
+
+RSNA official listing of Agfa HealthCare industry-sponsored educational sessions covering workflow automation, AI-powered imaging analytics, pixel streaming technology, and cognitive platform evolution. Presenter Rob Mayer featured discussing advanced visualization and workflow orchestration.
+
+---
+
+**SOURCE 32**
+
+https://aws.amazon.com/marketplace/pp/prodview-jfobyfdfxlhaa
+
+Enterprise Imaging Cloud on AWS Marketplace | AWS Marketplace Listing
+
+AWS Marketplace listing for Agfa HealthCare Enterprise Imaging Cloud SaaS offering. Details subscription-based pricing model with predictable costs, contract duration options (1-month minimum), packages including Storage, VNA, Diagnostic Essentials/Standard/Network tiers, private offer availability, and scalable cloud deployment on AWS infrastructure. Standard listing price shown as $0.01 per dimension for baseline services.
+
+---
+
+**SOURCE 33**
+
+https://www.agfahealthcare.com/ei-cloud/
+
+Enterprise Imaging Cloud Product Page | Official Agfa Product Page
+
+Official product page for Enterprise Imaging Cloud describing fully managed SaaS deployment model, subscription-based licensing entitlements, scalable packages (Storage, VNA, Diagnostic tiers), cloud-native architecture benefits including security, reduced infrastructure costs, automatic updates, and barrier-free access across healthcare enterprise.
+
+---
+
+**SOURCE 34**
+
+https://www.agfahealthcare.com/enterprise-imaging-platform/
+
+Enterprise Imaging Platform Overview | Official Agfa Product Page
+
+Primary product landing page for Enterprise Imaging platform with "Schedule a Demo" call-to-action, overview of unified multi-specialty PACS/VNA capabilities, EHR integration features, workflow orchestration, and links to detailed product documentation and customer success stories.
+
+---
+
+**SOURCE 35**
+
+https://www.agfahealthcare.com/contact/
+
+Agfa HealthCare Contact Page | Official Contact Information
+
+Official contact page providing general contact form for Enterprise Imaging inquiries to connect with platform experts, North American Headquarters details (866-599-3868, 580 Gotham Parkway, Carlstadt, NJ 07072), and global office locations. No specific US West region sales contacts listed; inquiries routed through general North America channels.
+
+
+
+---
+
+
+I'll research Agfa HealthCare Enterprise Imaging (Agfa EI) and provide verifiable sources with RAG-ready summaries.Based on my research, I'll now compile the sources with RAG-ready summaries for Agfa HealthCare Enterprise Imaging.
+
+[Agfa HealthCare Enterprise Imaging (Agfa EI)] | Enterprise PACS / Universal Viewer / Diagnostic Imaging Platform | https://www.agfahealthcare.com
+
+---
+
+**1. https://www.agfahealthcare.com/enterprise-imaging-platform/**
+Agfa HealthCare Enterprise Imaging Platform - Official Product Page (accessed August 2025)
+Web page describing Agfa EI as a medical imaging management platform with native diagnostic imaging features, intelligent workflow orchestration, and RUBEE Orchestrator for cross-enterprise worklists. States integration with Epic and Cerner EHRs, Streaming Client for unifying diagnostic reading and universal viewing, Enterprise Imaging Cloud SaaS deployment option, and claims up to 34% reduced reading time. Includes workforce orchestration and federated view across multiple locations.
+
+**2. https://www.agfahealthcare.com/radiology/**
+Enterprise Imaging for Radiology Solution Page (accessed August 2024)
+Web page describing consolidated platform with PACS, advanced image processing, reporting (Precision Reporting module), clinical applications, teleworking/collaboration tools, and analytics. States seamless integration with third-party applications via single sign-on, native rules-based workflow engine, remote reporting capabilities, and Lesion Tracking module for oncology. Mentions purpose-built robust platform with interoperability leadership and context-based EHR integration.
+
+**3. https://www.agfahealthcare.com/universal-viewer/**
+XERO Universal Viewer Product Page (accessed August 2025)
+Web page describing XERO Universal Viewer as zero-footprint browser-based viewer providing federated access to images from multiple PACS/VNA sources in consolidated view. States FDA 510(k) and Health Canada clearance for Full Fidelity diagnostic mode, supports CR/CT/DX/MR modalities, includes XERO Xtend for advanced visualization (3D/MIP/MPR, orthopedic measurements, ultrasound tools), mobile device support with touch gestures, QR codes for secure sharing, and EHR embedding capability.
+
+**4. https://www.agfahealthcare.com/xero-xtend-full-fidelity/**
+XERO Xtend and Full Fidelity Features Page (accessed April 2025)
+Web page describing XERO Full Fidelity as FDA 510(k) cleared for diagnostic quality viewing enabling retrieval of original lossless renditions of CR/DX/CT/MR/US/ECG images on diagnostic monitors. States Full Fidelity validated for iPad with Retina and PCs with newest browser versions. XERO Xtend provides MIP/MPR/3D reconstructions, orthopedic measurements, breast imaging layouts, ultrasound viewing tools, and live screen sharing for collaboration. HTML5-based zero-footprint viewer with EMR embedding.
+
+**5. https://www.agfahealthcare.com/dicom-conformance/**
+DICOM Conformance Statements Repository (accessed April 2025)
+Web page listing available DICOM Conformance Statements including Enterprise Imaging 8.0.x (Doc 001512), Enterprise Imaging 8.1 (Doc 001531), Enterprise Imaging VNA 8.0.0 (Doc 001498), Enterprise Imaging TRANSPORT Web 1.0 (Doc 001522), and Portal 2015-0 (Doc 001527). Also lists legacy IMPAX and ICIS product conformance statements. Provides access to ACR-NEMA DICOM standard documentation.
+
+**6. https://www.agfahealthcare.com/wp-content/uploads/2025/04/001679_Enterprise_Imaging_8.4.x_DICOM_Conformance_Statement-5.pdf**
+Enterprise Imaging 8.4.x DICOM Conformance Statement - Document No. 001679, Revision 11 (PDF)
+Technical PDF documenting DICOM 3.0 2025 standard conformance for Enterprise Imaging 8.4.x components. States multiple application entities (Core Server, Web Server, XERO Viewer) supporting Storage (C-STORE SCP/SCU), Query/Retrieve (C-FIND/C-MOVE/C-GET), Storage Commitment, Modality Worklist, MPPS, Verification, and Print SOP Classes. Documents DICOMweb services including WADO-URI, WADO-RS endpoints, transfer syntax support, and lists supported SOP Classes with usage scenarios (Create, Display, Annotate, Process, Archive).
+
+**7. https://www.agfahealthcare.com/wp-content/uploads/2025/04/001647_Enterprise_Imaging_8.2.x_DICOM_Conformance_Statement-1.pdf**
+Enterprise Imaging 8.2.x DICOM Conformance Statement - Document No. 001647, Revision 13 (PDF)
+Technical PDF documenting Enterprise Imaging 8.2.x as PACS/universal viewer deployment supporting Verification, Storage, Storage Commitment, Query/Retrieve, MPPS, and Modality Worklist as both SCP and SCU. States Core Server and Web Server AEs implement DICOM services, support for external archive storage with Storage Commitment-SCU, and integration with IMPAX PACS systems. Documents XERO Viewer caching for performance optimization and Web Server temporary storage for display purposes.
+
+**8. https://www.agfahealthcare.com/hl7/**
+HL7 Conformance Statements Repository (accessed June 2025)
+Web page listing HL7 Conformance Statements for Enterprise Imaging versions 8.0.x through 8.4.x with separate statement and profile documents. Lists Enterprise Imaging 8.4.x HL7 Conformance Statement (Doc 001688) and Profiles (Doc 001689), Enterprise Imaging 8.3.x (Docs 001663/001664), Enterprise Imaging 8.2.x versions (multiple docs), Enterprise Imaging 8.1.x versions, Enterprise Imaging CWP 8.0.x, Engage Suite 3.6, and XERO Portal 2.x HL7 documentation.
+
+**9. https://www.accessdata.fda.gov/cdrh_docs/pdf17/K170434.pdf**
+FDA 510(k) K170434 - Enterprise Imaging XERO Viewer 8.1 (July 2017, PDF)
+FDA clearance letter and 510(k) summary for Enterprise Imaging XERO Viewer 8.1, Product Code LLZ, Class II under 21 CFR 892.2050 (Picture Archiving and Communications System). Indications state software for reference and diagnostic viewing of multi-specialty medical imaging/non-imaging data with window/level, markups, 3D visualization, measurements. Full Fidelity Mobile cleared for diagnostic use of CR/DX/CT/MR/US/ECG on iPad (not mammography). Lossy compressed mammography and digitized film not for primary interpretation; uncompressed/lossless "for presentation" may be used with FDA-cleared monitors. Predicates K151774 (Carestream Vue Motion) and K143397 (Agfa ICIS View).
+
+**10. https://xrayinterpreter.com/fda/K252199**
+FDA 510(k) K252199 - AGFA HealthCare Enterprise Imaging (October 2025)
+FDA database entry showing K252199 approved 10/15/2025, Product Code LLZ (Radiology panel). Brief description states "radiology image processing system designed to manage and enhance medical images, supporting clinicians in diagnosing and treating patients more effectively." Manufacturer AGFA HealthCare N.V., submission date 7/14/2025, 3-month review cycle. Predicate device DR 800 with MUSICA Dynamic from 2018.
+
+**11. https://radiologybusiness.com/topics/health-it/enterprise-imaging/imaging-informatics/agfa-healthcare-receives-fda-510k-clearance**
+Agfa Receives FDA 510(k) for XERO Full Fidelity Mobile Diagnostic (April 2021)
+News article reporting FDA 510(k) clearance for XERO Viewer Full Fidelity functionality using lossless compression for diagnostic quality display of DX/CT/MRI/CR/US images. States over 500 XERO Viewer installations globally at regional networks and individual hospitals with over 50 EHR integrations. Viewer provides secure access to DICOM and non-DICOM imaging from multiple departments, supports ECG viewing in various layouts with waveform adjustment, includes Cine display, universal video viewing, optional 3D/MIP/MPR tools, specialty measurement tools, annotations/markups, and patient-centric interactive timeline.
+
+**12. https://www.prnewswire.com/news-releases/agfa-healthcare-receives-fda-510k-clearance-for-advanced-clinical-applications-on-xero-universal-viewer-300495227.html**
+Agfa Receives FDA 510(k) for XERO Xtend Advanced Visualization (June 2018)
+Press release announcing FDA 510(k) clearance for XERO Xtend functionalities adding 3D processing and advanced clinical applications to zero-footprint XERO Viewer for diagnostic viewing on desktop devices (not mobile at that time). States viewer provides secure access to DICOM and non-DICOM data from multiple sources, connects more service lines than competitors, supports Full Fidelity Mobile for CR/DX/CT/MR/US/ECG (added ECG to 2015 clearance), and requires FDA-cleared monitors for mammography. XERO Viewer received 2017 KLAS Category Leader Award for Universal Image Viewer.
+
+**13. https://www.itnonline.com/content/agfa-receives-fda-510k-xtend-functionalities-xero-universal-viewer**
+Agfa FDA 510(k) Clearance for XERO Xtend - Imaging Technology News (July 2017)
+Article reporting FDA 510(k) clearance for XERO Xtend adding 3D processing and advanced clinical applications (orthopedics, mammography, nuclear medicine) to browser-agnostic universal viewer for desktop diagnostic viewing (not mobile). States viewer accesses DICOM/non-DICOM data from VNAs and PACS securely in one display. Expanded modality support for uncompressed/non-lossy "for presentation" images for diagnosis on FDA-cleared monitors. Full Fidelity Mobile (2015 clearance) expanded to include ECG images and reports. 2017 KLAS Category Leader Award in first-year Universal Image Viewer category.
+
+**14. https://knowledgebase-healthcare-ex.agfa.net/library/IITS/Enterprise_Imaging/XERO_Viewer/XERO_Viewer_8_1_4/s0_1416594675664/en-gb/webhelp/s0_1416594666945.html**
+XERO Viewer 8.1.4 User Guide - Getting Started
+Online help documentation stating XERO Viewer provides secure access to healthcare data using standard browsers and operating systems on desktop or mobile devices. Full Fidelity mode available to licensed authorized users provides highest quality images but user assumes responsibility for determining suitability of display device, lighting, and factors affecting image quality for diagnosis. Full Fidelity not intended to replace full workstations and validated only for certain platforms and modalities. Configurations performed in Enterprise Imaging Administrator Desktop application.
+
+**15. https://radres.ucsd.edu/documents/Residency resources/AGFA user manual.pdf**
+AGFA Enterprise Imaging Platform User Manual - UCSD Radiology (PDF)
+End-user reference guide showing workflow with Powerscribe integration, activity sidebar with reading task lists (e.g., MSK reading task), started task area for paused/in-progress studies, completed/recently viewed studies, and teaching files. Demonstrates worklist selection, task management, and basic navigation for radiologists.
+
+**16. https://www.advisory.com/sponsored/agfa-enterprise-imaging**
+Q&A: How AGFA HealthCare Boosts Efficiency with Enterprise Imaging - Advisory Board
+Article with Charles Morris (Director of Enterprise Imaging Strategic Marketing) explaining platform as converged web-native system more akin to EHR than traditional PACS, unified to reduce complexity and provide consistent clinician experience across facilities. Addresses imaging utilization projected to grow 8.8% by 2034 amid clinician shortages. States platform enables cross-enterprise worklist consolidation, rapid access to priors without manual transfers, intelligent workflow orchestration, tailored workspaces, cloud-based scalability with security, and systemness for seamless multi-site operation. Built for clinical and IT harmony with multimodal visualization, collaborative tools, mobile access.
+
+**17. https://www.loadbalancer.org/applications/agfa-healthcare-enterprise-imaging/**
+Load Balancing AGFA Enterprise Imaging - Technical Deployment Guide (October 2025)
+Technical guide for deploying load balancing with Agfa EI using Layer 7 Reverse Proxy configuration for high availability, optimized performance, and scalability. States platform builds Imaging Health Network (IHN) providing 24/7 image access across care team on any device. Load balancing distributes DICOM studies across multiple Agfa servers/clusters, enables zero downtime failover, prevents bottlenecks during peak usage, allows servers to be taken offline for maintenance without service disruption, and supports scaling by adding/removing nodes without downtime.
+
+**18. https://global.agfahealthcare.com/universal-viewer-xero-xtend-and-full-fidelity/**
+Universal Viewer - Expand Your Possibilities Solution Brief (May 2023)
+Product brief describing XERO Full Fidelity validated for iPad with Retina display and PCs with newest browsers (contact sales for specific validation). XERO Xtend provides MIP/MPR/3D reconstructions, orthopedic measurements, breast imaging layouts, ultrasound viewing tools enabling specialists to review studies before/during/after interventions. Live screen sharing for multi-disciplinary collaboration. Zero-footprint HTML5 web viewer using standard browsers/OS on desktop/mobile, secure access throughout hospital or region, EMR embedding capability. Eliminates need for expensive high-end workstations by delivering advanced tools via web-based viewer.
+
+**19. https://www.evolucare.com/en/evolucare-and-agfa-healthcare-transform-medical-imaging-in-france/**
+Evolucare Becomes Exclusive French Distributor for Agfa Enterprise Imaging (June 2025)
+News article announcing partnership where Evolucare becomes exclusive distributor of Agfa Enterprise Imaging in France. States platform offers unified, scalable, secure solution compatible with international standards (IHE, DICOM, HL7), enables smooth imaging data management across institutions or regional healthcare groups. Platform features centralisation of data, seamless examination sharing, enhanced security, advanced ergonomics, scalability, native integration with business tools, and supports hospitals, GCSs (healthcare cooperation groups), and clinics. Comprehensive solution for analysis, archiving, medical collaboration, and examination distribution.
+
+**20. https://enterpriseimaging.agfahealthcare.com/acton/fs/blocks/showLandingPage/a/44820/p/p-0052/t/page/fm/0**
+Request a Demo - Enterprise Imaging Platform Landing Page
+Demo request form and marketing page stating platform empowers organizations to advance clinical, integration, and financial strategies across geographically distributed networks. References AGFA EI VNA and XERO platforms on AWS creating real-time federated imaging health record through streaming technology in Imaging Health Network, bringing user to data instead of moving data to user. Mentions XERO Workflow for Clinicians enriching clinical activities by putting images/reports at clinician fingertips matching workflow needs and exam status monitoring. Includes virtual lecture access for learning Enterprise Imaging 8.2 innovations.
+
+**21. https://www.agfahealthcare.com/contact/**
+Contact AGFA HealthCare Official Contact Page (accessed February 2025)
+Web page for general inquiries stating this is international website with products not necessarily commercially available in all countries, specifications subject to change without notice, and approved uses varying by country/region. Provides contact form for questions or IT project descriptions.
+
+**22. https://agfaradiologysolutions.com/addresses/**
+AGFA HealthCare Global Office Locations (accessed September 2024)
+Office directory listing North America locations: Greenville SC (10 South Academy Street, +1 864 421 1600, salesinfo_na@agfa.com) and Carlstadt NJ (580 Gotham Parkway, +1 201 373 4016). Lists additional locations in Mexico, Brazil, Colombia, Chile, Peru, and European/global offices with phone numbers and email contacts.
+
+**23. https://www.newswire.com/news/agfa-healthcare-recognized-for-proactive-partnerships-and-22577626**
+AGFA Recognized in KLAS PACS 2025 Report for Top Performance (May 2025)
+Press release reporting AGFA achieved 88.5/100 combined score in KLAS PACS 2025 market report titled "Consistent Support & Ongoing Product Development Are Key to Customer Success," earning top performer position across all site sizes (small and large). Customers describe AGFA as "proactive partner" who "understands unique customer environments" with smoother upgrades, on-site training, clear communication on new features including Enterprise Imaging Cloud offering. Triple KLAS award winner in February 2025 for XERO Viewer #1 Best in KLAS, VNA #1 Best in KLAS, and Most Improved Software Product.
+
+**24. https://www.agfahealthcare.com/news/pacs-report-2025/**
+AGFA KLAS PACS Report Recognition - Official Announcement (May 2025)
+Company announcement of top-tier recognition in KLAS PACS 2025 for proactive partnerships, service excellence, transparent communication, and ongoing technology delivery. States investment in scalable, user-centric PACS solutions integrating seamlessly with broader enterprise imaging strategies. Omar Sunna (Chief Customer Officer North America) quoted focusing on helping teams work efficiently with faster imaging access, smoother collaboration, reliable IT integration reducing complexity and strengthening data security. Respondents valued smoother upgrade experience across small and large sites.
+
+**25. https://intuitionlabs.ai/software/pacsris-systems/enterprise-pacs-platforms/agfa-healthcare-enterprise-imaging**
+Agfa Enterprise Imaging Overview - IntuitionLabs.ai Third-Party Profile
+Third-party software directory describing Agfa EI as unified multi-specialty medical imaging platform (PACS/VNA) for Radiology, Cardiology, Pathology creating comprehensive Imaging Health Record (IHR) via Epic and Cerner EHR embedding. States advanced diagnostic imaging features with RUBEE Orchestrator for intelligent workflow, Enterprise Imaging Cloud fully managed SaaS with enhanced security and predictable costs, Augmented Radiology powered by AI, Lesion Tracking, built-in analytics. Pricing described as enterprise-level based on contract duration, not publicly disclosed, generally considered high. Platform designed for enterprise healthcare organizations focusing on productivity, clinical collaboration, IT optimization.
+
+**26. https://www.agfahealthcare.com/news/department-of-health-and-social-services-article-about-the-transformative-impact-of-agfa-healthcares-enterpriseimaging-platform/**
+Northwest Territories Deployment Case Study - Canadian Healthcare Technology (February 2025)
+News article describing Picture Archiving and Communication System upgrade in Northwest Territories enabling clinicians in remote communities to access imaging performed anywhere in territory for faster diagnoses, reducing unnecessary long-distance patient travel. Specialists outside Northwest Territories can use system to confirm diagnoses and treatments. Radiologist quoted: "definitely more intuitive to use and more customizable...able to highlight multiple studies and system immediately jumps to next one, makes workflow much faster." Platform improves patient care delivery by making medical images, reports, and patient data readily available for follow-up or consultation enabling patients to return to rural communities sooner.
+
+**27. https://klasresearch.com/comments/agfa-healthcare-enterprise-imaging-xero-viewer/79220**
+KLAS User Comments - Enterprise Imaging XERO Viewer
+KLAS Research user feedback database showing customer comments describing XERO Viewer as "lightweight," "pretty easy to use," vendor training "pretty effective," support "really good" with timeliness emphasized. Users note system became "1,000%" better from WEB1000 to XERO Viewer, vendor "keeps all their promises," "development cycle very aggressive," prices "really reasonable," tools "robust and quick and accurate." Some note areas for improvement in diagnostic quality features and desire for more frequent upgrades. Multiple comments praise vendor as not dismissive, knowledgeable during implementations, and providing excellent executive involvement.
+
+**28. https://healthmanagement.org/c/imaging/pressrelease/agfa-healthcare-receives-fda-510-k-clearance-for-xero-r**
+AGFA XERO Viewer FDA 510(k) Full Fidelity Clearance - HealthManagement.org
+Article reporting FDA 510(k) clearance for XERO Viewer Full Fidelity using lossless compression to retrieve original-quality DX/CT/MRI/CR/US images for diagnostic quality display. Over 500 XERO installations worldwide at regional networks and hospitals with over 50 EHR integrations. Browser-based viewer provides secure access to DICOM and non-DICOM data from multiple departments/sources with extensive search/filter/discovery functions, annotations/markups, brightness/contrast adjustment, study comparison. ECG viewing with various layouts, waveform size/amplitude changes, and comparison with previous ECGs. Subspecialty tools include Cine display, universal video viewing, optional 3D/MIP/MPR tools, specialty measurements.
+
+**29. http://blog.agfahealthcare.com/agfa-healthcare-receives-fda-510k-clearance-for-advanced-clinical-applications-on-xero-universal-viewer/**
+AGFA Blog - XERO Xtend FDA Clearance Announcement (June 2018)
+Blog post announcing FDA 510(k) clearance for XERO Xtend functionalities on Enterprise Imaging zero-footprint viewer adding 3D processing and advanced clinical applications for desktop diagnostic viewing (not mobile). James Jay (President, Imaging IT Solutions) quoted on continuous improvement meeting real provider needs, enabling anywhere/anytime image access with powerful processing functions. Clearance supports "continued march forward" for enterprise image access.
+
+**30. https://www.healthcareitnews.com/news/agfa-building-out-enterprise-imaging-platform-ehr-integration-ibm-watson-capabilities**
+Agfa Building Enterprise Imaging with EHR Integration and IBM Watson - Healthcare IT News (HIMSS 2017)
+Article from HIMSS17 describing Agfa Enterprise Imaging Platform built to serve all departments touching imaging (up to 50 departments). Platform encompasses storage layer, viewing components (radiologist and specialist versions), workflow and interface capabilities, integration engine, image sharing component, patient portal, and ECM (enterprise content management). Company adding medical selfie app for patient wound image upload/consultation. Partnership with IBM Watson for 20 use cases including radiologist summaries from EHR data. Early version of complete pathology image information system demonstrated. Platform built following smartphone and EHR consolidation model as "purpose-built" comprehensive solution.
+
+
+
+---
+
+
+
+[Agfa HealthCare Enterprise Imaging (Agfa EI)] | PACS / Diagnostic Imaging Viewer | [https://www.agfahealthcare.com/enterprise-imaging-platform/]
+https://www.agfahealthcare.com/enterprise-imaging-platform/
+Enterprise Imaging Platform - AGFA HealthCare - Web page
+AGFA HealthCare Enterprise Imaging Platform is a medical imaging management platform for efficient image interpretation and patient care, reducing complexity and improving collaboration.
+It includes components like VNA, XERO Universal Viewer, Specialty Imaging, Enterprise Workflows, Business Intelligence, Augmented Intelligence, and Enterprise Imaging Cloud.
+Supports intelligent workflow orchestration, federated cross-enterprise worklists, EHR integration with Epic and Cerner, and HITRUST i1 Certification for data protection.
+https://www.agfahealthcare.com/wp-content/uploads/2025/04/001679_Enterprise_Imaging_8.4.x_DICOM_Conformance_Statement-5.pdf
+AGFA HealthCare Enterprise Imaging 8.4.x DICOM Conformance Statement - AGFA HealthCare - PDF (Mar 26, 2025)
+This PDF details DICOM conformance for Enterprise Imaging 8.4.x, including SCP/SCU roles for Verification (C-ECHO), Storage (C-STORE), Query/Retrieve (C-FIND, C-MOVE, C-GET), MWL, MPPS, and Storage Commitment.
+Supported SOP Classes include Computed Radiography Image Storage, CT Image Storage, MR Image Storage, Ultrasound Multi-frame Image Storage, Nuclear Medicine Image Storage, PET Image Storage, and others like GSPS and Key Object Selection Document.
+Transfer syntaxes cover Implicit/Explicit VR Little Endian, JPEG Lossless/Lossy, JPEG-LS, JPEG 2000, RLE Lossless; DICOMweb supports WADO-RS, QIDO-RS, STOW-RS as Origin Server.
+https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K252199
+510(k) Premarket Notification K252199 - FDA - Web page
+AGFA HealthCare Enterprise Imaging has FDA 510(k) number K252199, product code LLZ, classified as a Class II device under regulation 892.2050.
+It is a radiological image processing system manufactured by Agfa Healthcare N.V.
+The proprietary name is AGFA HealthCare Enterprise Imaging, intended for radiological image processing.
+https://www.accessdata.fda.gov/cdrh_docs/pdf17/K170434.pdf
+Agfa HealthCare N.V. 510(k) Summary - FDA - PDF (Jul 3, 2017)
+This PDF is the 510(k) summary for Enterprise Imaging XERO Viewer 8.1, a web-based PACS for viewing multi-specialty medical imaging and data.
+Intended for reference and diagnostic viewing of images from CR, DX, CT, MR, US, ECG; lossy compressed mammography not for primary interpretation.
+Full Fidelity Mobile for iPad supports diagnostic use when workstations unavailable, excluding mammography; requires FDA-cleared monitors for diagnosis.
+https://www.agfahealthcare.com/wp-content/uploads/2024/10/AGFA_HealthCare_Enterprise_Imaging_-_Brochure.pdf
+AGFA HealthCare Enterprise Imaging Brochure - AGFA HealthCare - PDF (Oct 23, 2024)
+This PDF brochure describes AGFA HealthCare Enterprise Imaging as a platform integrating diagnostic imaging with workflow orchestration, supporting EHR embedding and Imaging Health Record.
+Features include RUBEE Orchestrator for task automation, Federated Cross-Enterprise Worklist, Streaming Client for zero-footprint viewing, and optional AI for analysis.
+Deployment options: on-premises, hybrid, or cloud SaaS with scalability; integrates with third-party PACS/VNAs and EHR like Epic/Cerner.
+https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=37790797
+Enterprise Imaging - System Architecture - Agfa Corporate - PDF
+This PDF outlines Enterprise Imaging architecture using JBoss application server, Oracle database with UTF-8, DICOM/HL7 standards, and Background Process Engine for connectivity.
+Deployment supports single or cluster mode for high availability and scalability; client is Java thin client with Web Start, multi-threaded, 64-bit capable.
+Performance optimizations include server-side pre-processing, caching, and WADO for image transfer; security via consistent layer.
+https://www.agfahealthcare.com/customer-successes/novant/
+Case Study: Novant Health - AGFA HealthCare - Web page
+This web page details Novant Health's implementation of Enterprise Imaging for Cardiology, consolidating cardiac cath, echocardiography, vascular ultrasound, and nuclear medicine into a single database.
+Benefits include standardized workflows, 100% image fulfillment from EHR, bidirectional access between cardiology and radiology, and enhanced collaboration during COVID-19.
+System described as rock solid, with superior tools like volume renderings and reliable access to historical images back to 2000.
+https://www.agfahealthcare.com/radiology/
+A consolidated Enterprise Imaging for Radiology - AGFA HealthCare - Web page
+This web page describes Enterprise Imaging for Radiology as a unified platform consolidating PACS, image processing, reporting, and collaboration tools.
+Features include customizable hanging protocols, rules-based workflow engine, Precision Reporting for structured reports, and Lesion Tracking for tumor analysis.
+Supports remote reporting, real-time collaboration, AI integration, business intelligence for workload balancing, and interoperability with single sign-on.
+https://www.agfahealthcare.com/streaming/
+Enterprise Imaging Streaming Client - AGFA HealthCare - Web page
+This web page details the Streaming Client as a zero-footprint unified viewer for diagnostic and clinical use, with CPU-based rendering and intelligent pixel cache.
+Performance claims: blazing-fast access to full-quality images, effortless streaming of large exams, real-time collaboration via chat and screen sharing.
+Deployment reduces IT costs, no downloads/installs, centralized configuration for remote sites, compatible with wide variety of devices.
+https://www.agfahealthcare.com/ei-cloud/
+Enterprise Imaging Cloud - AGFA HealthCare - Web page
+This web page describes Enterprise Imaging Cloud as a SaaS solution with fully managed services, seamless updates, on-demand scalability, and unlimited user licenses.
+Security features include managed patching, self-healing mechanisms, and secure access from any location.
+Supports Imaging Health Network for affiliate integration, streaming technology, and diagnostic packages like Cloud VNA and Diagnostic Network.
+
+
+
+---
+
+
+
+[Agfa HealthCare Enterprise Imaging (Agfa EI)] | PACS / Diagnostic Imaging Viewer | [https://www.agfahealthcare.com/enterprise-imaging-platform/]
+https://www.agfahealthcare.com/enterprise-imaging-platform/
+Enterprise Imaging Platform - AGFA HealthCare - Web page
+AGFA HealthCare Enterprise Imaging Platform is a medical imaging management platform for efficient image interpretation and patient care, reducing complexity and improving collaboration.
+It includes components like VNA, XERO Universal Viewer, Specialty Imaging, Enterprise Workflows, Business Intelligence, Augmented Intelligence, and Enterprise Imaging Cloud.
+Supports intelligent workflow orchestration, federated cross-enterprise worklists, EHR integration with Epic and Cerner, and HITRUST i1 Certification for data protection.
+https://www.agfahealthcare.com/wp-content/uploads/2025/04/001679_Enterprise_Imaging_8.4.x_DICOM_Conformance_Statement-5.pdf
+AGFA HealthCare Enterprise Imaging 8.4.x DICOM Conformance Statement - AGFA HealthCare - PDF (Mar 26, 2025)
+This PDF details DICOM conformance for Enterprise Imaging 8.4.x, including SCP/SCU roles for Verification (C-ECHO), Storage (C-STORE), Query/Retrieve (C-FIND, C-MOVE, C-GET), MWL, MPPS, and Storage Commitment.
+Supported SOP Classes include Computed Radiography Image Storage, CT Image Storage, MR Image Storage, Ultrasound Multi-frame Image Storage, Nuclear Medicine Image Storage, PET Image Storage, and others like GSPS and Key Object Selection Document.
+Transfer syntaxes cover Implicit/Explicit VR Little Endian, JPEG Lossless/Lossy, JPEG-LS, JPEG 2000, RLE Lossless; DICOMweb supports WADO-RS, QIDO-RS, STOW-RS as Origin Server.
+https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K252199
+510(k) Premarket Notification K252199 - FDA - Web page
+AGFA HealthCare Enterprise Imaging has FDA 510(k) number K252199, product code LLZ, classified as a Class II device under regulation 892.2050.
+It is a radiological image processing system manufactured by Agfa Healthcare N.V.
+The proprietary name is AGFA HealthCare Enterprise Imaging, intended for radiological image processing.
+https://www.accessdata.fda.gov/cdrh_docs/pdf17/K170434.pdf
+Agfa HealthCare N.V. 510(k) Summary - FDA - PDF (Jul 3, 2017)
+This PDF is the 510(k) summary for Enterprise Imaging XERO Viewer 8.1, a web-based PACS for viewing multi-specialty medical imaging and data.
+Intended for reference and diagnostic viewing of images from CR, DX, CT, MR, US, ECG; lossy compressed mammography not for primary interpretation.
+Full Fidelity Mobile for iPad supports diagnostic use when workstations unavailable, excluding mammography; requires FDA-cleared monitors for diagnosis.
+https://www.agfahealthcare.com/wp-content/uploads/2024/10/AGFA_HealthCare_Enterprise_Imaging_-_Brochure.pdf
+AGFA HealthCare Enterprise Imaging Brochure - AGFA HealthCare - PDF (Oct 23, 2024)
+This PDF brochure describes AGFA HealthCare Enterprise Imaging as a platform integrating diagnostic imaging with workflow orchestration, supporting EHR embedding and Imaging Health Record.
+Features include RUBEE Orchestrator for task automation, Federated Cross-Enterprise Worklist, Streaming Client for zero-footprint viewing, and optional AI for analysis.
+Deployment options: on-premises, hybrid, or cloud SaaS with scalability; integrates with third-party PACS/VNAs and EHR like Epic/Cerner.
+https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=37790797
+Enterprise Imaging - System Architecture - Agfa Corporate - PDF
+This PDF outlines Enterprise Imaging architecture using JBoss application server, Oracle database with UTF-8, DICOM/HL7 standards, and Background Process Engine for connectivity.
+Deployment supports single or cluster mode for high availability and scalability; client is Java thin client with Web Start, multi-threaded, 64-bit capable.
+Performance optimizations include server-side pre-processing, caching, and WADO for image transfer; security via consistent layer.
+https://www.agfahealthcare.com/customer-successes/novant/
+Case Study: Novant Health - AGFA HealthCare - Web page
+This web page details Novant Health's implementation of Enterprise Imaging for Cardiology, consolidating cardiac cath, echocardiography, vascular ultrasound, and nuclear medicine into a single database.
+Benefits include standardized workflows, 100% image fulfillment from EHR, bidirectional access between cardiology and radiology, and enhanced collaboration during COVID-19.
+System described as rock solid, with superior tools like volume renderings and reliable access to historical images back to 2000.
+https://www.agfahealthcare.com/radiology/
+A consolidated Enterprise Imaging for Radiology - AGFA HealthCare - Web page
+This web page describes Enterprise Imaging for Radiology as a unified platform consolidating PACS, image processing, reporting, and collaboration tools.
+Features include customizable hanging protocols, rules-based workflow engine, Precision Reporting for structured reports, and Lesion Tracking for tumor analysis.
+Supports remote reporting, real-time collaboration, AI integration, business intelligence for workload balancing, and interoperability with single sign-on.
+https://www.agfahealthcare.com/streaming/
+Enterprise Imaging Streaming Client - AGFA HealthCare - Web page
+This web page details the Streaming Client as a zero-footprint unified viewer for diagnostic and clinical use, with CPU-based rendering and intelligent pixel cache.
+Performance claims: blazing-fast access to full-quality images, effortless streaming of large exams, real-time collaboration via chat and screen sharing.
+Deployment reduces IT costs, no downloads/installs, centralized configuration for remote sites, compatible with wide variety of devices.
+https://www.agfahealthcare.com/ei-cloud/
+Enterprise Imaging Cloud - AGFA HealthCare - Web page
+This web page describes Enterprise Imaging Cloud as a SaaS solution with fully managed services, seamless updates, on-demand scalability, and unlimited user licenses.
+Security features include managed patching, self-healing mechanisms, and secure access from any location.
+Supports Imaging Health Network for affiliate integration, streaming technology, and diagnostic packages like Cloud VNA and Diagnostic Network.
+
+
+
+
+
+
+---
+
+
+
+
+I'll now compile the comprehensive report with all verified source links and RAG-ready summaries.
+
+[AGFA HealthCare Enterprise Imaging] | PACS / Diagnostic Imaging Viewer | https://www.agfahealthcare.com/enterprise-imaging-platform/
+
+***
+
+## 1. Product Identity & Official Product Pages
+
+**https://www.agfahealthcare.com/enterprise-imaging-platform/**  
+Title: Enterprise Imaging Platform | Publisher: AGFA HealthCare | Date: 2025-08-13  
+Official product page for AGFA HealthCare Enterprise Imaging (AGFA EI), describing it as one of the first true medical imaging management platforms combining advanced native diagnostic imaging features with intelligent workflow orchestration. Confirms successor to IMPAX PACS. Includes components: Enterprise Imaging Cloud (SaaS), Enterprise Imaging Streaming Client (zero-footprint diagnostic viewer), RUBEE Orchestrator (workflow engine), and Federated Cross-Enterprise Worklist. Mentions integration with Epic/Cerner EHR systems to create Imaging Health Record (IHR).
+
+**https://www.agfahealthcare.com/radiology/**  
+Title: A consolidated Enterprise Imaging for Radiology | Publisher: AGFA HealthCare | Date: 2024-08-04  
+Product description page for Enterprise Imaging for Radiology—consolidates PACS, advanced image processing, reporting, clinical applications, teleworking, collaboration tools, and analytics in a single platform. Highlights Precision Reporting module (structured reporting), workflow engine, and interoperability with single sign-on authentication. States it supports "high-value services and patient care quality" with enhanced peer learning and cross-site workflow.
+
+**https://www.agfahealthcare.com/wp-content/uploads/2024/10/AGFA_HealthCare_Enterprise_Imaging_-_Brochure.pdf**  
+Title: AGFA HealthCare Enterprise Imaging Brochure | Publisher: AGFA HealthCare | Date: October 2024  
+PDF brochure describing AGFA EI as a unified medical imaging management platform combining diagnostic imaging with intelligent workflow orchestration and Imaging Health Record (IHR) integration with EHR systems (Epic, Cerner). Lists key components: Streaming Client (zero-footprint), RUBEE Orchestrator (workflow automation), Federated Cross-Enterprise Worklist (multi-site/multi-PACS), and Enterprise Imaging Cloud (SaaS). Highlights benefits for IT (reduced infrastructure, consolidated platforms) and clinical users (real-time collaboration, blazing-fast access).
+
+***
+
+## 2. FDA 510(k) Regulatory Clearances
+
+**https://www.accessdata.fda.gov/cdrh_docs/pdf17/K170434.pdf**  
+Title: FDA 510(k) Summary K170434 - Enterprise Imaging XERO Viewer 8.1 | Publisher: FDA | Date: July 3, 2017  
+FDA 510(k) clearance document for Enterprise Imaging XERO Viewer 8.1. **Indications for Use:** Software application for reference and diagnostic viewing of multi-specialty medical imaging and non-imaging data with associated reports/documents. Enables healthcare professionals (physicians, surgeons, nurses, administrators) to view images, perform manipulations (window/level, markups, 3D visualization), and measurements. **Modalities explicitly stated:** CR, DX, CT, MR, US, ECG. **Full Fidelity Mobile** intended for diagnostic use of CR, DX, CT, MR, US, ECG on iPad (not for mammography primary diagnosis). **Device Class:** II, 21 CFR 892.2050 (PACS), Product Code LLZ. **Predicates:** Carestream Vue Motion (K151774), ICIS View (K143397). **Limitations:** Lossy compressed mammography images and digitized film should not be used for primary interpretation; uncompressed/non-lossy images may be used for diagnosis on FDA-cleared monitors. Not intended to replace full diagnostic workstations.
+
+**https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K252199**  
+Title: FDA 510(k) K252199 - AGFA HealthCare Enterprise Imaging | Publisher: FDA | Date: October 15, 2025  
+Most recent FDA 510(k) clearance entry (K252199) for AGFA HealthCare Enterprise Imaging. **Decision:** Substantially Equivalent (SESE), decided October 15, 2025. **Applicant:** Agfa Healthcare N.V., Mortsel, Belgium. **Device Classification:** System, Image Processing, Radiological; Regulation 892.2050, Product Code LLZ, Class II. **Type:** Traditional 510(k). Database entry confirms continued FDA clearance under PACS/Radiological Image Processing classification.
+
+**https://www.itnonline.com/content/fda-clears-agfas-xero-viewer-full-fidelity-view**  
+Title: FDA Clears Agfa's Xero Viewer With Full Fidelity View | Publisher: ITN Online  
+Summary article stating AGFA received FDA 510(k) clearance for diagnostic viewing with XERO Viewer (Full Fidelity View functionality). Uses lossless compression to provide diagnostic quality for stored DX, CT, MRI, CR, US images. Confirms FDA clearance for diagnostic (not just review) use of XERO universal viewer.
+
+**https://www.agfahealthcare.com/xero-xtend-full-fidelity/**  
+Title: XERO Xtend - Full Fidelity | Publisher: AGFA HealthCare | Date: 2025-04-22  
+Product page stating "FDA 510(k) cleared XERO Full Fidelity gives clinicians the ability to view the original, full-quality stored images." XERO Full Fidelity cleared by FDA and Health Canada. Can be embedded in EMR for enterprise-wide diagnostic-quality image access. Validated for certain modalities and platforms (iPad with Retina, PCs, newest browsers).
+
+***
+
+## 3. DICOM Conformance Statements
+
+**https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=53821200**  
+Title: AGFA HealthCare Enterprise Imaging 8.1.x DICOM Conformance Statement | Publisher: AGFA HealthCare | Date: September 13, 2021 | Document No. 001531  
+119-page PDF DICOM Conformance Statement for Enterprise Imaging 8.1.x (DICOM 3.0 2019e standard). **Application Entities (AE):** Core Server AE, XERO Viewer AE. **SOP Classes:** 219+ SOP Classes supported as SCU/SCP including: CR, DX (For Presentation/Processing), MG (For Presentation/Processing), IO (Intra-oral), CT, Enhanced CT, US, Enhanced US, MR, Enhanced MR, XA, Enhanced XA, XRF, Enhanced XRF, PET, NM, SC, ECG (12-lead, General, Ambulatory), Waveforms, SR (Basic/Enhanced/Comprehensive), Encapsulated PDF/CDA, RT (Image/Dose/Structure/Plan), Breast Tomosynthesis, Ophthalmic, VL (Endoscopic/Microscopic/Photographic/Whole Slide), Private SOP Classes (Siemens CSA, Philips MR, Toshiba US, GE Private). **DICOM Services:** C-STORE (SCU/SCP), C-FIND (SCU/SCP), C-MOVE (SCU/SCP), C-ECHO (SCU/SCP), Storage Commitment (SCU/SCP Push Model), MPPS (SCU/SCP), MWL (SCP/SCU), Print Management (SCU). **Query/Retrieve:** Patient Root, Study Root, Patient/Study Only. **Transfer Syntaxes:** Implicit/Explicit VR LE/BE, Deflated, JPEG (Baseline/Lossless/LS), JPEG2000 (Lossless/Lossy), RLE, MPEG2/4. **DICOMweb (experimental 8.1.x):** WADO-URI (SCU/SCP), WADO-RS/QIDO-RS/STOW-RS (experimental SCP). **Media:** CD/DVD (STD-GEN-CD), ZIP (STD-GEN-ZIP-MAIL/SEC). **Architecture:** JBoss application server, Oracle database UTF-8, Background Process Engine (BPE) for HL7/DICOM connectivity, Java thin client (Java Web Start), WADO communication for image transfer.
+
+**https://www.agfahealthcare.com/wp-content/uploads/2025/04/001679_Enterprise_Imaging_8.4.x_DICOM_Conformance_Statement-5.pdf**  
+Title: AGFA HealthCare Enterprise Imaging 8.4.x DICOM Conformance Statement | Publisher: AGFA HealthCare | Date: 2025  
+DICOM Conformance Statement for Enterprise Imaging 8.4.x (DICOM 3.0 2025 standard). **Application Entities:** Core Server AE (Display: Diagnostic/Acquisition/Clinician desktops), RESTful DICOMweb AE (WADO-RS/QIDO-RS), Core Server Print AE, Web Server AE (XERO Viewer/Workflow). **Services:** SCP for Verification, Storage, Storage Commitment, Query/Retrieve, MWL, MPPS; DICOMweb Origin Server for WADO-URI, WADO-RS, QIDO-RS; SCU for Storage, Storage Commitment, Query/Retrieve, MWL, MPPS, Print. **Transfer Syntaxes:** Same as 8.1.x plus enhanced JPEG2000, MPEG2/4 profiles. Confirms native support for 219+ SOP Classes with same modality coverage as 8.1.x.
+
+**https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=37790797**  
+Title: Enterprise Imaging - System Architecture White Paper | Publisher: AGFA HealthCare  
+7-page white paper describing Enterprise Imaging system architecture. **Architecture goals:** Modularity, serviceability, scalability, high availability, real-time responsiveness, hardware/platform independence. **Backend:** JBoss application server hosting (R)IS and imaging services via Enterprise JavaBeans (EJB), Background Process Engine (BPE) for DICOM/HL7 connectivity, Oracle database (UTF-8), DICOM/HL7 standardization internal and external, cluster mode for scalability/HA, workflow/rules engines for frontend/backend orchestration. **Frontend:** Java thin client (Java Web Start/proprietary netboot), OSGi framework (dynamic component model), JBoss remoting for client-server communication, WADO for image data transfer with optional disk cache, multi-threaded 64-bit application with event bus parallelization, volume-based image interpretation, native 3D rendering, DICOM hanging protocols for image display/manipulation. **Viewer:** XERO visualization platform (Web 2.0-based lightweight viewer).
+
+***
+
+## 4. IHE Integration Statements
+
+**https://www.agfahealthcare.com/wp-content/uploads/2025/04/001668_Enterprise_Imaging_8.3.x_IHE_Integration_Statement.pdf**  
+Title: Agfa HealthCare Enterprise Imaging 8.3.x IHE Integration Statement | Publisher: AGFA HealthCare | Date: December 14, 2023 | Document No. 001668  
+6-page IHE Integration Statement for Enterprise Imaging 8.3.x. **IHE Profiles Supported:** CATH, ECHO (Archive/Image Display), CPI (Image Display), CT (Image Display), ARI (Archive), DBT (Archive), ED (Archive/Image Display), DIFF (Archive), FUS (Archive), IOCM (Change Requester/Archive/Image Display), KIN (Archive/Image Display/Evidence Creator), MAMMO (Archive), NMI (Archive/Image Display), PDI (Archive), PERF (Archive), PIR (Archive), PIX (Consumer), PWF (Image Manager/Archive/PPS Manager), REM (Archive), RWF (Archive), SINR (Report Reader/Repository), SMI (Archive), SWF/SWF.b (Acquisition Modality/Image Display), XDS.b (Document Source/Consumer/Registry/Repository), XDS-I.b (Imaging Document Source/Consumer, compatible with external Document Repository), XCA (Initiating Gateway), XCA-I (Initiating Imaging Gateway), XDS-SD, ATNA (Secure Node/Application, Radiology audit trail option), BRTO-II (Archive), MMRO-III (Archive). Confirms broad IHE interoperability across radiology workflow, image sharing, cardiology, mammography, and nuclear medicine domains.
+
+**https://www.agfahealthcare.com/wp-content/uploads/2025/04/001685_Enterprise_Imaging_8.4.x_IHE_Integration_Statement-1.pdf**  
+Title: AGFA HealthCare Enterprise Imaging 8.4.x IHE Integration Statement | Publisher: AGFA HealthCare | Date: January 29, 2025 | Document No. 001685  
+6-page IHE Integration Statement for Enterprise Imaging 8.4.3.000 (March 2025). **IHE Profiles Added:** WIA (Workflow for Image Acquisition) - Image Display/Imaging Document Responder. **All Profiles from 8.3.x maintained** plus CXCAD, SMI, TCE, and enhanced XDS-I.b with Imaging Document Source/Document Repository. Confirms Enterprise Imaging Core Server (Radiology/Cardiology/VNA) and Web Server (XERO Viewer/Workflow) as application entities.
+
+**https://www.agfahealthcare.com/ihe/**  
+Title: IHE Integration Statements | Publisher: AGFA HealthCare | Date: 2025-06-17  
+Index page listing all available IHE Integration Statements for AGFA HealthCare products. **Enterprise Imaging versions:** 8.0.x (Doc. 001513), 8.1.x (Doc. 001532), 8.2.x (Doc. 001644), 8.3.x (Doc. 001668), 8.4.x (Doc. 001685). Also lists Enterprise Imaging CWP 8.0.x, VNA 8.0.0, and TRANSPORT Web 1.0 IHE statements. Confirms AGFA's ongoing IHE conformance documentation across all Enterprise Imaging releases.
+
+***
+
+## 5. HL7 Conformance Statements
+
+**https://www.agfahealthcare.com/hl7/**  
+Title: AGFA HealthCare - HL7 Conformance Statements | Publisher: AGFA HealthCare | Date: 2025-06-19  
+Index page listing all HL7 Conformance Statements for AGFA HealthCare products including Enterprise Imaging Portal, IMPAX Data Center, and IMPAX RIS interface versions 6.0-6.4. Provides access to HL7 Conformance Statement documents and XML/PDF Conformance Profiles for HL7 integration with RIS/HIS systems (ADT/ORM/ORU message types).
+
+**https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=81192186**  
+Title: Enterprise Imaging 8.2.2 HL7 Conformance Statement | Publisher: AGFA HealthCare | Date: February 14, 2023  
+HL7 Conformance Statement for Enterprise Imaging 8.2.2. Document confirms HL7 Services for population of Modality Worklist from RIS/HIS via ADT (patient demographics), ORM (order entry), and ORU (results) messages. Supports HL7 v2.x standards for healthcare information exchange.
+
+***
+
+## 6. Technical Specifications & Datasheets
+
+**https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=38424522**  
+Title: Image Area Productivity Design | Publisher: AGFA HealthCare  
+White paper describing Enterprise Imaging image area design. **Features:** Any image displayable in any viewport, same series with different window/level side-by-side, protocol-based display modes for enhanced reading speed/accuracy, automatic navigation linking across viewports. Highlights "NICE" user experience design philosophy with customizable hanging protocols and workflow optimizations.
+
+**https://www.agfahealthcare.com/wp-content/uploads/2023/08/Paragon-What-is-Enterprise-Imaging-Really.pdf**  
+Title: Paragon White Paper - What is Enterprise Imaging, Really? | Publisher: AGFA HealthCare/Paragon | Date: August 2023  
+White paper exploring enterprise imaging strategy and benefits. Describes EI as requiring a unified ecosystem eliminating data silos, converging image collection/storage/management/sharing into highly scalable centralized platform. Discusses TCO reduction through consolidation, flexible deployment models (cloud/on-prem), and vendor selection criteria for mature/flexible imaging IT platforms.
+
+**https://intuitionlabs.ai/software/pacsris-systems/enterprise-pacs-platforms/agfa-healthcare-enterprise-imaging**  
+Title: Agfa Healthcare Enterprise Imaging | Publisher: IntuitionLabs | Date: 2025-05-29  
+Third-party summary describing AGFA EI as unified multi-specialty medical imaging management platform (PACS/VNA) integrating with EHRs to create comprehensive Imaging Health Record (IHR). Highlights VNA for enterprise-wide DICOM/non-DICOM data archiving, seamless Epic/Cerner integration, and frictionless access across specialties/geographies. Target company size: Enterprise. Compliance: ISO 27001, ISO 9001, ISO 13485, MDSAP, HIPAA. Integrations: Epic EHR, Cerner EHR, DICOM, HL7, FHIR, third-party post-processing tools.
+
+***
+
+## 7. Deployment & Integration Documentation
+
+**https://pdfs.loadbalancer.org/AGFA_HealthCare_Enterprise_Imaging_Deployment_Brief.pdf**  
+Title: Load Balancing AGFA HealthCare Enterprise Imaging | Publisher: Loadbalancer.org  
+Deployment brief outlining configuration steps for load balanced Enterprise Imaging environment using Loadbalancer.org appliances. Covers appliance configuration, network setup, and Enterprise Imaging configuration changes required to enable high availability load balancing. Supported versions: Loadbalancer.org V8.9.1+. Confirms Enterprise Imaging designed for scalable, highly available enterprise deployments.
+
+**https://www.agfahealthcare.com/ei-cloud/**  
+Title: Enterprise Imaging Cloud | Publisher: AGFA HealthCare | Date: 2025-06-16  
+Product page describing Enterprise Imaging Cloud as bringing multiple Enterprise Imaging instances into one streamlined operational system providing "imaging without barriers." SaaS solution with seamless updates, effortless scalability, enhanced security, and better cost control. Managed service model with deployment, capacity management, performance monitoring, infrastructure security, and data protection fully managed by AGFA.
+
+**https://www.agfahealthcare.com/streaming/**  
+Title: Enterprise Imaging Streaming Client | Publisher: AGFA HealthCare | Date: 2025-04-22  
+Product page for Enterprise Imaging Streaming Client—designed to transform how radiologists work/collaborate with unprecedented freedom and efficiency. Uses native intelligent streaming technology unifying diagnostic reading and universal viewing in one application. **Features:** Blazing-fast access without downloads, high-quality imaging on compatible devices, real-time collaboration (chat/screen sharing), true zero-footprint (no downloads/installs/plugins), CPU-based rendering (no GPU servers/client-side GPUs required), dramatically reduced IT infrastructure costs, centralized configuration for remote hospitals.
+
+**https://aws.amazon.com/marketplace/pp/prodview-jfobyfdfxlhaa**  
+Title: AGFA HealthCare Enterprise Imaging Cloud - AWS Marketplace | Publisher: AWS Marketplace | Date: 2025-06-05  
+AWS Marketplace listing for Enterprise Imaging Cloud. **Pricing tiers (1-month contract):** Diagnostic ($0.01/month - full diagnostic enterprise imaging suite), VNA ($0.01/month - DICOM/non-DICOM image acquisition with universal viewing), Teleradiology ($0.01/month - PACS tailored for reading-as-a-service). Note: AWS infrastructure costs additional. Confirms cloud SaaS availability on AWS with modular pricing (diagnostic/VNA/teleradiology).
+
+***
+
+## 8. Customer Case Studies
+
+**https://www.agfahealthcare.com/customer-successes/aosta/**  
+Title: Case Study: Enterprise Imaging at Valle d'Aosta | Publisher: AGFA HealthCare | Date: 2025-04-27  
+Customer case study for Azienda USL della Valle d'Aosta (Italy). **Implementation:** Enterprise Imaging for Radiology and Nuclear Medicine, Elefante RIS, XERO Universal Viewer, servers/storage/workstations. **Go-live:** 3 months. **Highlights:** Patient focus, user-friendly interface, workflow matched logical patient flow, automated processes minimizing manual data entry, easy reporting workflow with current/prior image comparison, strong AGFA team support. **Future plans:** VNA Pillar for unique multidisciplinary imaging archive, zero-footprint viewer integrated in EMR for comprehensive patient history.
+
+**https://www.agfahealthcare.com/customer-successes/asl-roma-2/**  
+Title: Case Study: ASL Roma 2, Italy | Publisher: AGFA HealthCare | Date: 2025-06-09  
+Customer case study for ASL Roma 2 (3 hospitals, 21 outpatient clinics, 6 city districts). **Implementation:** Enterprise Imaging Platform with AI, Elefante RIS. **Benefits:** Unified sharing of images/reports across multiple sites, seamless DICOM/non-DICOM data integration, consolidation and optimization of diverse medical imaging activities, significantly enhanced diagnostic confidence/efficiency using augmented intelligence (AI). Consolidated imaging across extensive network providing high-quality patient care.
+
+**https://www.agfahealthcare.com/customer-successes/san-gerardo-hospital/**  
+Title: Case Study: San Gerardo Hospital | Publisher: AGFA HealthCare | Date: 2025-04-27  
+Customer case study for San Gerardo Hospital (Italy). **Migration:** From legacy AGFA PACS to Enterprise Imaging (2018). **Benefits:** Performance, flexibility, speed, ease of use, collaboration; 80% reports produced within 24 hours (inpatients <12 hours); emergency radiology focus on actual health issues (retrieving other images, viewing in one window, screenshots of region of interest, real-time chat); hanging protocols saving time with consistent/flexible study presentation; native/embedded clinical applications for smoother/faster radiologist work.
+
+**https://www.agfahealthcare.com/news/qeh/**  
+Title: Queen Elizabeth Hospital King's Lynn NHS Trust Go-Live | Publisher: AGFA HealthCare | Date: May 10, 2022  
+Customer announcement for QEH King's Lynn NHS Trust (UK). **Implementation:** Enterprise Imaging platform including VNA, XERO image management, RIS (2021). **Features:** Advanced 3D imaging, embedded speech/reporting, customizable features, critical result/peer learning, efficient audit trail, intuitive UI, integration with ICE Order Communications System (OCS) for electronic request channel. **Benefits:** Paper-based task reduction, digitalised workflow, scalability for future growth (single converged platform), interoperability from start, reduced future integration costs.
+
+**https://www.advisory.com/sponsored/agfa-enterprise-imaging**  
+Title: Q&A: How AGFA Healthcare is boosting efficiency with enterprise imaging | Publisher: Advisory.com | Date: 2025-11-11  
+Sponsored Q&A describing how Enterprise Imaging helps clinicians work efficiently through rapid imaging data access. Platform combines cloud-native architecture, AI-powered workflows, and blazing-fast streaming for seamless access/precision across radiology, cardiology, mammography, POCUS, and more. Redefining diagnostic imaging with connected, intelligent, adaptive ecosystem supporting current and future clinical workflows.
+
+***
+
+## 9. Contact & Sales Information
+
+**https://www.agfahealthcare.com/contact/**  
+Title: Contact AGFA HealthCare | Publisher: AGFA HealthCare | Date: 2025-02-24  
+Contact page for connecting with Enterprise Imaging experts to discuss requirements. **Headquarters:** Septestraat 27, 2640 Mortsel, Belgium, Tel: +32 3 444 2111. **North American Headquarters:** 580 Gotham Parkway, Carlstadt, NJ 07072-2405, United States, Tel: 866-599-3868. Contact form available for demo requests and inquiries.
+
+**https://www.agfahealthcare.com/worldmap/northamerica/united-states/**  
+Title: AGFA HealthCare United States | Publisher: AGFA HealthCare | Date: 2023-10-02  
+US location page listing Carlstadt Customer Care Centre (580 Gotham Parkway, NJ 07072 Carlstadt). Primary US contact point for product information, sales, and support.
+
+**https://www.agfahealthcare.com/rsna/demos/**  
+Title: RSNA On-Site Demos | Publisher: AGFA HealthCare | Date: 2025-09-05  
+RSNA demo booking page for on-site sessions to experience Enterprise Imaging technologies. Highlights AI-driven enterprise imaging unlocking full radiology potential with deep EHR/EMR integrations, advanced visualization, structured reporting, FHIRcast interoperability, embedded collaboration tools, unified patient imaging timeline. Offers live demo sessions showcasing diagnostic precision, speed, and collaborative power.
+
+**https://www.zoominfo.com/pic/agfa-healthcare-corp/1112037369**  
+Title: Agfa HealthCare: Employee Directory | Publisher: ZoomInfo | Date: 2022-12-31  
+Corporate directory listing AGFA HealthCare corporate office: 10 S Academy St, Greenville, South Carolina 29601, United States. Phone: (864) 421-1600. Website: www.agfahealthcare.com. 8,985 employees globally (554 in North America). Departments: Engineering (279), IT (209), Sales (131), Operations (125), Finance (46), Medical/Health (32), Marketing (28).
+
+***
+
+## 10. Modality-Specific & Advanced Features
+
+**https://www.agfahealthcare.com/breast-imaging/**  
+Title: Breast Imaging | Publisher: AGFA HealthCare | Date: 2023-10-02  
+Breast imaging product page stating support for 2D and 3D (DBT - Digital Breast Tomosynthesis) mammography powered by AI, with CE and FDA clearance. Features: CAD support for 2D mammography, enhanced clinical decision support tools with evidence-based pixel intelligence, interactive decision support tool embedded in Enterprise Imaging desktop, workflow/worklist automation based on abnormality scores. Confirms FDA-cleared mammography support with tomosynthesis and AI integration.
+
+**https://www.agfahealthcare.com/transition-to-enterprise-imaging/**  
+Title: Transition to Enterprise Imaging for Radiology | Publisher: AGFA HealthCare | Date: 2025-04-22  
+Product page describing transition path for existing customers from legacy PACS to Enterprise Imaging for Radiology. Highlights consolidated platform with PACS, advanced processing, reporting, clinical apps, teleworking, collaboration, analytics in single sophisticated platform. Workflow engine and intuitive use help radiologists "get into the flow" for optimal productivity.
+
+**https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=83154606**  
+Title: AGFA HealthCare Enterprise Imaging 8.4.x IHE Integration Statement | Publisher: AGFA HealthCare | Document: 001685  
+(Already covered above - IHE Integration Statement 8.4.x with comprehensive IHE profile support including cardiology (CATH, ECHO), mammography (MAMMO, DBT), nuclear medicine (NMI), radiation oncology (BRTO-II, MMRO-III), and enterprise image sharing (XDS, XCA).)
+
+***
+
+## 11. User Documentation & Knowledge Base
+
+**https://radres.ucsd.edu/documents/Residency%20resources/AGFA%20user%20manual.pdf**  
+Title: AGFA Enterprise Imaging platform user manual | Publisher: UCSD Radiology Resources  
+User manual PDF for AGFA Enterprise Imaging platform covering: Getting started (login, PowerScribe integration), Activity sidebar (task lists, reading task selection, started/completed studies, teaching files), Navigation toolbar, Workflow (reading studies, dictation, start reading/list, profile customization). Practical guide for radiologists using Enterprise Imaging desktops with task-based workflows, PowerScribe integration, and study management.
+
+**http://www.agfa.com/he/global/en/internet/main/resources/blp/user_doc.jsp**  
+Title: Diagnostic Imaging User Documentation | Publisher: AGFA HealthCare  
+User documentation library containing user manuals and safety instructions for operation of Diagnostic Imaging products including Enterprise Imaging. Access point for official product documentation (requires login for full access).
+
+**https://knowledgebase-healthcare-ex.agfa.net/library/IITS/Enterprise_Imaging/Desktops/Desktops_8_1_4/axk1425415129217/en-us/webhelp/nxn1612526597012.html**  
+Title: Logging in to Enterprise Imaging desktops | Publisher: AGFA HealthCare Knowledge Base  
+Online help documentation for Enterprise Imaging 8.1.4 desktops covering login procedures, username/password requirements, desktop profiles, and license requirements. States 32-bit Windows operating systems no longer supported. Confirms Enterprise Imaging desktops require valid credentials, permissions, and desktop profiles for access.
+
+***
+
+## 12. Version History & Release Information
+
+**https://www.auntminnie.com/imaging-informatics/enterprise-imaging/pacs-vna/article/15615936/agfa-debuts-new-enterprise-imaging-release**  
+Title: Agfa debuts new Enterprise Imaging release | Publisher: AuntMinnie.com | Date: October 17, 2016  
+News article announcing Enterprise Imaging release with support for academic, multisite, radiology, and additional specialty workflows. New modules for research/training programs including browser-based virtual conferences on XERO viewer, remote viewing of live OR cases with real-time audio/video consultation (via Orpheus Medical), extended VNA with intelligent prefetching/prior retrieval, multi-hospital query with single request, dentistry/ophthalmology extensions, Business Intelligence software for analytics/predictive views.
+
+**https://www.agfahealthcare.com/worldmap/northamerica/canada/waterloo/**  
+Title: Canada - Waterloo R&D Centre | Publisher: AGFA HealthCare | Date: 2023-10-02  
+Location page for AGFA HealthCare Waterloo R&D Centre (375 Hagey Boulevard, Waterloo, ON N2L 6R5, Canada, +1 519 746 2900). Primary R&D facility for Enterprise Imaging development in North America.
+
+***
+
+## 13. Additional Technical Resources
+
+**https://www.agfahealthcare.com/wp-content/uploads/2025/04/001659_Enterprise_Imaging_8.2.2_FHIR_Conformance_Statement.pdf**  
+Title: Enterprise Imaging 8.2.2 FHIR Conformance Statement | Publisher: AGFA HealthCare | Date: March 14, 2023 | Document: 001659  
+FHIR Conformance Statement for Enterprise Imaging 8.2.2 (Technology Preview). Describes FHIR capabilities of Enterprise Imaging 8.2.2. Note: Some profiles/extensions/parameters may be deprecated without notice in future versions. Confirms FHIR API support for healthcare interoperability (experimental/evolving in 8.2.x).
+
+**https://www.agfahealthcare.com/regulatory-compliance/**  
+Title: Regulatory Compliance | Publisher: AGFA HealthCare | Date: 2025-06-11  
+Regulatory compliance page covering European Medical Device Regulation (MDR), certifications, and other regulatory certifications. Confirms AGFA's commitment to compliance with global medical device regulations and quality standards.
+
+**https://www.agfahealthcare.com/news/connectathon-2024/**  
+Title: IHE Connectathon Seal 2024 | Publisher: AGFA HealthCare | Date: September 24, 2024  
+News announcement that in 2024, IHE introduced prestigious "Connectathon Seal" and AGFA HealthCare achieved recognition. Links to full list of IHE profiles and actors supported by AGFA HealthCare solutions, demonstrating ongoing commitment to IHE interoperability testing and certification.
+
+**https://www.agfa.com/corporate/news-item/agfa-healthcare-among-the-first-to-receive-new-european-medical-device-regulation-certification/**  
+Title: Agfa HealthCare among the first to receive new European Medical Device Regulation certification | Publisher: AGFA HealthCare  
+Corporate news stating AGFA HealthCare among first to receive new MDR CE marking, confirming compliance with highest standards required by care providers under European Medical Device Regulation.
+
+***
+
+## 14. Competitive Analysis & Market Position
+
+**https://www.reddit.com/r/PACSAdmin/comments/1mtmcik/agfa_ei_experience/**  
+Title: AGFA EI experience? | Publisher: Reddit r/PACSAdmin | Date: 2025-08-18  
+Community discussion stating AGFA has advanced since IMPAX days. Enterprise Imaging (EI) platform has more contemporary design; KLAS ratings indicate resolution of stability/workflow issues from previous IMPAX 6.x systems. EI aims to function as comprehensive enterprise solution encompassing PACS, VNA, visualization, and AI features. Reflects positive market perception of EI versus legacy IMPAX.
+
+**https://klasresearch.com/review/agfa-healthcare-impax-global/1486**  
+Title: AGFA HealthCare IMPAX (Global) - Reviews, Rating | Publisher: KLAS Research  
+KLAS review page mentioning customers wanting to upgrade from IMPAX to Enterprise Imaging when funding available. Confirms Enterprise Imaging as strategic successor product to IMPAX with customer interest in migration.
+
+**https://healthmanagement.org/c/imaging/PressRelease/agfa-healthcare-receives-fda-510-k-clearance-for-xero-r**  
+Title: Agfa HealthCare Receives FDA 510(k) Clearance for XERO | Publisher: HealthManagement.org  
+Press release summary confirming FDA 510(k) clearance for XERO with "Full Fidelity View" enabling retrieval of original renditions of stored CR, DX, CT, MR images for diagnostic use. Reinforces FDA-cleared diagnostic viewer status.
+
+***
+
+## 15. Summary of Key Findings
+
+**Product Category:** Enterprise PACS/Universal Viewer/Cloud PACS/Advanced Visualization Workstation/VNA  
+**Official Name:** AGFA HealthCare Enterprise Imaging (AGFA EI)  
+**Components:** Core Server (Diagnostic/Acquisition/Clinician desktops), XERO Viewer (zero-footprint web viewer), XERO Full Fidelity (FDA-cleared diagnostic viewer), Enterprise Imaging Cloud (SaaS), RUBEE Orchestrator (workflow engine), Federated Cross-Enterprise Worklist  
+**Successor to:** IMPAX PACS (30-year legacy product)
+
+**FDA Status:**  
+- FDA 510(k) Cleared: K170434 (XERO Viewer 8.1, July 2017), K252199 (Enterprise Imaging, October 2025)  
+- Device Class: II, 21 CFR 892.2050 (PACS), Product Code LLZ  
+- Indications: Reference and diagnostic viewing of multi-specialty medical imaging/non-imaging data with reports/documents  
+- Limitations: Lossy compressed mammography and digitized film not for primary interpretation; FDA-cleared monitors required for mammography primary interpretation
+
+**Modalities Supported (Explicit FDA/DICOM Conformance):**  
+CR, DX, MG (2D/DBT), IO, CT, MR, US, XA, XRF, PET, NM, SC, ECG, Waveforms, VL (Endoscopic/Microscopic/Photographic), Ophthalmic, RT, SR, Encapsulated documents
+
+**DICOM Services:**  
+SCU/SCP: C-STORE, C-FIND, C-MOVE, C-ECHO, Storage Commitment (Push Model), MPPS, MWL, Print Management  
+Query Models: Patient Root, Study Root, Patient/Study Only  
+DICOMweb: WADO-URI (production), WADO-RS/QIDO-RS/STOW-RS (8.4.x)  
+Transfer Syntaxes: JPEG (Baseline/Lossless/LS), JPEG2000, RLE, MPEG2/4, uncompressed  
+SOP Classes: 219+ (including private SOP Classes from Siemens, Philips, GE, Toshiba)
+
+**IHE Profiles (8.4.x):**  
+Radiology: SWF, CPI, PIR, PWF, REM, KIN, ED, IOCM  
+Cardiology: CATH, ECHO  
+Mammography: MAMMO, DBT  
+Nuclear Medicine: NMI, DIFF, PERF  
+Image Sharing: XDS.b, XDS-I.b, XCA, XCA-I, XDS-SD, ATNA  
+Other: PIX, PDQ, SINR, ARI, FUS, RWF, SMI, CXCAD, TCE, BRTO-II, MMRO-III, WIA
+
+**Architecture:**  
+Backend: JBoss application server, Oracle database (UTF-8), Background Process Engine (BPE) for DICOM/HL7  
+Frontend: Java thin client (Java Web Start), XERO web viewer (HTML5/zero-footprint), OSGi framework  
+Deployment: On-prem, cloud (AWS), hybrid, SaaS (Enterprise Imaging Cloud)  
+HA/Scalability: Cluster mode, load balancing supported, shared queues  
+Integration: Epic/Cerner EHR (FHIRcast), HL7 v2.x (ADT/ORM/ORU), FHIR (8.2.x+ experimental)
+
+**Contact:**  
+North America HQ: 580 Gotham Parkway, Carlstadt, NJ 07072, USA | Tel: 866-599-3868  
+Global HQ: Septestraat 27, 2640 Mortsel, Belgium | Tel: +32 3 444 2111  
+Website: www.agfahealthcare.com/contact
+
+[1](https://www.agfahealthcare.com/enterprise-imaging-platform/)
+[2](https://www.agfahealthcare.com/news/qeh/)
+[3](https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=53821200)
+[4](https://www.agfahealthcare.com/radiology/)
+[5](https://www.evolucare.com/fr/transformer-limagerie-medicale-en-france-avec-agfa-healthcare/)
+[6](https://www.agfahealthcare.com/wp-content/uploads/2024/10/AGFA_HealthCare_Enterprise_Imaging_-_Brochure.pdf)
+[7](https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=37790797)
+[8](https://physicians.nshealth.ca/news/update-new-enterprise-imaging-solution)
+[9](https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=38424522)
+[10](https://www.agfa.com/he/global/en/internet/image_management/enterprise_imaging/)
+[11](https://www.evolucare.com/en/evolucare-and-agfa-healthcare-transform-medical-imaging-in-france/)
+[12](https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=81709056)
+[13](https://www.agfahealthcare.com)
+[14](https://klasresearch.com/review/agfa-healthcare-impax-global/1486)
+[15](https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=79390343)
+[16](https://www.evolucare.com/en/evolucare-agfa-partnership/)
+[17](https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=50671545)
+[18](https://www.agfahealthcare.com/wp-content/uploads/2025/04/001665_Enterprise_Imaging_8.3.x_FHIR_Conformance_Statement.pdf)
+[19](http://www.agfa.com/he/france/fr/internet/main/products_services/enterprise_imaging/index.jsp)
+[20](https://www.canhealth.com/2024/06/27/upgraded-pacs-in-nwt-allows-clinicians-to-share-images-more-easily/)
+[21](https://www.accessdata.fda.gov/cdrh_docs/pdf17/K170434.pdf)
+[22](https://www.accessdata.fda.gov/cdrh_docs/pdf7/K071297.pdf)
+[23](https://www.auntminnie.com/imaging-informatics/enterprise-imaging/pacs-vna/article/15569053/agfa-pacs-ris-gateway-get-air-force-ok)
+[24](https://www.auntminnie.com/imaging-informatics/enterprise-imaging/article/15676481/carplai-fda-grants-carplai-510k-for-enterprise-imaging-ai-platform)
+[25](https://theimagingwire.com/news/philips-pacs-vulnerable-agfa-canon-clear-fda-item-heads-up/)
+[26](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K252199)
+[27](https://intuitionlabs.ai/software/pacsris-systems/enterprise-pacs-platforms/agfa-healthcare-enterprise-imaging)
+[28](https://www.healthcareitnews.com/news/ai-transforming-imaging-fda-approvals-continuing-apace)
+[29](https://www.agfahealthcare.com/xero-xtend-full-fidelity/)
+[30](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRes/res.cfm?id=167192)
+[31](https://www.agfa.com/corporate/news-item/the-agfa-gevaert-group-in-q3-2022-regulated-information/)
+[32](https://www.itnonline.com/content/agfa-receives-fda-510k-xtend-functionalities-xero-universal-viewer)
+[33](https://www.agfahealthcare.com/transition-to-enterprise-imaging/)
+[34](https://www.agfahealthcare.com/regulatory-compliance/)
+[35](https://www.prnewswire.com/news-releases/agfa-healthcare-receives-fda-510k-clearance-for-advanced-clinical-applications-on-xero-universal-viewer-300495227.html)
+[36](https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=81490831)
+[37](https://www.agfa.com/corporate/news-item/agfa-healthcare-among-the-first-to-receive-new-european-medical-device-regulation-certification-for-its-class-iia-solutions/)
+[38](https://medimaging.net/imaging-it/articles/294770410/enterprise-imaging-viewer-receives-clearance-for-additional-apps.html)
+[39](https://knowledgebase-healthcare-ex.agfa.net/library/IITS/Enterprise_Imaging/Desktops/Desktops_8_1_4/axk1425415129217/en-us/webhelp/axk1425412988102.html)
+[40](https://radres.ucsd.edu/documents/Residency%20resources/AGFA%20user%20manual.pdf)
+[41](https://www.agfahealthcare.com/customer-successes/aosta/)
+[42](https://pdfs.loadbalancer.org/AGFA_HealthCare_Enterprise_Imaging_Deployment_Brief.pdf)
+[43](https://www.agfahealthcare.com/customer-successes/asl-roma-2/)
+[44](https://www.agfahealthcare.com/wp-content/uploads/2025/04/001679_Enterprise_Imaging_8.4.x_DICOM_Conformance_Statement-5.pdf)
+[45](https://www.agfahealthcare.com/customer-successes/san-gerardo-hospital/)
+[46](https://www.advisory.com/sponsored/agfa-enterprise-imaging)
+[47](http://www.agfa.com/he/global/en/internet/main/resources/blp/user_doc.jsp)
+[48](https://cass.co.nz/storage/Agfa%20-%20EI%20for%20Radiologists.pdf)
+[49](https://www.slideshare.net/slideshow/enterprise-imaging-case-study/73715307)
+[50](https://agfaradiologysolutions.com/user-documentation/)
+[51](https://www.dicardiology.com/content/agfa-healthcare-displaying-enhanced-enterprise-imaging-solutions-himss15)
+[52](https://knowledgebase-healthcare-ex.agfa.net/library/IITS/Enterprise_Imaging/Desktops/Desktops_8_1_4/axk1425415129217/en-us/webhelp/bhg1612526594710.html)
+[53](https://www.scribd.com/document/602808897/CR-12-X-English-datasheet)
+[54](https://aws.amazon.com/marketplace/pp/prodview-jfobyfdfxlhaa)
+[55](https://www.auntminnie.com/imaging-informatics/enterprise-imaging/pacs-vna/article/15615936/agfa-debuts-new-enterprise-imaging-release)
+[56](https://www.agfahealthcare.com/contact/)
+[57](https://www.medaxiom.com/clientuploads/Corporate%20Partners/Agfa/Driving_Lower_Total_Cost_of_Ownersip_for_Healthcare_Provider_Organizations.pdf)
+[58](https://www.reddit.com/r/PACSAdmin/comments/1mtmcik/agfa_ei_experience/)
+[59](https://www.agfahealthcare.com/rsna/demos/)
+[60](https://intuitionlabs.ai/software/pdfs/agfa-healthcare-enterprise-imaging.pdf)
+[61](https://www.agfa.com/corporate/news-item/agfa-healthcare-secures-major-new-deal-with-alliance-medical-for-a-comprehensive-cloud-based-enterprise-imaging-solution-across-the-uk/)
+[62](https://www.agfahealthcare.com/streaming/)
+[63](https://www.taloflow.ai/guides/comparisons/agfaimaging-vs-leicabiodigitalpathology-medical-imaging)
+[64](http://www.agfa.com/he/global/en/internet/main/resources/literature/enterprise_imaging_downloads.jsp)
+[65](https://www.edgenexus.io/applications/load-balance-agfa-enterprise-imaging/)
+[66](https://www.agfa.com)
+[67](https://www.sugarcrm.com/customers/case-studies/agfa/)
+[68](https://www.auntminnie.com/imaging-informatics/enterprise-imaging/pacs-vna/article/15569439/agfa-posts-small-healthcare-dip-divests-consumer-imaging-unit)
+[69](https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=54472549)
+[70](https://www.agfahealthcare.com/breast-imaging/)
+[71](https://www.agfahealthcare.com/wp-content/uploads/2025/04/001668_Enterprise_Imaging_8.3.x_IHE_Integration_Statement.pdf)
+[72](https://www.itnonline.com/content/fda-clears-agfas-xero-viewer-full-fidelity-view)
+[73](https://www.dicardiology.com/product/fda-clears-agfas-xero-viewer-full-fidelity-view)
+[74](https://fr.medicaldevices.icij.org/devices/col-impax-pacs-and-ris-agfa)
+[75](https://www.auntminnie.com/imaging-informatics/enterprise-imaging/pacs-vna/article/15612551/fda-clears-agfas-xero-mobile-image-viewer)
+[76](https://radiologybusiness.com/topics/health-it/enterprise-imaging/fda-clears-agfas-xero-viewer-diagnostic-reads)
+[77](https://knowledgebase-healthcare-ex.agfa.net/library/IITS/Enterprise_Imaging/Desktops/Desktops_8_1_4/axk1425415129217/en-us/webhelp/axk1425414915803.html)
+[78](https://healthmanagement.org/c/imaging/PressRelease/agfa-healthcare-receives-fda-510-k-clearance-for-xero-r)
+[79](https://radiologybusiness.com/topics/health-it/enterprise-imaging/imaging-informatics/agfa-healthcare-receives-fda-510k-clearance)
+[80](https://www.agfahealthcare.com/hl7/)
+[81](https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=81192186)
+[82](https://knowledgebase-healthcare-ex.agfa.net/library/IITS/Enterprise_Imaging/Desktops/Desktops_8_1_4/axk1425415129217/en-us/webhelp/nxn1612526597012.html)
+[83](https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=37792878)
+[84](https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=69750221)
+[85](https://support.hyland.com/r/OnBase/Installation-Requirements/Foundation-23.1/Installation-Requirements/Integration-for-Medical-Imaging-Viewer-Agfa)
+[86](https://www.agfahealthcare.com/wp-content/uploads/2023/08/Paragon-What-is-Enterprise-Imaging-Really.pdf)
+[87](https://www.agfahealthcare.com/ei-cloud/)
+[88](http://www.agfa.com/he/global/en/internet/main/products_services/product-info/interoperability/hl7/index.jsp)
+[89](https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=81940483)
+[90](https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=37792466)
+[91](https://docs.progress.com/bundle/loadmaster-deployment-guide-agfa-ga/page/Introduction.html)
+[92](https://www.scribd.com/document/845644258/AGFA-HealthCare-Enterprise-Imaging-Brochure)
+[93](https://www.scribd.com/document/636501564/Untitled)
+[94](https://www.ihe-europe.net/sites/default/files/Imaging%20Reportv1.pdf)
+[95](https://www.agfahealthcare.com/wp-content/uploads/2025/04/001644_Enterprise_Imaging_8.2.x_IHE_Integration_Statement.pdf)
+[96](https://www.agfa.com/printing/global/usa/customer-care/)
+[97](https://www.agfa.com/he/global/en/internet/he/library/libraryopen?ID=49771363)
+[98](https://www.agfahealthcare.com/wp-content/uploads/2025/04/001659_Enterprise_Imaging_8.2.2_FHIR_Conformance_Statement.pdf)
+[99](https://www.zoominfo.com/pic/agfa-healthcare-corp/1112037369)
+[100](https://www.agfahealthcare.com/ihe/)
+[101](https://www.agfa.com/printing/worldwide/north-south-america/canada/canada/)
+[102](https://www.agfahealthcare.com/wp-content/uploads/2025/04/001685_Enterprise_Imaging_8.4.x_IHE_Integration_Statement-1.pdf)
+[103](https://www.agfahealthcare.com/worldmap/northamerica/united-states/)
+[104](https://www.agfahealthcare.com/news/connectathon-2024/)
+[105](https://www.agfahealthcare.com/worldmap/northamerica/canada/waterloo/)
+[106](https://agfaradiologysolutions.com/addresses/)
+
+
+
